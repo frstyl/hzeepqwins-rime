@@ -56,7 +56,7 @@ use_preset_vocabulary: true
 脎	soas		#osazone
 脲	neevs			#urea carbamide 尿
 胍	kfaq		#gUanidine
-胍	gVoq
+# 胍	gVoq
 胺	Aoanq		#amine 同氨 不異讀
 胺	Aoans
 膦	ljinq		#phosphine
@@ -85,7 +85,7 @@ use_preset_vocabulary: true
 ⿰金西	so,jq
 𲇊	so,jq
 錆	tsheeCq
-鉘	pu;tq
+鉘	pU;tq
 # 錄	liokq
 𲇙	Hiuvs
 ⿰金臭	Hiuvs
@@ -104,7 +104,7 @@ use_preset_vocabulary: true
 吡	bjitq
 啶	deeCs
 嘧	mxitq
-喹	khYeq
+喹	khYejq
 啉	ljimq
 唑	dzVas
 嗪	dzjinq
@@ -124,8 +124,8 @@ use_preset_vocabulary: true
 氧硫硒碲釙鉝	tsJuoA dzouk
 氟氯溴碘砹鿬	tsJuoA dzouk
 氦氖氬氪氙氡鿫	tsJuoA dzouk
-鑭鈰鐠釹鉕釤銪釓鋱鏑鈥鉺銩鐿鑥	loanq Eees
-錒釷鏷鈾錼鈈鎇鋦錇鐦鎄鐨鍆鍩鐒	Aoaq Eees
+鑭鈰鐠釹鉕釤銪釓鋱鏑鈥鉺銩鐿鑥	loanq Eeejs
+錒釷鏷鈾錼鈈鎇鋦錇鐦鎄鐨鍆鍩鐒	Aoaq Eeejs
 ##
 氫	khjeCq		#H 1 hydrogen
 ⿹气水	khjeCq
@@ -144,7 +144,7 @@ use_preset_vocabulary: true
 氮	doams		#N 7 nitrogenium azote 
 氧	JiaCA		#O oxygen
 氱	JiaCA
-氟	pu;tq		#F fluorine
+氟	pU;tq		#F fluorine
 氖	no,jA		#Ne neon
 氝	noojs
 鈉	no,pq
@@ -251,7 +251,7 @@ use_preset_vocabulary: true
 鐦	kho,jq		#Cf 98 californium
 鑀	Ao,js		#Es 99einsteinium
 鎄	Ao,jq
-鐨	phu;js		#Fm 100fermium
+鐨	phU;js		#Fm 100fermium
 鍆	moonq		#Md 101 mendelevqium
 鍩	noakq		#No 102 nobelium
 鐒	loavq		#Lr 103 lavArenJium 103
@@ -281,8 +281,8 @@ use_preset_vocabulary: true
 鿱𪻕	
 旮旯	kaokq
 𠁣𠃛	moonq
-坷垃	khaq lo,pq
-坷垃	kh;q lo,pq		#借詞 ə
+坷垃	khoaq lo,pq
+坷垃	kho;q lo,pq		#借詞 ə
 坷垃	khferq		#凷
 垃圾	lo,pq so,pq
 拉颯	lo,pq so,pq
@@ -291,8 +291,8 @@ use_preset_vocabulary: true
 # 疙瘩	ko;tq toapq
 疙禿	
 疙瘩	keetq
-処	kta
-佧佤	khaA VaA
+# 結	kta
+佧佤
 傢俬	kaaq sjiq
 骯髒	khoaCA tsoaCA		#高亢
 骯𩪎	khoaCA moaCA		#體胖
@@ -310,9 +310,7 @@ use_preset_vocabulary: true
 𰛄	phaes		#派?
 𰛅	lo,js		#瀨?
 炸	tsRaas		#灹+煠
-齉	naCs
 玍	koaA
-𫜶	tanq
 # 𣖍	tsootq		#稡䄶
 # 𣛓	bootq		#䄶
 𣖍𣛓	tsootq bootq
@@ -320,7 +318,7 @@ use_preset_vocabulary: true
 猓玀	kVaA lVaA
 狇	mous
 𤝂	mous
-彁	kaq		#无意義
+彁	koaq		#无意義
 錿	HooA
 𣬠𣬶	keejq paaq
 傈僳	ljitq siokq
@@ -328,9 +326,9 @@ use_preset_vocabulary: true
 鿼鿻	kaaq pos
 #######借䛐
 𬻀	booq soat		#菩薩
-𬻀	bonAhisatqtVa
+# 𬻀	bodhisattva
 𢌽	neetq bVan
-𢌽	nirVanqa
+# 𢌽	nirvana
 鿖	christ
 鿖	khrirq
 #######會意
@@ -339,7 +337,7 @@ use_preset_vocabulary: true
 𱍛	piuq Eo,pq
 𱍤	piuq dzJjeA
 𱏤	piuq kVaCq
-𱰸	piuq Au;js
+𱰸	piuq AU;js
 𱷣	piuq ljipq
 𡀆	piuq Ei;A
 𰴪	piuq CIanq
@@ -369,7 +367,7 @@ use_preset_vocabulary: true
 歪	piuq tsJjeCs
 奀	piuq doarq
 𪱱	moukq EaaA
-𮗙	keens ku;jA
+𮗙	keens kU;jA
 𭂴	piuCq lioA
 颪	EaaA piuCq
 𭂳	EaaA piuCq
@@ -381,7 +379,7 @@ use_preset_vocabulary: true
 鿿	puoA moojq
 𡗀	toaq tsJjaA		#四庫人名用字咸平六年李繼遷寇洪德砦蕃官癿𡗀慶擊走之
 𱁬	doojA do;pq
-𣍲	CqooA Cuat nRioA
+𣍲	CqooA CUat nRioA
 𠧗	dzJiaCA EaaA
 𪸃	tshjeCq khi;js
 𬒭	dzJjenq Sxiq		#禪師
@@ -409,14 +407,14 @@ use_preset_vocabulary: true
 鿣	Jjaq kho;kq
 鿤	Jjaq kaakq
 鿥	loaCq nJjeA
-鿦	AraCq mu;jq
+鿦	AraCq mU;jq
 鿧	liuCq nJjeA
 鿨	loojq nJjeA
 鿩	looA nJjeA
-瓩	tshenq CqfaA
-兛	tshenq kho;kq
-粁	tshenq meiA
-竏	tshenq
+瓩	tsheenq CqfaA
+兛	tsheenq kho;kq
+粁	tsheenq meiA
+竏	tsheenq
 𫦥	kaajq Ajitq
 𫦤	li;kq Ajitq
 𫡷	paakq Aaas
@@ -440,20 +438,23 @@ use_preset_vocabulary: true
 的	t;
 旳	t;
 哉	ts;
-昰	taA
 伱	n;jA
-這	taA	9		#者遮
-这	taA	0
-若	nas
+昰	deA
+是	deA
+這	deA	9		#者遮
+这	deA	0
+若	na
+# 那	nas	9
 邪	la
 已	l;
+了	l;	9
 乎	Ha
 𠮱	EVa
 矣	q;
 兮	Hejq
 嗚	Aa
-嗚呼	Aa ha
-烏乎	Aa ha
+# 嗚呼	Aa ha
+# 烏乎	Aa ha
 噫	A;
 #欲	Ajevs
 ###古
@@ -462,7 +463,7 @@ use_preset_vocabulary: true
 #母	moA		#牡媽
 # 母	m;A
 #牡	moA
-ǀ;	ts;
+ǀə	ts;
 ####近
 ##
 ##
@@ -472,7 +473,7 @@ use_preset_vocabulary: true
 𠍲	gioq
 們	mV;nq
 # 麼	m;q
-什麼	dzJjeA Eoat mu;t
+什麼	dzJjeA Eoat mU;t
 什麼	Eoatq
 輩	mV;n
 瞞	mV;nq
@@ -507,7 +508,6 @@ use_preset_vocabulary: true
 咍	Ho,jq
 喏	nJjaA		#𠰒
 呔	to,jq
-了	l;
 # 媽	moa
 # 嗎	moa
 怎	tso;mA
@@ -539,7 +539,7 @@ use_preset_vocabulary: true
 氮	doams		#n 7 nitrogenium azote 
 氧	JiaCA		#O xygen
 氱	JiaCA
-氟	pu;tq		#F fluorine
+氟	pU;tq		#F fluorine
 氖	no,jA		#ne neon
 氝	noojs
 氯	liokq
@@ -557,6 +557,7 @@ use_preset_vocabulary: true
 ###丨
 ###屮
 ###艸
+𦬇	moaCA
 莰	kho,mA
 蒈	khaeq
 # 苷	koamq
@@ -593,7 +594,7 @@ use_preset_vocabulary: true
 哧	tshJi;		#嗤𣢑
 嗯	Co,nq
 咱	tsoatq
-咱	dzaq		#兹沙切 中州音韻
+咱	tsoaq		#兹沙切 中州音韻
 哎	Coarq
 嗨	Ho,jq
 咍	Ho,jq
@@ -620,6 +621,7 @@ use_preset_vocabulary: true
 ###牙
 𬌗	Eo,pq
 ###足
+趴	phaaq
 蹾	toonq
 踮	teemA
 ###疋
@@ -702,6 +704,7 @@ use_preset_vocabulary: true
 ###四
 𬙙	lo;Cq
 ###鼻
+齉	niaCs
 ###白百
 ###皕
 ###習
@@ -733,9 +736,14 @@ use_preset_vocabulary: true
 ###𣦼
 ###歺
 ###死𣦸
+𣩭	moot
+𣨀	lVans
+𣩭	dzRaajs		#五音集韵 皆佳夬 又音没亂
+𣨀	sRaajA
 ###冎
 ###骨
 ###肉
+𫜶	toanq
 腺	sjens
 胩	khaaA
 肽	thoarq
@@ -757,7 +765,7 @@ use_preset_vocabulary: true
 膦	ljins
 胂	sJjinq		#arsine
 胂	sJjins
-䏲	theiq
+䏲	theejq
 ###筋
 ###刀
 ###刃
@@ -955,7 +963,7 @@ use_preset_vocabulary: true
 傣	to,jA
 傈	ljitq
 僳	siokq
-佧	khaA
+佧	khoaA		#?
 佤	CfaA
 佤	qVaA
 ##人行
@@ -969,7 +977,7 @@ use_preset_vocabulary: true
 嬤	mVaA
 嫲	mVaq		#𡡉
 㚻	keejq		#雞
-㚻	sJevs		#少
+㚻	sJjevs		#少
 ##匕
 ###𠤎
 ###匕
@@ -995,6 +1003,7 @@ use_preset_vocabulary: true
 𣬷	paaq
 ###毳
 ###尸
+𤆵	phaaq
 㞎	paaA
 屙	Aoaq		#涹
 ###尺
@@ -1053,6 +1062,10 @@ use_preset_vocabulary: true
 ###丸
 ###危
 ###石
+碴	dzSaaq		#渣沮
+碴	tsSaaq
+砼	dzyenq		#㒰 conJrete
+砼	douCq
 硼	bo;Cq		#b boracium
 碳	thoans		#C 6 carbonium
 矽	zjekq
@@ -1172,7 +1185,7 @@ use_preset_vocabulary: true
 𱍛	piuq Eo,p
 𱍤	piuq dzJjeA
 𱏤	piuq kVaC
-𱰸	piuq Au;js
+𱰸	piuq AU;js
 𱷣	piuq ljip
 𡀆	piuq hi;A
 𰴪	piuq CIan
@@ -1229,8 +1242,8 @@ use_preset_vocabulary: true
 ###女
 姥	loavA		#嫽
 ##母
-乸	naA		#毑
-𱥜	naA
+乸	tsIaA		#毑
+𱥜	tsIaA
 ###毋
 ###民
 ###丿乀
@@ -1238,6 +1251,7 @@ use_preset_vocabulary: true
 ##弋
 甙	do,js		#代𤮼
 ###乁
+厾	tookq		#1		#𧰵 #竹角切
 ###氏
 ###氐
 ###戈
@@ -1380,7 +1394,7 @@ use_preset_vocabulary: true
 鐦	kho,jq		#Cf 98 californium
 鑀	Ao,js		#Es 99einsteinium
 鎄	Ao,jq
-鐨	phu;js		#Fm 100fermium
+鐨	phU;js		#Fm 100fermium
 鍆	moonq		#Md 101 mendelevium
 鍩	noakq		#No 102 nobelium
 鐒	loavq		#Lr 103 lawrencium 103
@@ -1414,7 +1428,7 @@ use_preset_vocabulary: true
 ⿰金西	so,jq
 𲇊	so,jq
 錆	tsheeCq
-鉘	pu;tq
+鉘	pU;tq
 # 錄	liokq
 𲇙	Hiuvs
 ⿰金臭	Hiuvs
