@@ -1400,8 +1400,8 @@ preset_keyboards:
     - {click: r, long_click: "=", swipe_up: "=", swipe_down: "≠"}
     - {click: t, long_click: "|", swipe_up: "|"}
     - {click: y, long_click: "\\", swipe_up: "\\"}
-    - {click: u, long_click: "[", swipe_up: "[", swipe_down: "「"}
-    - {click: i, long_click: "]", swipe_up: "]", swipe_down: "」"}
+    - {click: u, long_click: "[", swipe_up: "[", swipe_down: "｢"}
+    - {click: i, long_click: "]", swipe_up: "]", swipe_down: "｣"}
     - {click: o, long_click: "{", swipe_up: "{"}
     - {click: p, long_click: "}", swipe_up: "}"}
     - {width: 5}
