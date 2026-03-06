@@ -37,28 +37,42 @@ use_preset_vocabulary: true
 ∎	pjitq
 ∏	tsjekq
 ∐	Jioq tsjekq
-∑	go;pq
+∑	Eo;pq
 −	ka;mA
+∖	ka;mA		#setminus
 ∓	bu;A tsJjeCs
 ∔	tsJjeCs bu;A
-∕	dRioq
+∕	dRioq		#除
+÷	dRioq		#
 ∖	tshSaajq
 ∗	zJi;Cq
 ∘	zJi;Cq
 ∙	zJi;Cq
 √	ko;nq
-∛	soamq tshjis ko;nq
-∜	sjis tshjis ko;nq
+∛	ko;nq
+∜	ko;nq
 ∝	pjiA
 ∞	muoq giuCq
 ∠	kaokq
+∧	Jioh
+∨	EV;k
 ∧	tshjaA
 ∨	Ai;kq
 ∩	kaevq	999
 ∪	pjeCs	999
 ∫	tsjekq
 ∫	tsjekq pU;nq
+∬	tsjekq pU;nq
+∭	tsjekq pU;nq
+∮	tsjekq pU;nq
+∯	tsjekq pU;nq
+∰	tsjekq pU;nq
+∱	tsjekq pU;nq
+∲	tsjekq pU;nq
+∳	tsjekq pU;nq
 # =	to;CA
+≡	to;CA
+≣	to;CA
 ≠	p; to;CA
 ⊦	tVans
 ⊦	tsJi;Cs
@@ -90,6 +104,7 @@ use_preset_vocabulary: true
 # ❌	tsShaaq	999
 √	kho,jq puaC
 ¿	mU;ns	999
+¡	kraCq	999
 々	dRioCq	999
 ######
 #####字書
