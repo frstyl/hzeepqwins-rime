@@ -1,0 +1,878 @@
+name: hqimpjev
+version: "2022.2.7"
+sort: original
+use_preset_vocabulary: true
+import_tables:
+  - emoji
+...
+###
+̀	dp
+́	dp
+̂	dp
+̃	dp
+̄	dp
+̅	dp
+̆	dp
+̇	dp
+̈	dp
+̉	dp
+̊	dp
+̋	dp
+̌	dp
+̍	dp
+̎	dp
+̏	dp
+̐	dp
+̑	dp
+̒	dp
+̓	dp
+̔	dp
+̕	dp
+̖	gp
+̗	gp
+̘	gp
+̙	gp
+̚	dp		#上
+̛	dp
+̜	gp
+̝	gp
+̞	gp
+̟	gp
+̠	gp
+̡	gp
+̢	gp
+̣	gp
+̤ 	gp
+̥	gp
+̦	gp
+̧	gp
+̨	gp
+̩	gp
+̪	gp
+̫	gp
+̬	gp
+̭	gp
+̮	gp
+̯	gp
+̰	gp
+̱	gp
+̲	gp
+̳	gp
+##
+̴	kp
+̵	kp
+̶	kp
+̷	kp
+̸	kp
+#襍標
+̹	zp
+̺	zp
+̻	zp
+̼	zp
+̽	zp
+̾	zp
+̿	zp
+#音標
+	hp
+͇	hp
+͈	hp
+͉	hp
+͊	hp
+#
+͋	hp
+͌	hp
+͍	hp
+͎	hp
+#
+͘	zp
+͙	zp
+͚	zp
+͛	zp
+####音幖 濁書于末發于首
+p	p
+pʰ	p
+b	p
+ȹ	pf		#非
+ȸ	pf
+p̪	pp
+ b̪	pp
+p̪ 	pt		#齒化 t爲齦後
+b̪		pt
+t	t
+tʰ	t
+d	t
+ʈ	tr
+ʈʰ	tr
+ɖ	tr
+ȶ	tj		#非音幖
+ȶʰ	tj
+ȡ	tj
+ȡ	dj
+c	kj		#J爲硬齶
+cʰ	jj
+ɟ	kj
+ɟ	gj
+k	k
+kʰ	k
+g	k
+g	g
+ɡ	g
+q	Q
+qʰ	Q
+ɢ	Q
+q	q		#兼
+qʰ	q
+ɢ	q
+# ɢ	gq
+ʡ	Hq		#會厭塞
+ʡ̘	Oq
+ʔ	hq		#㗋塞轉寫
+ʔ	A
+p͡ɸ	pF
+p͡ɸʰ	pF
+b͡β	pF
+b͡β	bF
+ʦ	ts
+ʦʰ	ts
+ʣ	ts
+ʣ	dz
+ʧ	tss
+ʧʰ	tss
+ʤ	tss
+ʤ	dzs
+ʧ	tsS
+ʧʰ	tsS
+ʤ	tsS
+ʤ	dzS
+ʨ	tsJ
+ʨʰ	tsJ
+ʥ	tsJ
+ʥ	dzJ
+ʨ	tsj
+ʨʰ	tsj
+ʥ	tsj
+ʥ	dzj
+ɧ	XS		#ʃx
+t͡s	ts
+t͡sʰ	ts
+d͡z	ts
+d͡z	dz
+t͡ʃ	tss
+t͡ʃʰ	tss
+d͡ʒ	tss
+d͡ʒ	dzs
+t͡ɕ	tsj
+t͡ɕʰ	tsj
+d͡ʑ	tsj
+d͡ʑ	dzj
+t͡ʂ	tsr
+t͡ʂʰ	tsr
+d͡ʐ	tsr
+d͡ʐ	dzr
+t͡	ts
+d͡	ts
+d͡	dz
+ɸ	F
+β	F
+ɸ	fp
+β	fp
+β	fb
+# ɸ	fsp
+# β	fzp
+# ɸ	sp
+# β	zp
+ʍ	fv
+f	f		#F f分?
+v	f
+θ	ft
+ð	ft
+ð	fd
+þ	ft		#非
+θ	xt
+ð	xt
+ð	xd
+þ	xt		#非 對齊
+# θ	ft
+# ð	fzt
+# θ	st
+# ð	zt
+# ð	zd
+s	s
+z	s
+# z	z
+ʃ	S
+ʒ	S
+ʃ	ss
+ʒ	ss
+ʒ	zs
+ʂ	sr
+ʐ	sr
+ʐ	zr
+ɕ	J
+ʑ	J
+ɕ	sj
+ʑ	sj
+ʑ	zj
+ʆ	sj		#非
+ʓ	sj
+#ç	sj		#當爲无噝
+#ʝ	sj
+#ʝ	zj
+ç	fj		#正
+ʝ	fj
+ç	Xj		#x?
+ʝ	Xj
+ç	xj		#x?
+ʝ	xj
+#x	hk
+#ɣ	hk
+#ɣ	hg
+#x	hx
+#ɣ	hx
+x	fx
+ɣ	fx
+x	X		#兼
+ɣ	X
+ɣ	Xz
+x	x
+ɣ	x
+ɣ	xz
+#χ	hQ
+#ʁ	hQ
+χ	XQ
+ʁ	XQ
+ʁ	XzQ
+χ	xq		#兼
+ʁ	xq
+ʁ	xzq
+ʜ	H		#H ʜʢ
+ʢ	H		#會厭擦 部位方式
+# ʢ	Hz
+ħ	O
+ʕ	O
+# ħ	Os
+# h	hf
+# ɦ	hf
+h	h
+ɦ	h
+h	E
+ɦ	E
+m	m
+m	np		#latin
+ɱ	mf
+ɱ	nf		#latin
+n	n
+ɳ	nr
+ȵ	nj		#非音幖
+ɲ	nj
+ɲ	cj
+ŋ	ng
+ŋ	c
+ŋ	C
+Ŋ	ng
+Ŋ	c		#非音幖
+ɴ	nQ
+ɴ	nq
+###
+#ʷr	w
+#ʷɾ	w
+#ʷɹj	w
+#ʷɻj	w
+#ʷɰ	w
+#ʷˤr	f		#vf省
+#ʷˤɾ	f
+#ʷɹ	f
+##
+#ɰ	x		#兼
+#ɰ	w
+#ʋ	f
+#ʋ	w
+#w	v
+#ʍ	v
+#ʍ	vs		#擦
+#ʷ	v
+#ɥ	y
+###
+ʙ	Rp		#R
+r	R
+ʀ	Rq
+ⱱ	Rf		#闪音
+ɾ	R
+ɽ	Rr
+ɽ	R
+ʀ	R
+ʁ	R		#?擦音
+ɺ	R		#邊閃
+r	r
+ɾ	r
+ɹ	r
+ɽ	r
+ɻ	r
+ʀ	r
+ʁ	r
+ɺ	r
+ʋ	vf		#近音
+ʋ	w
+w	v
+w	U
+#u	v
+ɥ	y
+ɥ	U
+#y	y
+ɹ	r
+ɹ̩	r
+ɻ	jr
+j	j		#jʲ分?
+j	I
+#i	j
+ɰ	jx
+#ɰ	x
+ɰ	w
+ɯ	w		#兼
+l	l		#L
+ɭ	l
+ɭ	lr
+ʎ	l
+ʎ	lj
+ʟ	l
+ʟ	lx
+ɬ	l		#邊擦 Lateral Fricative
+ɮ	l
+ɬ	Sl
+ɮ	Sl
+ɬ	LS
+ɮ	LS
+ʫ	LSs
+ʪ	LSs
+ɺ	Rl		#邊閃  lateral flap
+ɺ	Lr
+###
+ʇ	d		#ǀ
+ʗ	S		#ǃ
+ʖ	d		#ǁ
+#
+ʘ	b		#Bilabial Clicks
+ǀ	d		#Dental
+ǃ	S		#(Post)alveoalar
+ǂ	J		#Palatoalveolar
+ǁ	L		#Alveolar lateral
+ʞ	g
+ɓ	b		#Bilabial Voiced implosives
+ɗ	d		#Dental/alveolar
+ʄ	j		#Palatal
+ɠ	g		#Velar
+ʛ	Q
+ʛ	q		#Uvular
+pʼ	p		#Bilabial Ejectives
+tʼ	t		#Dental/alveolar
+kʼ	k		#Velar
+sʼ	s		#Alveolar fricative
+##
+ʩ	fc
+ʬ	vv
+ʭ	tt
+###
+# y	y
+# a	ea
+a	a
+ɶ	a
+ᴀ	a		#非
+ä	a
+ɑ	a
+ɒ	a
+æ	a
+ɐ	a
+ɛ	e
+œ	e
+ɜ	e
+ɞ	o
+ʚ	o		#非
+ʌ	o
+ʌ	ea
+ʌ	oe
+ɔ	o
+ᴇ	e		#非
+ə	eo
+Ə	eo		#非音幖
+e	e
+ø	e
+ɘ	e
+ɵ	o
+ɤ	o
+o	o
+ɪ	i
+ʏ	u
+ᵻ	i		#非
+ᵿ	u		#非
+ω	u		#非
+ʊ	u
+i	i
+y	i
+ɨ	i
+ʉ	u
+ɯ	u
+u	u
+#
+ɨɐ	ia
+ʉɐ	ua
+ɨɛ	ie
+ʉɛ	ue
+ɨæ	ie
+ʉæ	ue
+#
+ɿ	r		非
+ɹ̩	r
+ʅ	jr
+ɻ̩	jr
+ʮ	vr
+ʯ	yr
+###
+ʷ	v
+ʲ	j
+ᶣ	y
+̴	x		#偄腭化咽化
+̃	N		#鼻化
+̃	m
+̃	nn
+̃	n
+˞	r
+ˠ	x
+ˠ	w
+ˤ	O
+ʰ	h
+˭	h
+ˡ	l
+ⁿ	n
+ˢ	s
+ʱ	E
+ᵊ	eo
+ᶷ	u
+̚	A
+̥	s		#清
+̬	z
+̰	E		#漏气
+̤	E		#
+̩	w		#成音節
+̯	w
+◌	o
+̪	t
+̼	t
+̺	t
+̻	t
+̟	e
+̟	dzeen
+̠	o
+̠	goow
+̈	eo
+̈	Aiac
+̽	eo
+̽	truc
+̝	i
+̝	koav
+˔	i
+̞	a
+̞	tei
+˕	a
+̘	e
+̘	dzeen
+̙	o
+̙	goow
+##
+̹	u
+̜	i
+ː	aa
+ː	driac
+¹	1
+²	2
+³	3
+⁴	4
+⁵	5
+⁶	6
+⁷	7
+⁸	8
+⁹	9
+⁰	0
+˥	5
+˦	4
+˧	3
+˨	2
+˩	1
+|	deiy
+‖	deiy
+↗	deiy
+↘	deiy
+ꜛ	deiy
+ꜜ	deiy
+̋	deiy
+́	deiy
+̄	deiy
+̀	deiy
+̏	deiy
+̌	deiy
+̂	deiy
+᷄	deiy
+᷅	deiy
+᷇	deiy
+᷆	deiy
+᷉	deiy
+᷈	deiy
+̋	5
+́	4
+̄	3
+̀	2
+̏	1
+̌	15
+̂	51
+᷄	35
+᷅	13
+᷇	53
+᷆	31
+᷉	313
+᷈	353
+ː	sjjec
+ˑ	sjjec
+̆	sjjec
+ˈ	sjjec
+ˌ	sjjec
+.	sjjec
+‿	sjjec
+###字母
+##注音
+ㄅ	p
+ㄆ	ph
+ㄇ	m
+ㄈ	f		#F
+ㄉ	t
+ㄊ	th
+ㄋ	n
+ㄌ	l
+ㄎ	k
+ㄎ	kh
+ㄏ	h
+ㄐ	tsc
+ㄑ	tshj
+ㄒ	sj
+ㄓ	tsr
+ㄔ	tshr
+ㄕ	sr
+ㄖ	jr
+ㄗ	ts
+ㄘ	tsh
+ㄙ	s
+ㄧ	j
+ㄨ	v
+ㄩ	y
+ㄚ	a
+ㄛ	o
+ㄜ	eo
+ㄝ	e
+ㄞ	aj
+ㄟ	ej
+ㄠ	av
+ㄡ	ov
+ㄡ	eov
+ㄢ	an
+ㄣ	eon
+ㄤ	ac
+ㄥ	eoc
+ㄦ	eor		#ə˞,˞ 
+ㄪ	vf
+ㄫ	c
+ㄫ	ng
+ㄬ	nj
+##
+𐤀	alep
+𐤁	bet
+𐤂	giml
+𐤃	dalet
+𐤄	he
+𐤅waw
+𐤆	zajin
+𐤇	het
+𐤈	tet
+𐤉	jod
+𐤊	kap
+𐤋	lamed
+𐤌	mem
+𐤍	nun
+𐤎	samak
+𐤏	ajin
+𐤐	pe
+𐤑	sade
+𐤒	qof
+𐤓	res
+𐤔	sin
+𐤕	taw
+𐤖	hqjit
+𐤗	gjip
+𐤘	njip
+𐤙	paak
+𐤚	njis
+𐤛	soam
+##
+ℵ	aleph
+ℶ	beth
+ℷ	gimel
+ℸ	dalet
+#
+א	aleph
+ב	beth
+ג	gimel
+ד	dalet
+##
+ا	A
+ب	b
+ج	g
+د	d
+ﺫ‎	fd
+ﻩ‎	E
+ﻭ‎	v
+ﺯ‎	z
+ﺡ‎	H
+ﺥ‎	Xs
+ﻁ‎	tO
+ﻅ‎	zO
+ﻱ‎	j
+ﻙ‎	k
+ﻝ‎	l
+ﻡ‎	m
+ن‎	n
+ﺱ‎	s
+ﻉ‎	O
+ﻍ‎	Xz
+ف‎	p
+ﺹ‎	sO
+ﺽ‎	dO
+ﻕ‎	q
+ﺭ‎	R
+ﺵ	sS
+ﺕ‎	t
+ﺙ‎	ft
+##
+̄	aa
+ʽ	h
+ʽ	heta
+ʼ	h
+ͱ	heta
+α	alpha
+β	beta
+γ	gamma
+δ	delta
+ε	epsilon
+ζ	zeta
+η	eta
+#ϝ	digamma
+ϝ	vav
+ͷ	vav
+θ	theta
+ι	iota
+κ	cappa
+λ	lamda
+μ	mu
+ν	nu
+ξ	xi
+ο	omicro
+π	pi
+ϻ	san
+ϙ	qoppa
+ϟ	qoppa
+ρ	rho
+σ	sigma
+τ	tav
+υ	ypsilon
+φ	phi
+χ	chi
+ψ	psi
+ω	omega
+ͳ	sampi
+ϡ	sampi
+Α	alpha
+Β	beta
+Δ	delta
+Γ	gamma
+Ε	epsilon
+#Ϝ	digamma
+Ϝ	vav
+Ͷ	vav
+Ζ	zeta
+Ͱ	heta
+Η	eta
+Θ	theta
+Ι	iota
+Ϳ	jot
+Κ	cappa
+Λ	lamda
+Μ	mu
+Ν	nu
+Ξ	xi
+Ο	omicro
+Π	pi
+Ϻ	san
+Ϙ	qoppa
+Ϟ	qoppa
+Ρ	rho
+Σ	sigma
+Τ	tav
+Υ	ypsilon
+Φ	phi
+Χ	chi
+Ψ	psi
+Ω	omega
+Ͳ	sampi
+Ϡ sampi
+##
+А	a
+Б	be
+В	ve
+Г	ge
+Ґ	ge
+Д	de
+Ђ	Dje
+Ѓ	Gje
+Е	ye		#je
+Ё	yo		#jɔ
+Є	yest		#
+Ж	zhe		#ʒ
+З	ze		#z
+З́	zje
+Ѕ	dze
+И	i		#i
+І	i
+Ї	yi
+Й	ye		#j
+Ј	je
+К	ka
+Л	eil		#l
+Љ	lje
+М	em
+Н	en
+Њ	nje
+О	o
+П	pe		#p
+Р	er		#r
+С	es		#s
+С́	eshy
+Т	te
+Ћ	tshe
+Ќ	kje
+У	u		#u
+Ў	we
+Ф	ef		#f ph
+Х	kha		#x
+Ц	ce		#ts
+Ч	che		#ʨ
+Џ	dzhe
+Ш	sha		#ʃ
+Щ	shcha		#ɕ
+Ъ	yer
+Ы	yery		#ɨ
+Ь	yeri		#j
+Э	e		#e i
+Ю	yu		#ju
+Я	ya		#ja
+Ӏ	i
+Ә	schwa
+Ғ	ayn
+Ҙ	dhe
+Ҫ	the
+Ҡ	qa
+Қ	ka
+Ҝ	dya
+Ҟ	qa
+Ң	eng
+Ө	o
+Ү	u
+Ԛ	qa
+Ԝ	we
+Ꙗ	ia
+Ѥ	ie		#je
+Ѧ	yus		#ja
+Ѫ	yus		#ju
+Ѩ	ius		#ja
+Ѭ	ius		#ju
+Ѯ	xi
+Ѱ	psi
+Ѳ	fita		#f
+Ѵ	izhitsa		#i ʲi
+Ѹ	uk
+Ѡ	omega		#o
+Ѿ	ot
+Ѣ	Yat		#zʲ
+#
+а	a
+б	be
+в	ve
+г	ge
+ґ	ge
+д	de
+ђ	dje
+ѓ	gje
+е	ye
+ё	yo
+є	yest
+ж	zhe
+з	ze
+з́	zje
+ѕ	dze
+и	i
+і	i
+ї	yi
+й	ye
+ј	je
+к	ka
+л	ei
+љ	lje
+м	em
+н	en
+њ	nje
+о	o
+п	pe
+р	er
+с	es
+с́	eshy
+т	te
+ћ	tshe
+ќ	kje
+у	u
+ў	we
+ф	ef
+х	kha
+ц	ce
+ч	che
+џ	dzhe
+ш	sha
+щ	shcha
+ъ	yer
+ы	yery
+ь	yeri
+э	e
+ю	yu
+я	ya
+ӏ	i
+ә	schwa
+ғ	ayn
+ҙ	dhe
+ҫ	the
+ҡ	qa
+қ	的ka
+ҝ	dya
+ҟ	qa
+ң	eng
+ө	o
+ү	u
+ԛ	qa
+ԝ	we
+ꙗ	ia
+ѥ	ie
+ѧ	yus
+ѫ	yus
+ѩ	ius
+ѭ	ius
+ѯ	xi
+ѱ	psi
+ѳ	fita
+ѵ	izhitsa
+ѹ	uk
+ѡ	omega
+ѿ	ot
+ѣ	yat

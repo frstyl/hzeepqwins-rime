@@ -1,0 +1,69 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: hqimpjev
+  name: 音幖
+  version: "0.99"
+  author:
+
+  description: |
+    通用轉寫
+
+  dependencies:
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: simplification
+    states: [ 漢字, 汉字 ]
+  - name: ascii_punct
+    states: [ 。，, ．， ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    # - table_translator@custom_phrase
+    - table_translator
+  filters:
+    - simplifier
+    - uniquifier
+speller:
+  alphabet: 'zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA123456789'
+  delimiter: "'"
+  algebra:
+    - abbrev/([A-Z])/\L$1/
+
+
+
+translator:
+  dictionary: hqimpjev
+  spelling_hints: 10
+  preedit_format:
+
+
+
+key_binder:
+  import_preset: default
+  bindings:
+
+recognizer:
+  import_preset: default
+  patterns:
