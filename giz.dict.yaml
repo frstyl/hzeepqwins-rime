@@ -1751,7 +1751,7 @@ use_preset_vocabulary: true
 𡬯	pxemA
 𡬸	pxemA
 𦥧	pxemA
-叟	pxemA	1
+叟	pxemA	0
 ###乏
 𤝑	buamA
 ##
@@ -2967,6 +2967,7 @@ use_preset_vocabulary: true
 𥼹	HweA
 𭮯	HweA
 ###貴䝿
+𤆂	gwis
 # 肖
 # 䝿
 𠑌	doojq
@@ -3811,7 +3812,7 @@ use_preset_vocabulary: true
 𭊋	tsjaq
 𧫯	tsjaq
 #
-荖	tshSjaq
+# 荖	tshSjaq
 𢀞	tshSjaq
 𢀠	tshSjaq
 # 𢀩	tshSjaq
@@ -5459,8 +5460,8 @@ use_preset_vocabulary: true
 𣬃	loavq
 𣬇	loavq
 ###老
-荖	loavA
-荖	boovq
+荖	loavA		#字匯補
+荖	boovA
 𠄰	loavA
 𦒳	loavA
 ###漏
@@ -7261,6 +7262,17 @@ use_preset_vocabulary: true
 𦎅	JiuvA
 𦎙	JiuvA
 𦲃	JiuvA
+##臾
+𠒍	Juoq
+𰮻	Juoq
+𤜹	Juoq		#𣢧
+𤝆	Juoq		#𣢧
+#
+㤤	Juoq		#
+㻀	Juoq
+茰	Juoq
+䛕	Juoq
+㤤	JuoA
 ###取
 鯫	dzSoovA
 㻓	tsSiuvq

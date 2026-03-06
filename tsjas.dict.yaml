@@ -99,7 +99,7 @@ use_preset_vocabulary: true
 甙	do,js		#代𤮼
 嘌	phjevq
 呤	leeCq
-咪	meiq
+咪	meejq
 噻	so,jq
 吡	bjitq
 啶	deeCs
@@ -413,13 +413,13 @@ use_preset_vocabulary: true
 鿩	looA nJjeA
 瓩	tsheenq CqfaA
 兛	tsheenq kho;kq
-粁	tsheenq meiA
+粁	tsheenq meejA
 竏	tsheenq
 𫦥	kaajq Ajitq
 𫦤	li;kq Ajitq
 𫡷	paakq Aaas
 竡	paakq Aaas
-粨	paakq meiA
+粨	paakq meejA
 瓸	paakq CqfaA
 兡	paakq kho;kq
 𭨗	kraCA dooq		#景圖
@@ -882,7 +882,7 @@ use_preset_vocabulary: true
 嘧	mxitq
 嘌	phjevq
 # 呤	leeCq
-咪	meiq
+咪	meejq
 噻	so,jq
 吡	bjitq
 ##回
@@ -970,6 +970,7 @@ use_preset_vocabulary: true
 仮	kaaA
 ##人爲
 ##人格
+𠋟	JuoA		#窳
 佬	loavA		#䝤
 ##尸𡰣
 ##天
@@ -1487,7 +1488,7 @@ use_preset_vocabulary: true
 酰	se;nq		#acyl
 酮	douCq
 酚	phU;nq
-醚	meiq
+醚	meejq
 酯	tsJjiA
 酯	tsJjiq
 酯	tsJjiA

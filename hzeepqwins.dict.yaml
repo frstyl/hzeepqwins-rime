@@ -1447,6 +1447,16 @@ import_tables:
 𡬍	meejA
 䱊	meejA
 謎	meejs
+#
+迷	meij_q		#m-i → m-e, 无me借用
+米	meij_A
+蔝	meij_A
+眯	meij_A
+䋛	meij_A
+洣	meij_A
+𡬍	meij_A
+䱊	meij_A
+謎	meij_s
 ##Oij 脂1 il
 黎	leij_q
 犁	leij_q
@@ -2018,7 +2028,7 @@ import_tables:
 𡝡	meejq		#n?m?
 禰	ne;jA		#-R?
 嬭	ne;jA
-𩰞	ne;jA
+𩰞	ne;jA		#苶
 𩯨	ne;jA
 檷	ne;jA		#爾
 𩍦	ne;jA
@@ -2653,6 +2663,24 @@ import_tables:
 鄑	tsjeq
 ##jeR
 媊	tsjejq		#即移切 即淺切 集韵 津私切#前ts-e-n?#前ts-e-R
+##iR? e?i?
+庀	phjeA		#匕p-i-R?
+疕	phjeA
+𤿎	phjeq
+仳	phjeA
+䚹	phjeA
+吡	phjeA
+𪌈	bjeq
+紕	bjeq		#匹夷切
+#
+䍘	mjeq		#米m-e?米m-a-j
+𦊮	mjeq
+𥹄	mjeq
+𨤐	mjeq
+冞	mjeq		#深 䍘𥹐#彌
+麊	mjeq		#應註 麊音彌
+敉	mjeA
+侎	mjeA
 ##ja?
 㡹	tshjes
 婼	nJjeq
@@ -2699,7 +2727,7 @@ import_tables:
 䖹	mjeA
 羋	mjeA		#?
 芈	mjeA
-弭	mjeA		#𢏱
+弭	mjeA		#𢏱 n-e  →  m-e
 𢏱	mjeA
 渳	mjeA
 葞	mjeA
@@ -3093,24 +3121,6 @@ import_tables:
 ##jəj -r e?ə?
 𥶾	ljeA
 㸚	ljeA
-##iR? e?i?
-庀	phjeA		#匕p-i-R
-疕	phjeA
-𤿎	phjeq
-仳	phjeA
-䚹	phjeA
-吡	phjeA
-𪌈	bjeq
-紕	bjeq
-#
-䍘	mjeq		#米m-e?米m-a-j
-𦊮	mjeq
-𥹄	mjeq
-𨤐	mjeq
-冞	mjeq
-麊	mjeq		#應註 麊音彌
-敉	mjeA
-侎	mjeA
 ##jeR
 𢏏	mjejq	99
 𡝡	mjejq	99
@@ -3884,7 +3894,7 @@ import_tables:
 狋	Cjiq
 䫁	bjis
 䊧	phjis
-匕	pjiA
+匕	pjiA		#?i?e 庀
 𡚧	pjiA
 𥘇	pjiA
 𥝓	pjiA
@@ -3892,7 +3902,7 @@ import_tables:
 朼	pjiA
 疕	pjiA
 牝	bjiA
-比	pjiA		#?
+比	pjiA
 夶	pjiA
 妣	pjiA
 秕	pjiA
@@ -4472,6 +4482,7 @@ import_tables:
 蘪	mxiq
 攗	mxiq
 𪊨	kxiA
+麂	kxiA
 㞛	kxiA
 訵	LshRxiq		#四L-i-j
 𣱐	tRxis
@@ -4533,6 +4544,8 @@ import_tables:
 瓻	thRxiq
 ##xiR
 欭	Axis		#因A-i-n#因A-i-R
+##RjəR xəR
+𡺮	phF_x;jA		#肥
 ##Rjə xə
 圮	bx;jA		#配妃p-eo-j
 啚	px;A
@@ -4588,7 +4601,6 @@ import_tables:
 蝞	mx;js
 煝	mx;js
 䉋	mx;js
-𡺮	phF_x;jA		#肥
 美	mx;jA
 渼	mx;jA
 媄	mx;jA
@@ -4612,7 +4624,7 @@ import_tables:
 肌	kx;jq		#又 居氣切
 虮	kx;jq
 几	kx;jA
-麂	kx;jA
+# 麂	kx;jA		#𪊨
 㞦	kx;jA
 机	kx;jA
 䢳	kx;jA
@@ -4749,7 +4761,10 @@ import_tables:
 帥	RsRwuts		#ts#率R-u-t
 率	RsRwuts		#ts
 喟	khwuts		#ts嘳
-臾	gwuts		#ts#貴
+臾	gwuts	#ts#貴 𠀐貴𠳋 䝿
+㬰	gwuts		#同形
+𠀐	gwuts
+𠳋	gwuts	0
 𡃪	khwurq		#貴
 𣟨	khwurq
 𩪹	khwurq
@@ -6346,43 +6361,7 @@ import_tables:
 圍	QU;js	1
 葦	QU;jA
 ##uj?
-飛	pF_Uujq		#非p-eo-j#飛p-eo-j
-𩙲	pF_Uujq
-𩹉	pF_Uujq
-騛	pF_Uujq
-䬠	phF_Uujq		#霏
 #
-飛	pF_U;jq		#非p-eo-j#飛p-eo-j
-𩙲	pF_U;jq
-𩹉	pF_U;jq
-騛	pF_U;jq
-䬠	phF_U;jq		#霏
-##
-肥	bF_U;jq		#配肥卩peoj
-蜰	pF_U;jA
-䈈	bF_U;jq
-淝	bF_U;jq
-𤷂	bF_U;jq
-蜰	bF_U;jq
-萉	bF_U;js
-蜰	bF_U;js
-歸	kU;jq		#𠂤t-u-j#歸-𠂤k-u-j
-㱕	kU;jq	99
-𱀠	kU;jq	99
-𠐽	kU;js
-蘬	khU;jq
-𧢦	khU;jq
-##uəR
-䆏	bF_U;jA		#-R糞p-eo-R?
-䆏	bF_U;js
-賁	bF_U;jq		#-R
-蟦	bF_U;jq
-膹	bF_U;jA
-橨	bF_U;jA
-蟦	bF_U;jA
-䒈	bF_U;jA
-黂	bF_U;js
-蟦	bF_U;js
 非	pF_U;jq		#弗
 猆	pF_U;jq
 扉	pF_U;jq
@@ -6432,6 +6411,37 @@ import_tables:
 𩦎	phF_U;jA
 𡌦	bF_U;js
 䨾	bF_U;js
+##
+歸	kU;jq		#𠂤t-u-j#歸-𠂤k-u-j
+㱕	kU;jq	99
+𱀠	kU;jq	99
+𠐽	kU;js
+蘬	khU;jq
+𧢦	khU;jq
+##uəR
+飛	pF_U;jq		#非p-eo-j#飛p-eo-j
+𩙲	pF_U;jq
+𩹉	pF_U;jq
+騛	pF_U;jq
+䬠	phF_U;jq		#霏
+肥	bF_U;jq		#配肥卩peoj
+蜰	pF_U;jA
+䈈	bF_U;jq
+淝	bF_U;jq
+𤷂	bF_U;jq
+蜰	bF_U;jq
+萉	bF_U;js
+蜰	bF_U;js
+䆏	bF_U;jA		#-R糞p-eo-R?
+䆏	bF_U;js
+賁	bF_U;jq		#-R
+蟦	bF_U;jq
+膹	bF_U;jA
+橨	bF_U;jA
+蟦	bF_U;jA
+䒈	bF_U;jA
+黂	bF_U;js
+蟦	bF_U;js
 瀈	HU;jq		#-R#軍k-eo-R#hvs?
 翬	HU;jq
 揮	HU;jq
@@ -8364,38 +8374,32 @@ import_tables:
 裕	JLuoks		#谷
 䘱	JLuoks		#裕
 螸	JLuoq
-㤤	JLuoq	1
-㤤	JLuoA	1
-㻀	JLuoq	1
-㬰	JLuoq	1
-𣢧	JLuoq	1
-𤜹	JLuoq		#𣢧
-𤝆	JLuoq		#𣢧
-臾	JLuoq
-茰	JLuoq
-䛕	JLuoq
-𦺮	JLuoq
-瘐	JLuoq
-𥯮	JLuoq
-𦚤	JLuoq
-萸	JLuoq
-𥑷	JLuoq
-㳛	JLuoq
-㥚	JLuoq
-𤧙	JLuoq
-𥔢	JLuoq
-腴	JLuoq
-諛	JLuoq
-楰	JLuoq
-𦺮	JLuoA
-㥚	JLuoA
-楰	JLuoA
-瘐	JLuoA
-𦳅	JLuoA
-斞	JLuoA
-𢈔	JLuoA
-庾	JLuoA
-螋	LsRuoq		#叟?臾
+㬰	Jquoq	99	#𠒍#与 䝿同形
+𦚤	Jquoq	99
+𥑷	Jquoq
+𣢧	Jquoq
+𥒏	Jquoq
+臾	Jquoq
+𦺮	Jquoq
+瘐	Jquoq
+𥯮	Jquoq
+萸	Jquoq
+㳛	Jquoq
+㥚	Jquoq
+𤧙	Jquoq
+𥔢	Jquoq
+腴	Jquoq
+諛	Jquoq
+楰	Jquoq
+𦺮	JquoA
+㥚	JquoA
+楰	JquoA
+瘐	JquoA
+𦳅	JquoA
+斞	JquoA
+𢈔	JquoA
+庾	JquoA
+螋	LsRuoq		#蠷螋 蛷䗏 䗏#叟?臾
 兪	JLuoq	99
 𰂙	JLuoq	99
 婾	JLuoq
@@ -11387,8 +11391,8 @@ import_tables:
 䞀	hgoovs
 𥀃	hgoovs
 𪅺	Xoovq
-吼	HoovA		#孔k-o-C
-吼	Hoovs
+吼	XoovA		#孔k-o-C
+吼	Xoovs
 垢	kQ_oovA
 詬	kQ_oovA
 茩	kQ_oovA
@@ -11396,21 +11400,21 @@ import_tables:
 㸸	khQ_oovA
 詬	khQ_oovs
 㸸	AoovA
-㸸	HoovA
-㖃	HoovA
-詬	Hoovs
-㖃	Hoovs
-銗	Eoovq
-𧮶	Eoovq
-骺	Eoovq
-后	hQoovA		#?
-垕	hQoovA
-郈	hQoovA
-㖃	hQoovA
-后	hQoovs	1
-鮜	hQoovs
-逅	hQoovs
-䞧	hQoovs
+㸸	XoovA
+㖃	XoovA
+詬	Xoovs
+㖃	Xoovs
+銗	hgoovq
+𧮶	hgoovq
+骺	hgoovq
+后	hgoovA		#?
+垕	hgoovA
+郈	hgoovA
+㖃	hgoovA
+后	hgoovs	1
+鮜	hgoovs
+逅	hgoovs
+䞧	hgoovs
 厚	EoovA		#q-?
 𠪋	EoovA
 𣆪	EoovA
@@ -11591,7 +11595,7 @@ import_tables:
 㜌	khQ_oovks
 䍍	khQ_oovks
 瞉	khQ_oovks
-鱟	hgoovks		#ks
+鱟	hgoovks		#ks#R?
 噣	toovks		#ks
 斣	toovks
 襡	toovks
@@ -16788,17 +16792,17 @@ import_tables:
 㭭	paetq
 砎	hgaetq		#?
 ##ROeR?
-㵎	kQ_aans		#礀𡼥
-礀	kQ_aans
-𡼥	kQ_aans
-鐗	kQ_aans
-䔵	kQ_aanq
-鬜	khQ_aanq
-僩	hgaanA
-憪	hgaanA
-𤡥	hgaanA
-撊	hgaanA
-橌	hgaanA
+㵎	kQ_eens		#礀𡼥
+礀	kQ_eens
+𡼥	kQ_eens
+鐗	kQ_eens
+䔵	kQ_eenq
+鬜	khQ_eenq
+僩	hgeenA
+憪	hgeenA
+𤡥	hgeenA
+撊	hgeenA
+橌	hgeenA
 ##ROan
 𠔯	paanq		#班
 帕	maatq		#鬕#訓帓
@@ -16923,7 +16927,7 @@ import_tables:
 ##ROən
 頒	pa;nq
 鳻	pa;nq
-肦	pa;nq		#頒
+肦	pa;nq		#頒 分p-
 𡍦	Ef;nq		#u?#軍
 ###fan
 鍰	hQfanq		#ɢ v-
@@ -18493,7 +18497,7 @@ import_tables:
 稭	kQ_a;tq		#皆䕸秸鞂
 鞂	kQ_a;tq		#稭
 蔄	ma;ns
-扮	pa;ns
+扮	pa;ns		#分
 盼	pha;ns
 𪘟	khQ_a;nA
 齦	khQ_a;nA
@@ -20497,7 +20501,7 @@ import_tables:
 呻	LsJjinq
 𣢘	LsJjinq
 眒	LsJjinq
-胂	LsJjinq
+胂	LsJjinq		#𦟘 申寅
 𩉼	LsJjinq
 𠭙	LsJjinq
 柛	LsJjinq
@@ -22157,15 +22161,15 @@ import_tables:
 觱	bF_U;tq		#?𧥑
 觱	QU;tq	0		#王勿切 誤
 𩰟	phF_U;nq		#燹s-m
-䫶	bF_U;nq
-萉	bF_U;nq
-嶏	phF_U;tq
+䫶	bF_U;nq		#樊
+萉	bF_U;nq		#肥
+嶏	phF_U;tq		#配
 扮	pF_U;nq
 扮	pF_U;nA
 扮	bF_U;nA
 坌	bF_U;nA
 坌	bF_U;ns
-分	pF_U;nq
+分	pF_U;nq		#分eo?u?
 粉	pF_U;nA
 黺	pF_U;nA
 紛	phF_U;nq
@@ -31021,6 +31025,8 @@ import_tables:
 𤣝	sj,RA	2
 苶	nJj,tq	1
 ##RjəR
+𡺮	phF_x;jA		#肥
+##RjəR
 脪	Hx;RA
 㾙	Hx;RA
 𪛊	Cx;Rq
@@ -31189,6 +31195,19 @@ import_tables:
 蟁	mF_U;Rq
 𧓢	mF_U;Rq
 ##uəR -uəj
+飛	pF_U;Rq		#非p-eo-R#飛p-eo-R
+𩙲	pF_U;Rq
+𩹉	pF_U;Rq
+騛	pF_U;Rq
+䬠	phF_U;Rq		#霏
+肥	bF_U;Rq		#配肥卩peoR
+蜰	pF_U;RA
+䈈	bF_U;Rq
+淝	bF_U;Rq
+𤷂	bF_U;Rq
+蜰	bF_U;Rq
+萉	bF_U;Rs
+蜰	bF_U;Rs
 䆏	bF_U;RA		#糞p-
 䆏	bF_U;Rs
 賁	bF_U;Rq
@@ -31199,55 +31218,6 @@ import_tables:
 䒈	bF_U;RA
 黂	bF_U;Rs
 蟦	bF_U;Rs
-非	pF_U;Rq
-猆	pF_U;Rq
-扉	pF_U;Rq
-緋	pF_U;Rq
-馡	pF_U;Rq
-騑	pF_U;Rq
-誹	pF_U;Rq
-餥	pF_U;Rq
-棐	pF_U;RA
-餥	pF_U;RA
-蜚	pF_U;RA
-誹	pF_U;Rs
-鯡	pF_U;Rs
-㹃	pF_U;Rs
-䩁	phF_U;Rq
-婓	phF_U;Rq
-騑	phF_U;Rq
-裶	phF_U;Rq
-𥇖	phF_U;Rq
-悱	phF_U;RA
-奜	phF_U;RA
-䨽	phF_U;RA
-腓	bF_U;Rq
-痱	bF_U;Rq
-䨽	bF_U;Rq
-裴	bF_U;Rq
-陫	bF_U;RA
-腓	bF_U;Rs
-屝	bF_U;Rs
-蜚	bF_U;Rs
-𧕿	bF_U;Rs
-翡	bF_U;Rs
-𩇪	bF_U;Rs
-痱	bF_U;Rs
-䠊	bF_U;Rs
-婔	bF_U;Rq
-# 婔	QU;Rq		#?
-䕁	pF_U;RA
-菲	phF_U;Rq
-菲	phF_U;RA
-菲	bF_U;Rs
-霏	phF_U;Rq
-匪	pF_U;RA
-篚	pF_U;RA
-榧	pF_U;RA
-斐	phF_U;RA
-𩦎	phF_U;RA
-𡌦	bF_U;Rs
-䨾	bF_U;Rs
 瀈	HU;Rq		#-R#軍k-eo-R
 翬	HU;Rq
 揮	HU;Rq
