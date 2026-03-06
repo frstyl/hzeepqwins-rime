@@ -1384,7 +1384,7 @@ preset_keyboards:
     height: 44
     lock: true #換程序時記憶鍵盤
     keys: 
-    - {click: 1, long_click: "!", swipe_up: "!"}
+    - {click: 1, long_click: "!", swipe_up: "!",swipe_down: "!"}
     - {click: 2, long_click: "@", swipe_up: "@"}
     - {click: 3, long_click: "#", swipe_up: "#"}
     - {click: 4, long_click: "$", swipe_up: "$"}
@@ -1430,7 +1430,7 @@ preset_keyboards:
     - {click: ",", long_click: "<", swipe_up: Theme_settings}
     - {click: space, long_click: '	', swipe_right: "Right", swipe_left: "Left", swipe_up: "Up", swipe_down:  "Down",  width: 25}
     - {click: ".", long_click: ">", swipe_up: Color_switch}
-    - {click: "/", long_click: "?", swipe_up: "?"}
+    - {click: "/", long_click: "?", swipe_up: "?",swipe_down: "?"}
     - {click: Return, long_click: CommitComment, swipe_up: Keyboard_number, swipe_down: Keyboard_default, width: 15}
   tongwen:
     author: "暖暖"
