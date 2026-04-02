@@ -1,5 +1,5 @@
 name: hqimpjev
-version: "2022.2.7"
+version: "2026.4.3"
 sort: original
 use_preset_vocabulary: true
 import_tables:
@@ -625,10 +625,10 @@ u	u
 ج	g
 د	d
 ﺫ‎	fd
-ﻩ‎	E
+ﻩ‎	hs
 ﻭ‎	v
 ﺯ‎	z
-ﺡ‎	H
+ﺡ‎	Os
 ﺥ‎	Xs
 ﻁ‎	tO
 ﻅ‎	zO
@@ -638,16 +638,17 @@ u	u
 ﻡ‎	m
 ن‎	n
 ﺱ‎	s
-ﻉ‎	O
+ﻉ‎	Oz
 ﻍ‎	Xz
 ف‎	p
 ﺹ‎	sO
 ﺽ‎	dO
 ﻕ‎	q
-ﺭ‎	R
+ﺭ‎	r
 ﺵ	sS
 ﺕ‎	t
 ﺙ‎	ft
+##
 ##
 ̄	aa
 ʽ	h

@@ -4424,17 +4424,17 @@ use_preset_vocabulary: true
 叼	teevq
 䒒	teevq
 ##召
-𤋜	dzJjevs
-𢢤	dzJjevs
-𭴋	dzJjevs
-𭴫	dzJjevs
-𭵳	dzJjevs
-𰟈	dzJjevs
-𰟉	dzJjevs
-𰟗	dzJjevs
-𱫥	dzJjevs
-𱫿	dzJjevs
-𢑦	dzJjevq
+𤋜	tsJjevs
+𢢤	tsJjevs
+𭴋	tsJjevs
+𭴫	tsJjevs
+𭵳	tsJjevs
+𰟈	tsJjevs
+𰟉	tsJjevs
+𰟗	tsJjevs
+𱫥	tsJjevs
+𱫿	tsJjevs
+𢑦	dzJjevq		#𢃳
 齠	deevq
 笤	deevq
 曌	tsJjevs		#照
@@ -11549,7 +11549,7 @@ use_preset_vocabulary: true
 駦	do;Cq
 籐	do;Cq
 ###𤮪
-𧝻	nJioCA
+??	nJioCA
 𧜈	nJioCA
 𤮪	nJioCA
 𤮡	nJioCA
@@ -11933,6 +11933,7 @@ use_preset_vocabulary: true
 𠆯	tsoakq
 𠈨	tsoakq
 𢓓	tsoakq
+𢼎	tsoakq
 ##
 鿽	tsRaakq
 ###倉
@@ -12140,8 +12141,11 @@ use_preset_vocabulary: true
 #
 𣲅	kaoCq
 𱥿	kaoCq
+㣉	kouCq
+𠜝	kouCq
 𢀚	kouCq
-㠪	kouCq
+𢒄	kouCq
+# 㠪	kouCq
 𫞹	khouCq
 𰁕	khouCq
 𰌴	khouCq
@@ -13014,6 +13018,7 @@ use_preset_vocabulary: true
 ###榮營𤇾𬊇
 𬊇	qWeCq		#榮
 𪛞	qWeCq
+𠡋	qWeCq
 𤇾	JyeCq		#瑩
 瀠	JyeCq
 瀯	JyeCq
