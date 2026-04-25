@@ -367,7 +367,7 @@ android_keys:
     swipe_up: "上滑"
 config_version: "3.0"
 name: 灮熙          #方案名称
-author: 风花絮        #作者信息
+author: frstl        #作者信息
 
 #键盘高度
 height:
@@ -446,7 +446,7 @@ style:
   latin_locale: en_US #西文语言
   locale: zh_CN #缺省语言 zh_TW,zh_CN,zh_HK,""
   keyboard_height: 250 #锁定键盘高度，避免切换时键盘高度变化而造成闪烁
-  keyboard_height_land: 150 #锁定横屏下键盘高度，避免切换时键盘高度变化而造成闪烁
+  keyboard_height_land: 200 #锁定横屏下键盘高度，避免切换时键盘高度变化而造成闪烁
   preview_font: latin.ttf #按键提示字体
   preview_height: 56 #按键提示高度
   preview_offset: -32 #按键提示纵向偏移
@@ -464,7 +464,7 @@ style:
   vertical_correction: -10 #触摸位置校正（竖直方向）
   vertical_gap: *sgap #键盘行距
   keyboard_padding_bottom: 30 #下距
-  keyboard_padding_land: 80 #land橫距
+  keyboard_padding_land: 40 #land橫距
   #keyboard_padding_land_bottom: 0
   #keyboard_padding_land_left: -50 #下距
   enter_label_mode: 0  #是否使用App提供的ActionLabel内容作为Enter键的文本（由于多数App没有适配ActionLable，实际影响不大）。0不使用，1只使用actionlabel，2优先使用，3当其他方式没有获得label时才读取actionlabel
