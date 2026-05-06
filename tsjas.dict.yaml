@@ -438,7 +438,7 @@ use_preset_vocabulary: true
 的	t;
 旳	t;
 哉	ts;
-伱	n;jA
+# 伱	n;jA
 昰	deA
 是	deA
 這	deA	9		#者遮
@@ -449,7 +449,6 @@ use_preset_vocabulary: true
 已	l;
 了	l;	9
 乎	Ha
-𠮱	EVa
 矣	q;
 兮	Hejq
 嗚	Aa
@@ -522,6 +521,7 @@ use_preset_vocabulary: true
 𠀧	paaq
 ###王
 ###玉
+琍	ljiq
 鿱	paaq
 𪻕	kooA
 ###玨
@@ -970,6 +970,7 @@ use_preset_vocabulary: true
 仮	kaaA
 ##人爲
 ##人格
+俐	ljis
 𠋟	JuoA		#窳
 佬	loavA		#䝤
 ##尸𡰣
@@ -1038,6 +1039,7 @@ use_preset_vocabulary: true
 ###彣
 ###文
 ###髟
+鬁	ljis
 ###后
 ###司
 ###卮
@@ -1102,6 +1104,7 @@ use_preset_vocabulary: true
 ###兔
 ###萈
 ###犬
+猁	ljis
 ###㹜
 ###鼠
 ###能

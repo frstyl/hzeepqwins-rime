@@ -5690,7 +5690,7 @@ import_tables:
 峞	CL-Q_VujA
 堁	khL-Q_Vujs
 輠	hgL-VujA
-㷄	hL-VujA		#果k-o-j#果k-L-o-j#燬m-a-j
+㷄	hsL-VujA		#果k-o-j#果k-L-o-j#燬m-a-j
 ##və-
 㯁	bV;q
 # 𤗏	bV;q
@@ -6870,7 +6870,7 @@ import_tables:
 褲	khL-Q_oos
 觕	tshooq		#訓麤粗
 觕	dzooA
-𥼡	tshooq
+𥼡	tshooq		#粗
 麁	tshooq
 𧆓	tshooq
 麤	tshooq
@@ -8888,7 +8888,7 @@ import_tables:
 䮹	AUats
 顪	HUats
 ##Uor Uoks Uots
-祓	pF_Uots
+祓	pF_Uots		#犮
 𩵥	bF_Uots
 鼣	bF_Uots
 吠	bF_Uots
@@ -8896,7 +8896,7 @@ import_tables:
 𣏕	phF_Uots
 𢘨	phF_Uots
 𦥥	phF_Uots	1
-肺	phF_Uots
+肺	phF_Uots		#𣎵
 杮	phF_Uots
 㤄	phF_Uots
 䑔	phF_Uots
@@ -14597,7 +14597,7 @@ import_tables:
 𩖄	khximA
 顩	gLRximA		#?僉R-
 曄	qxipq		#筠輒切 爲立切
-𪔰	qxims		#鼓聲
+??	qxims		#鼓聲
 𠪚	Cximq
 㞚	tshSxipq		#臿ts-a-p
 𡍪	tshSxipq
@@ -16186,7 +16186,7 @@ import_tables:
 𩃶	bVutq
 茇	bVutq
 䯋	bVutq
-拔	bVutq
+拔	bVutq		1
 菝	bVutq
 䢌	pVutq
 㤄	pVutq
@@ -16240,7 +16240,7 @@ import_tables:
 䠪	thVunA
 斷	dVunA
 𣃔	dVunA
-𠜷	dVunA
+??	dVunA
 𠸿	dVunA
 奪	dVutq
 𡙜	dVutq
@@ -17406,17 +17406,19 @@ import_tables:
 傆	CUans
 愿	CUans		#𩕾𡙷𥆞k-a-n?
 𩕾	CUans
-##Uon
-髮	pF_Uotq		#犮p-o-t
+##Uon?
+#
+髮	pF_Uotq		#犮p-o-t 犮p-eo-t
 𩠖	pF_Uotq
 𩑛	pF_Uotq
 颰	pF_Uotq
 冹	pF_Uotq
 瞂	bF_Uotq
 坺	bF_Uotq
-拔	bF_Uotq
-䑔	bF_Uotq		#巿
-㪻	phF_Uons
+拔	bF_Uotq		1
+#
+䑔	bF_Uotq		#巿p-o-t
+㪻	phF_Uons		#䜌r-o-n
 㪻	kUons
 卛	kUons		#㪻
 㤄	phF_Uotq
@@ -18455,7 +18457,7 @@ import_tables:
 # 䀣	maitq		#ŋ
 # 㑻	maitq
 ##ORon
-拔	baotq
+拔	baotq		#蒲八切
 菝	baotq
 㺴	paotq		#𤤒
 𤤒	paotq
@@ -22378,7 +22380,7 @@ import_tables:
 𣎵	pF_U,tq	99
 巿	pF_U,tq		#韍 芾
 芾	pF_U,tq
-黻	pF_U,tq		#巿
+黻	pF_U,tq		#犮
 紱	pF_U,tq		#𦓗韍黻紱祓帗𥾧
 韍	pF_U,tq
 翇	pF_U,tq
@@ -23023,7 +23025,7 @@ import_tables:
 奤	phoakq
 𦿍	phoakq
 亳	boakq		#亳京p-a-k
-郝	Hoakq
+郝	hsL-oakq		#赤
 各	kQ_oakq		#k-R
 胳	kQ_oakq
 閣	kQ_oakq
@@ -24927,7 +24929,7 @@ import_tables:
 ##iŋ
 鏻	leiCq
 獜	leiCq
-令	leiCq	2
+令	leiCq	2	#令狐
 零	leiCq
 𩟃	leiCq
 䴇	leiCq
@@ -24986,7 +24988,7 @@ import_tables:
 笭	leiCA
 𦊓	leiCA
 冷	leiCA
-令	leiCs
+令	leiCs	2	#令支縣在遼西郡
 𨛲	neiCq		#秊
 𨚶	neiCq
 佞	neiCs		#仁
@@ -26042,8 +26044,8 @@ import_tables:
 赤	khLJjakq
 烾	khLJjakq
 郝	khLJjakq
-郝	sqJjakq		#?Ls?赤k-h-L
-螫	sqJjakq
+郝	sq-Jjakq		#?Ls?赤k-h-L
+螫	sq-Jjakq
 ##jek
 𠧚	thJjekq		#?姓
 𠧵	thJjekq

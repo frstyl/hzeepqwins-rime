@@ -133,7 +133,7 @@ speller:
 
 ####聲
 
-    - derive/^k(h?)L(?!-)/t$1/ #kL t #kL tsc#CL缺#合甚叕出 穿川舛車樞杵處楢醜臭饎出赤
+    - derive/^k(h?)L(?!-)/t$1/ #kL t #kL tsc#CL缺#合甚叕出 穿川舛車樞杵處楢醜臭饎出赤 --hL?
     - derive/^gL(?!-)/d/
     - derive/^([sz])KL(?!-)/$1/ #缺 Ls?skL? #sq
 
@@ -153,7 +153,7 @@ speller:
 
     - derive/^([sz])[ptkmnCLRQq]-(?![JR])/$1/ #s-[] #z實不同?
     - derive/-//
-    - derive/.-// #(.+) #註
+    - derive/.-// #(.+) #L-, s[ptk]-, ij-,
 
 ##聲-介-上 聲母渻介
     #- derive/^(hms|ph|p|b|m|Q)[V]/$1/ #V
@@ -423,9 +423,9 @@ speller:
 
 ##可選
 ##介作元
-    # - derive/[Ii][;,]/i/  ##此乃有
+    # - derive/[Ii][;,]/i/  ##此
     # - derive/(iu|[Uu][;,])/u/  #介元
-    - abbrev/([Vvo])u/v/ #v=vu #與首字母同級
+    - abbrev/([Vvo])u(.)/v$2/ #v=vu #與首字母同級
 ## 介元序 尾後
     # - fuzz/(?<!^)x([aeiou;,])/r$1/ #r=x
     # - fuzz/(?<!^)r([aeiou;,])/x$1/ #
@@ -488,7 +488,7 @@ speller:
     - abbrev/^([a-zA-Z])[aeiouVYvfIUjyxwə;,].*$/$1/ #𥳑
 ####轉寫
     - derive/-//
-    - derive/_//
+    - derive/_//  #Q, F, 
 
     #- derive/,/ʌ/
     #- derive/;/ə/

@@ -5,6 +5,63 @@ version: "2022.1.15"
 sor: by_weight
 use_preset_vocabulary: true
 ...
+####切韻
+##rəŋ
+硱	khr;Cq	2		# （𨁉）磴。又口冰反。
+掤	pr;Cq
+淜	br;Cq
+皀	pr;kq	1
+䫾	pr;kq
+㘠	pr;kq
+䁇	mr;kq
+皕	pr;kq		#?
+仌	pr;Cq	999
+冰	pr;Cq
+砯	phr;Cq
+靐	br;Cs
+馮	br;Cq
+憑	br;Cq
+㵗	br;Cq
+凭	br;Cq	999
+凭	br;Cs
+逼	pr;kq
+偪	pr;kq
+幅	pr;kq
+楅	pr;kq
+䮠	pr;kq
+湢	pr;kq
+𤗚	br;kq
+𤐧	br;kq
+畐	phr;kq
+𤗚	phr;kq
+稫	phr;kq
+堛	phr;kq
+愊	phr;kq
+踾	phr;kq
+𩜰	phr;kq
+揊	phr;kq
+𢾇	phr;kq
+腷	br;kq
+𥻅	br;kq
+踾	br;kq
+鶝	br;kq
+副	phr;kq		#判
+㽬	phr;kq
+疈	phr;kq
+𨺤	phr;kq
+䦼	phr;kq	9		#𨼱訓疈
+愎	br;kq		#?
+馥	br;kq
+棘	kr;kq		#
+襋	kr;kq
+㻷	kr;kq
+蕀	kr;kq
+抑	Ar;kq
+𢑏	Ar;kq	999
+𡊁	Ar;kq
+凝	Cr;Cq
+冰	Cr;Cq
+凝	Cr;Cs
 ####誤
 # 厹	nJjuvA		#禸
 # 萑	EVanq
@@ -119,6 +176,7 @@ use_preset_vocabulary: true
 搪揬	
 唐突			#非連綿
 ##多音
+令狐	leeCq Eooq
 万俟	mo;kq gi;q
 狋氏	gwenq tsjeCq
 龜兹	kiuq tsi;q
@@ -4291,10 +4349,7 @@ use_preset_vocabulary: true
 ###尸
 𠃜	sJjiq
 ###利
-俐	ljis
-鬁	ljis
-猁	ljis
-琍	ljis
+
 ###豊
 軆	theejA
 𩪆	theejA
@@ -7660,6 +7715,7 @@ use_preset_vocabulary: true
 㩑	so,pq
 㪪	so,pq
 ###集亼
+襍	dzo,pq
 雑	dzo,pq
 雦	dzjipq
 亼	dzjipq
@@ -7912,6 +7968,7 @@ use_preset_vocabulary: true
 𱳕	Ciamq
 ###
 ###甲
+𫭂	kaapq
 𣜊	kaapq
 𡴌	kaapq		#甲
 舺	Eaapq
@@ -8232,24 +8289,24 @@ use_preset_vocabulary: true
 ###田
 
 ###眞
-𩺘	tjinq
-𤠶	tjinq
-𮔪	tjinq
+眞	tsJjinq	999
+𩺘	tsJjinq
+𤠶	tsJjinq
+𮔪	tsJjinq
 衠	tsJyinq
-𮊍	tjinq
-𤛇	tjinq
-𩌙	tjinq
-𢅬	tjinq
-𧜖	tjinq
+𮊍	tsJjinq
+𤛇	tsJjinq
+𩌙	tsJjinq
+𢅬	tsJjinq
+𧜖	tsJjinq
 𧷒	thRxeCs		#𧶸
 𩄠	teenq
-𰴓	tjinq
-𩝻	tjinq
+𰴓	tsJjinq
+𩝻	tsJjinq
 𰦌	tsJjinq
 𫣵	tsJjinq zi;A
 𭻺	tsJjinq toaC
-𥪧	deenq
-𩄠	tsjiq
+𥪧	deenq		#篇海音田 塞也 俗作𥪧.
 #
 槙	tsJjinA
 𭫕	tsJjinA
@@ -8297,11 +8354,11 @@ use_preset_vocabulary: true
 ##
 𨰎	deens
 ##
-𠆍	tjinq
+𠆍	tsJjinq
 ##
-𤄱	tjins
+𤄱	tsJjins
 ##
-𬟕	tjinA
+𬟕	tsJjinA
 ##昚
 𠋚	Hfitq
 眘	dzJjins	5
@@ -8743,7 +8800,7 @@ use_preset_vocabulary: true
 ###歬前
 𢶕	tsjenA
 𠟠	tsjenA
-𦒕	tsjenA
+??	tsjenA
 𦑦	tsjenA
 譾	tsjenA
 𠞳	tsjenA
@@ -9703,7 +9760,7 @@ use_preset_vocabulary: true
 儨	tsJjitq
 𨟊	tsJjitq
 𧓳	tsJjitq		#蛭
-𩍵	tjitq		#搜眞玉鏡
+𩍵	tRxeq		#搜眞玉鏡 音知
 #
 筫	tsJjitq
 貭	tsJjitq
@@ -10586,7 +10643,7 @@ use_preset_vocabulary: true
 壱	Ajitq
 夁	Ajitq
 𡔾	Ajitq
-𡕄	Ajitq
+??	Ajitq
 𡕋	Ajitq
 𡕌	Ajitq
 # 𡕍	Ajitq
@@ -11543,7 +11600,7 @@ use_preset_vocabulary: true
 𢀹	dRximA
 𠢧	sJi;Cs
 𧜜	sJi;Cs
-##滕𣎌
+##滕??
 𩧔	do;Cq
 𩧖	do;Cq
 駦	do;Cq
@@ -12368,7 +12425,7 @@ use_preset_vocabulary: true
 㶢	kVaCq
 𠈑	kVaCq
 𰭧	kVaCq
-𰰬	kVaCq
+??	kVaCq
 𤉭	kVaCq
 𤐥	kVaCq
 𤑋	kVaCq
@@ -12436,7 +12493,7 @@ use_preset_vocabulary: true
 𣪳	Houkq
 㺉	khoukq
 𣪹	khoukq
-𥀎	khoukq
+??	khoukq
 𩁡	koukq
 #
 𥝻	koukq		#1		#穀
@@ -14962,7 +15019,7 @@ use_preset_vocabulary: true
 ###瓦
 𤭉	khoaCq
 ###弓
-弫	tjinA
+弫	tsJjinA
 彁	giaCq		#彊
 ###弜
 ###弦

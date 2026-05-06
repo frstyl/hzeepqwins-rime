@@ -1408,20 +1408,20 @@ preset_keyboards:
     - {click: a, long_click: Insert, swipe_up: select_all}
     - {click: s, long_click: Delete, swipe_up: Delete}
     - {click: d, long_click: "~", swipe_up: "~"}
-    - {click: f,  long_click: "`", swipe_up: "`"}
-    - {click: g, long_click: Tab1, swipe_up: Tab1}
-    - {click: h, long_click: Date, swipe_up: Date }
+    - {click: f, long_click: "`", swipe_up: "`"}
+    - {click: g, long_click: "/", swipe_up:  "/"}
+    - {click: h, long_click: "?", swipe_up: "?", swipe_down: "¿"}
     - {click: j, long_click: Up, swipe_up: Up}
-    - {click: k, long_click: BACK, swipe_up: BACK}
+    - {click: k, long_click: Tab1, swipe_up:  '	'}
     - {click: l, long_click: Escape, swipe_up: Escape}
  #   - {width: 5}
     - {click: ";", long_click: ":", swipe_up: Escape, width: 10}
     #- {click: "'", long_click: "\"", width: 10}
-    #- {label: Tab,click:  '	', long_click: space, width: 10} #tab无效
+    #- {label: Tab,click:  '	', long_click: space, width: 10} #tab鍵与符不同
+    - {click: "'", long_click: "\"",swipe_up: Date, width: 10}
     - {click: z, long_click: Home, swipe_up: undo, swipe_down: redo}
     - {click: x, long_click: End, swipe_up: cut}
     - {click: c, long_click: Page_Up, swipe_up: copy}
-    - {click: "'", long_click: "\"", width: 10}
     - {click: v, long_click: Page_Down, swipe_up: paste}
     - {click: b, long_click: Left , swipe_up: Left}
     - {click: n, long_click: Down , swipe_up: Down}
@@ -1429,14 +1429,14 @@ preset_keyboards:
    # - {label: Tab,click:  '	'}
     - {click: BackSpace, width: 20, swipe_up: BackToPreviousSyllable}
     #- {width: 5}
-    - {click: Ctrl_L, long_click: Menu}
-    - {click: Alt_L, long_click: Keyboard_qwer36_number, swipe_up: Keyboard_symbols}
-    - {click: Shift_L}
+    - {click: Shift_L, swipe_up: Keyboard_qwer36_number}
+    - {click: Ctrl_L, width: 17.5, long_click: Keyboard_qwer36_number, swipe_up: Keyboard_symbols}
     - {click: ",", long_click: "<", swipe_up: Theme_settings}
     - {click: space, long_click: '	', swipe_right: "Right", swipe_left: "Left", swipe_up: "Up", swipe_down:  "Down",  width: 25}
     - {click: ".", long_click: ">", swipe_up: Color_switch}
-    - {click: "/", long_click: "?", swipe_up: "?",swipe_down: "?"}
-    - {click: Return, long_click: CommitComment, swipe_up: Keyboard_number, swipe_down: Keyboard_default, width: 15}
+  #  - {click: "/", long_click: "?", swipe_up: "?",swipe_down: "?"}
+    - {click: Alter_L, long_click: Menu, swipe_up: liquid_keyboard_clipboard}  
+    - {click: Return, long_click: CommitComment, swipe_up: Keyboard_number, swipe_down: Keyboard_default, width: 17.5}
 
   tongwen:
     author: "暖暖"
@@ -1555,7 +1555,7 @@ preset_keyboards:
     - {click: KP_Equal, long_click: '≠'}
     - {click: Keyboard_default, long_click: Keyboard_symbols}
     - {click: space, long_click: Theme_settings}
-    - {click: KP_Begin}
+    - {click: p, long_click: Control_L}#Alt_L  Control_L Num_Lock
     - {click: KP_Enter, long_click: Menu, key_back_color: benter}
 
   bopomofo:
@@ -2339,7 +2339,7 @@ preset_keyboards:
     - {click: '🗯'}
     - {click: '💭'}
     - {click: '🕳'}
-    - {click: '👓'}
+    - {click: '??'}
     - {click: '🕶'}
     - {click: '👔'}
     - {click: '👕'}
@@ -4656,6 +4656,8 @@ preset_keyboards:
 
 preset_keys:
  #
+  Alter_L: {label: Alt,send: Alt_L,shift_lock: long, functional: false}
+  Caps: {label: 大寫, send: Caps_Lock, shift_lock: click}
   Table: {label: 製表, send: Tab, functional: false}
   # 安卓
   BRIGHTNESS_DOWN: {label: 亮度-, send: BRIGHTNESS_DOWN}
@@ -4685,7 +4687,7 @@ preset_keys:
   #space: {repeatable: false, preview: ' ', functional: false, label: '_______', send: space}
   space1: {repeatable: false, label: '空格', functional: false, send: space}
   Clear: {label: 全清, send: Clear}
-  Escape: {label: 取消, functional: false, send: Escape}
+  Escape: {label: 退出, functional: false, send: Escape}
   Home: {label: 行首, send: Home, functional: false}
   Insert: {label: 插入, send: Insert}
   Delete: {label: 删除, send: Delete, functional: false}

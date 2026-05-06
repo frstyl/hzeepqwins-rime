@@ -1,6 +1,6 @@
 #
 #廣韻
-#
+#多音字頻\t釋文
 name: kvachqwins
 version: "2025.9.13"
 sort: by_weight
@@ -15,7 +15,7 @@ import_tables:
 些	soas
 馱	doaq
 馱	doas
-大	doas
+大	doas	2	#又唐蓋切
 嚲	toaA
 䯬	toaA
 癉	toaA
@@ -2063,7 +2063,7 @@ import_tables:
 澞	Cuoq
 鸆	Cuoq
 噳	CuoA
-无	muoq
+无	muoq	999
 撫	phuoA
 䌗	phuoA
 瞴	muoq
@@ -15836,7 +15836,7 @@ import_tables:
 𥈔	AeenA
 宴	AeenA
 宴	Aeens
-𥉛	Aeens
+??	Aeens
 蛂	beetq
 琕	beenq
 玭	beenq
@@ -17066,7 +17066,7 @@ import_tables:
 𡿪	ljetq
 𠛱	ljetq
 膦	ljenA
-令	ljenq
+令	ljenq	2	#漢書云金城郡有令居縣顔師古又音零
 芇	mjenq
 謾	mjenq
 𣡠	mjenq
@@ -19981,7 +19981,7 @@ import_tables:
 坑	khaaCq
 砊	khaaCq
 劥	khaaCq
-冷	laaCA
+冷	laaCA		#寒也魯打切又魯頂切一
 猛	maaCA
 蜢	maaCA
 艋	maaCA
@@ -24025,7 +24025,7 @@ import_tables:
 呤	leeCq
 跉	leeCq
 狑	leeCq
-冷	leeCq
+冷	leeCq	2	#冷凙吳人云冰凌又力頂切
 怜	leeCq
 秢	leeCq
 岭	leeCq
@@ -24038,11 +24038,11 @@ import_tables:
 羚	leeCq
 姈	leeCq
 㸳	leeCq
-令	leeCq
+令	leeCq	2	#漢複姓有令狐氏本自畢萬之後國語云𣈆大夫令狐文子即魏顆也自漢已後丗本太原至邁爲王莽所誅邁少子始居[墩/燉]煌也
 笭	leeCA
 𦊓	leeCA
-冷	leeCA
-令	leeCs
+冷	leeCA		#寒也又姓前趙録有徐州刺史冷道字安義又盧打切
+令	leeCs	2	#令支縣在遼西郡
 滷	deekq
 寥	leekq
 㵋	meekq
@@ -24824,12 +24824,12 @@ import_tables:
 領	ljeCA
 𣢝	HjeCs
 跉	ljeCq
-令	ljeCq
+令	ljeCq	2	#使也又吕鄭郎丁二切
 阾	ljeCA
 柃	ljeCA
 袊	ljeCA
 詅	ljeCs
-令	ljeCs
+令	ljeCs		#善也命也律也法也力政切又力盈切又歷丁切二
 滷	tshJjekq
 洺	mjeCq
 名	mjeCq
@@ -25326,8 +25326,8 @@ import_tables:
 禜	qWaCs
 醟	qWaCs
 ##反常
-聻	ni;A		#乃里切
-伱	ni;A
+伱	ni;A		#秦人呼傍人之稱乃里切二
+聻	ni;A		#乃里切#指物皃也
 㹗	tshJo,jq
 疓	nJo,jA
 𦚪	Jo,jA
@@ -25356,4 +25356,3 @@ import_tables:
 打	toaCA
 倄	EoojA
 鯫	dzoovA
-

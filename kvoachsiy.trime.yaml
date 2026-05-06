@@ -1409,13 +1409,13 @@ preset_keyboards:
     - {click: s, long_click: Delete, swipe_up: Delete}
     - {click: d, long_click: "~", swipe_up: "~"}
     - {click: f,  long_click: "`", swipe_up: "`"}
-    - {click: g, long_click: ":", swipe_up: ":"}
-    - {click: h, long_click: ";", swipe_up: ";" }
+    - {click: g, long_click: "/", swipe_up:  "/"}
+    - {click: h, long_click: "?", swipe_up: "?", swipe_down: "¿"}
     - {click: j, long_click: Up, swipe_up: Up}
-    - {click: k, long_click: BACK, swipe_up: BACK}
+    - {click: k, long_click: Tab1, swipe_up:  '	'}
     - {click: l, long_click: Escape, swipe_up: Escape}
     - {width: 5}
-    - {click: "'", long_click: "\"", width: 15}
+    - {click: Shift_L, swipe_up: Keyboard_qwer36_number,  width: 15}
     - {click: z, long_click: Home, swipe_up: undo, swipe_down: redo}
     - {click: x, long_click: End, swipe_up: cut}
     - {click: c, long_click: Page_Up, swipe_up: copy}
@@ -1424,13 +1424,14 @@ preset_keyboards:
     - {click: n, long_click: Down , swipe_up: Down}
     - {click: m, long_click: Right , swipe_up: Right}
     - {click: BackSpace, width: 15, swipe_up: BackToPreviousSyllable}
-    - {click: Ctrl_L, long_click: Menu}
-    - {click: Alt_L, long_click: Keyboard_qwer36_number, swipe_up: Keyboard_symbols}
-    - {click: Shift_L}
+    - {click: Ctrl_L, long_click: Keyboard_qwer36_number, swipe_up: Keyboard_symbols}
+    - {click: Alt_L, long_click: Menu, swipe_up: liquid_keyboard_clipboard}
+    - {click: ";", long_click: ":", swipe_up: Time, width: 10}
     - {click: ",", long_click: "<", swipe_up: Theme_settings}
     - {click: space, long_click: '	', swipe_right: "Right", swipe_left: "Left", swipe_up: "Up", swipe_down:  "Down",  width: 25}
     - {click: ".", long_click: ">", swipe_up: Color_switch}
-    - {click: "/", long_click: "?", swipe_up: "?",swipe_down: "?"}
+    - {click: "'", long_click: "\"",swipe_up: Date, width: 10}
+#- {click: "/", long_click: "?", swipe_up: "?",swipe_down: "?"}
     - {click: Return, long_click: CommitComment, swipe_up: Keyboard_number, swipe_down: Keyboard_default, width: 15}
   tongwen:
     author: "暖暖"
@@ -2975,7 +2976,7 @@ preset_keyboards:
     - {click: '🇺🇬'}
     - {click: '🇺🇸'}
     - {click: '🇺🇾'}
-    - {click: '🇺🇿'}
+    - {click: '??🇿'}
     - {click: '🇻🇦'}
     - {click: '🇻🇨'}
     - {click: '🇻🇪'}
