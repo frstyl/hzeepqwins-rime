@@ -9,12 +9,12 @@ use_preset_vocabulary: true
 ↑	dzJiaCA	999
 ↓	EaaA	999
 ←	tsoajA	999
-→	qius	999
-↔	tsoajA qius
+→	qiuvs	999
+↔	tsoajA qiuvs
 ↕	dzJiaCA EaaA
 ↖	tsoajA dzJiaCA
-↗	qius dzJiaCA
-↘	qius EaaA
+↗	qiuvs dzJiaCA
+↘	qiuvs EaaA
 ↙	tsoajA EaaA
 
 ¬	pU;jq
@@ -28,7 +28,7 @@ use_preset_vocabulary: true
 ∀	dzyenq	999
 ∁	pooA	99
 ∂	mU;jq pU;nq
-∃	qiuA	999
+∃	qiuvA	999
 ∄	muoq	999
 ∅	khouCq	999
 　	khouCq	999
@@ -56,9 +56,9 @@ use_preset_vocabulary: true
 ∠	kaokq
 ∧	Jioh
 ∨	EV;k
-∧	tshjaA
+∧	tshiaA
 ∨	Ai;kq
-∩	kaevq	999
+∩	kaavq	999
 ∪	pjeCs	999
 ∫	tsjekq
 ∫	tsjekq pU;nq
@@ -87,11 +87,11 @@ use_preset_vocabulary: true
 ⊲	tsJjeCs tsi;A
 ⊶	CUanq
 ⊷	ziaCA
-⊼	tshjaA pU;jq
+⊼	tshiaA pU;jq
 ⊽	Ai;kq pU;jq
-⋀	tshjaA
+⋀	tshiaA
 ⋁	Ai;kq
-⋂	kaevq
+⋂	kaavq
 ⋃	pjeCs
 
 °	doos	999
@@ -182,7 +182,7 @@ use_preset_vocabulary: true
 [㇁]	tsJjetq	99
 [㇄]	tsJjetq	99
 [㇂]	tsJjetq	99
-[⺕]	qius	99
+[⺕]	qiuvs	99
 𤇾	JyeCq	99
 # ⺼	nJiukq
 龴	JioCA	99

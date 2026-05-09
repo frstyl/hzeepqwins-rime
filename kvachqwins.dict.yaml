@@ -1,4 +1,4 @@
-#
+#Rime dictionary
 #廣韻
 #多音字頻\t釋文
 name: kvachqwins
@@ -12,7 +12,7 @@ import_tables:
   - tsjas
 ...
 ##
-些	soas
+些	soas	2	#楚語辝蘇箇切又音細一
 馱	doaq
 馱	doas
 大	doas	2	#又唐蓋切
@@ -157,8 +157,8 @@ import_tables:
 䓾	soaq
 娑	soaA
 桫	soaq
-池	doaq
-蛇	thoaq
+池	doaq	2	#虖池水名在并州界出周禮又音馳
+蛇	thoaq	2	#說文同上（它‧說文曰虫也从虫而長象[冕/冤]曲垂尾形上古艸居患它故相問無它乎）今市遮切
 拖	thoas
 駞	doaq
 他	thoaq
@@ -690,7 +690,7 @@ import_tables:
 㗿	HaaA
 㗿	Haas
 藞	laaA
-灑	sSaaA
+灑	sSaaA		#砂下切#灑水也砂下切一
 犘	maaq
 𪓹	maaq
 𩔶	maaq
@@ -970,151 +970,151 @@ import_tables:
 髽	tsSfaq
 𡎬	tsSfaA
 䂳	tshSfaA
-𠋧	khiaq
-迦	kiaq
-伽	giaq
-茄	giaq
-枷	giaq
-佉	khiaq
-呿	khiaq
-㰦	khiaq
-鞾	Huaq
-𢪎	Huaq
-靴	Huaq
-㗾	Huaq
-瘸	guaq
-𩨷	khuaq
-𩨭	khuaq
-𦣛	luaq
-𠏃	Auaq
-𦚢	Auaq
-侳	tsuaq
-𩛠	tsuaq
-脞	tshuaq
-㛗	tshuaq
-硨	tshJjaq
-車	tshJjaq
-厙	sJjas
-赦	sJjas
-些	sjaq
-哆	tshJjaA
-䬷	sJjaA
-𠰒	nJjaA
-乜	mjaA
-䞣	tshJjas
-斥	tshJjas
-䞣	tshjas
-謯	tsjaq
-㜘	tsjaq
-罝	tsjaq
-袓	tsjaq
-怚	tsjaq
-姐	tsjaA
-抯	tsjaA
-飷	tsjaA
-且	tshjaA
-笡	tshjas
-㚗	dzjaq
-抯	zjaA
-婼	nJjaq
-若	nJjaq
-惹	nJjaA
-若	nJjaA
-麝	zJjas
-射	zJjas
-䠶	zJjas
-謝	zjas
-榭	zjas
-㴬	zjas
-射	Jjas
-柘	tsJjas
-遮	tsJjaq
-𠌮	tsJjaq
-樜	tsJjas
-鷓	tsJjas
-䗪	tsJjas
-嗻	tsJjas
-蔗	tsJjas
-褯	dzjas
-貰	zJjas
-蝑	sjas
-擨	Jjaq
-蛇	zJjaq
-鍦	dzJjaq
-𥍸	dzJjaq
-鉈	dzJjaq
-虵	zJjaq
-灺	zjaA
-虵	JjaA
-也	JjaA
-社	dzJjaA
-𣬕	sjaA
-卸	sjas
-藉	dzjas
-躤	dzjas
-唶	tsjas
-借	tsjas
-䣠	dzjas
-䉣	sjas
-寫	sjaA
-𣞐	sjaA
-瀉	sjaA
-瀉	sjas
-邪	zjaq
-䓉	Jjaq
-邪	Jjaq
-衺	zjaq
-釾	Jjaq
-𦰳	Jjaq
-𦭿	Jjaq
-瑘	Jjaq
-鎁	Jjaq
-椰	Jjaq
-𥯘	Jjaq
-耶	Jjaq
-冶	JjaA
-䤳	dzjas
-鵺	Jjas
-夜	Jjas
-䵦	zjaA
-捨	sJjaA
-騇	sJjaA
-𩜉	sJjaA
-舍	sJjaA
-騇	sJjas
-涻	sJjas
-舍	sJjas
-荼	zJjaq
-䔑	zjaq
-斜	zjaq
-䔑	Jjaq
-斜	Jjaq
-余	dzJjaq
-賒	sJjaq
-畬	sJjaq
-𣝒	dzJjaA
-𥁹	dzJjaA
-野	JjaA
-𡐨	JjaA
-奲	tshJjaA
-撦	tshJjaA
-奢	sJjaq
-㸙	tsJjaq
-赭	tsJjaA
-堵	tsJjaA
-者	tsJjaA
-㨋	tshJjaA
-䰩	tshJjaA
-闍	dzJjaq
-諸	tsJjaq
-炙	tsJjas
-嗟	tsjaq
-𧨁	tsjaq
-蒫	tsjaq
-瘥	tsjaq
-𨲠	tsjaq
-𣩈	tsjaq
-䦈	tsjaq
+迦	kIaq
+伽	gIaq
+茄	gIaq
+枷	gIaq
+佉	khIaq
+呿	khIaq
+㰦	khIaq
+𠋧	khIaq
+鞾	HUaq
+𢪎	HUaq
+靴	HUaq
+㗾	HUaq
+瘸	gUaq
+𩨷	khUaq
+𩨭	khUaq
+𦣛	lUaq
+𠏃	AUaq
+𦚢	AUaq
+侳	tsUaq
+𩛠	tsUaq
+脞	tshUaq
+㛗	tshUaq
+硨	tshJiaq
+車	tshJiaq
+厙	sJias
+赦	sJias
+些	siaq		#少也寫邪切一
+哆	tshJiaA
+䬷	sJiaA
+𠰒	nJiaA
+乜	miaA
+䞣	tshJias
+斥	tshJias
+䞣	tshias
+謯	tsiaq
+㜘	tsiaq
+罝	tsiaq
+袓	tsiaq
+怚	tsiaq
+姐	tsiaA
+抯	tsiaA
+飷	tsiaA
+且	tshiaA
+笡	tshias
+㚗	dziaq
+抯	ziaA
+婼	nJiaq
+若	nJiaq
+惹	nJiaA
+若	nJiaA
+麝	zJias
+射	zJias
+䠶	zJias
+謝	zias
+榭	zias
+㴬	zias		#[射弓也周禮有五/白矢參連剡注襄尺井儀]射白勻參遠剡注讓尺井儀又姓三輔決録云漢末[-/有]大鴻臚射咸本姓謝名服天子以爲將軍出征姓謝名服不祥改之爲射氏名咸神夜切又音石又音夜僕射也四
+射	Jias	2	#僕射
+柘	tsJias
+遮	tsJiaq
+𠌮	tsJiaq
+樜	tsJias
+鷓	tsJias
+䗪	tsJias
+嗻	tsJias
+蔗	tsJias
+褯	dzias
+貰	zJias
+蝑	sias
+擨	Jiaq
+蛇	zJiaq		#毒蟲又姓後秦録姚萇后蛇氏也南安人食遮切又音它三
+鍦	dzJiaq
+𥍸	dzJiaq
+鉈	dzJiaq
+虵	zJiaq
+灺	ziaA
+虵	JiaA
+也	JiaA
+社	dzJiaA
+𣬕	siaA
+卸	sias
+藉	dzias
+躤	dzias
+唶	tsias
+借	tsias
+䣠	dzias
+䉣	sias
+寫	siaA
+𣞐	siaA
+瀉	siaA
+瀉	sias
+邪	ziaq
+䓉	Jiaq
+邪	Jiaq
+衺	ziaq
+釾	Jiaq
+𦰳	Jiaq
+𦭿	Jiaq
+瑘	Jiaq
+鎁	Jiaq
+椰	Jiaq
+𥯘	Jiaq
+耶	Jiaq
+冶	JiaA
+䤳	dzias
+鵺	Jias
+夜	Jias
+䵦	ziaA
+捨	sJiaA
+騇	sJiaA
+𩜉	sJiaA
+舍	sJiaA
+騇	sJias
+涻	sJias
+舍	sJias
+荼	zJiaq
+䔑	ziaq
+斜	ziaq
+䔑	Jiaq
+斜	Jiaq
+余	dzJiaq
+賒	sJiaq
+畬	sJiaq
+𣝒	dzJiaA
+𥁹	dzJiaA
+野	JiaA
+𡐨	JiaA
+奲	tshJiaA
+撦	tshJiaA
+奢	sJiaq
+㸙	tsJiaq
+赭	tsJiaA
+堵	tsJiaA
+者	tsJiaA
+㨋	tshJiaA
+䰩	tshJiaA
+闍	dzJiaq
+諸	tsJiaq
+炙	tsJias
+嗟	tsiaq
+𧨁	tsiaq
+蒫	tsiaq
+瘥	tsiaq
+𨲠	tsiaq
+𣩈	tsiaq
+䦈	tsiaq
 鞴	boos
 𩢕	boos
 啚	dooq
@@ -1442,13 +1442,13 @@ import_tables:
 帑	nooq
 笯	nooq
 奴	nooq
-怒	nooA
+怒	nooA	2	#恚也奴古切又奴故切五
 弩	nooA
 砮	nooA
 努	nooA
 𧉭	nooA
 笯	noos
-怒	noos
+怒	noos		#恚也又音努
 孥	nooq
 㚢	nooq
 部	booA
@@ -1547,7 +1547,7 @@ import_tables:
 溩	AooA
 𧽋	AooA
 䡧	AooA
-於	Aooq
+於	Aooq		#古作於戲今作嗚呼
 㻍	Cooq
 蜈	Cooq
 鋘	Cooq
@@ -1600,7 +1600,7 @@ import_tables:
 醋	tshoos
 錯	tshoos
 㳻	tshoos
-戲	Hooq
+戲	Hooq	2	#古文（歑‧温吹氣息也）呼字
 芐	EooA
 惡	Aooq
 噁	Aoos
@@ -1711,6 +1711,7 @@ import_tables:
 豎	dzJuoA
 竪	dzJuoA
 趍	tshuoq
+扶	puoq	2	#公羊傳云扶寸而合注云側手曰扶案指曰寸
 趺	puoq
 肤	puoq
 邞	puoq
@@ -1725,6 +1726,7 @@ import_tables:
 妋	puoq
 夫	puoq
 麩	phuoq
+扶	buoq	#扶持也佐也漢三輔有扶風郡扶助也風化也魏爲岐州又扶州在隴右元魏置管同昌怡夷二縣又姓漢有廷尉扶嘉防無切二十六
 𢻳	buoq
 芙	buoq
 颫	buoq
@@ -1734,8 +1736,6 @@ import_tables:
 𤱽	buoq
 𥄑	buoq
 夫	buoq
-扶	puoq
-扶	buoq
 䓵	phuoq
 郛	phuoq
 筟	phuoq
@@ -1801,12 +1801,12 @@ import_tables:
 𧉊	puoA
 㕮	puoA
 蚥	puoA
-父	puoA
+父	puoA	2	#尼父尚父皆男子之美稱又漢複姓三氏孔子弟子有[宰/罕]父黑漢有臨淄主父偃左傳宋有皇父充石宋之公族也漢初有皇父鸞自魯徙居茂陵改父爲甫後漢安定太守儁始居安定朝郍代爲西州著姓又徙居京兆又音釡
 𩾿	buoA
 䭸	buoA
 㕮	buoA
 蚥	buoA
-父	buoA
+父	buoA		#說文曰父矩也家長率敎者扶雨切十五
 䒀	phuoq
 𣻜	buoq
 𣘧	buoq
@@ -1867,7 +1867,7 @@ import_tables:
 絇	kuos
 怐	kuos
 邭	kuos
-句	kuos
+句	kuos		#九遇切 章句又音溝音構
 欨	Huoq
 欨	HuoA
 䧁	HuoA
@@ -1882,7 +1882,7 @@ import_tables:
 䞤	guoq
 絇	guoq
 𡱺	guoq
-句	guoq
+句	guoq	2	#冤句縣名在曹州又九遇古侯二切
 𠣪	guoq
 劬	guoq
 胊	guoq
@@ -1948,7 +1948,7 @@ import_tables:
 瘻	luoq
 𤗬	luoq
 膢	luoq
-婁	luoq
+婁	luoq	2	#詩曰弗曳弗婁傳曰婁亦曳也又落侯切
 𨻻	luoA
 僂	luoA
 褸	luoA
@@ -2101,7 +2101,7 @@ import_tables:
 鵡	muoA
 娬	muoA
 武	muoA
-尠	suos
+尠	suos	2	#思句切少也又息淺切一
 酗	Huos
 咻	HuoA
 鬚	suoq
@@ -2182,8 +2182,8 @@ import_tables:
 盂	quoq
 䣿	quoq
 𦱃	quoq
-雩	Huoq
-雩	quoq
+雩	Huoq	2	#雩婁古縣名在廬江
+雩	quoq		#請雨祭名又沉于切
 謣	quoq
 䢓	quoq
 宇	quoA
@@ -2554,7 +2554,7 @@ import_tables:
 麮	khioA
 弆	khioA
 𧉧	khioA
-去	khioA
+去	khioA	2	#除也說文从大也羌舉切又丘據切五
 㰦	khios
 麮	khios
 呿	khios
@@ -2563,7 +2563,7 @@ import_tables:
 㧁	khios
 䒧	khios
 𩿟	khios
-去	khios
+去	khios		#離也又卻吕切
 𧽟	dzioA
 庶	tsJios
 𤳯	tsJios
@@ -2599,7 +2599,7 @@ import_tables:
 癙	sJioA
 鼠	sJioA
 鄔	Aios
-於	Aioq
+於	Aioq	2	#居也代也語辝也又商於地名亦姓今淮南有之央居切又音烏五
 扵	Aioq
 箊	Aioq
 淤	Aioq
@@ -2616,13 +2616,13 @@ import_tables:
 齬	Cioq
 鋙	Cioq
 衙	Cioq
-語	CioA
+語	CioA		#說文論也魚巨切十二
 敔	CioA
 圄	CioA
 衙	CioA
 齬	CioA
 鋙	CioA
-語	Cios
+語	Cios	2	#說也告也又魚巨切
 許	HioA
 杵	tshJioA
 馭	Cios
@@ -2776,8 +2776,8 @@ import_tables:
 紵	dRioA
 𡪄	tRioA
 籹	nRioA
-女	nRioA
-女	nRios
+女	nRioA		#禮記曰女者如也如男子之敎尼吕切又尼慮切二
+女	nRios	2	#以女妻人也尼據切二
 袽	nRioq
 帤	nRioq
 𣭠	nRioq
@@ -3039,9 +3039,9 @@ import_tables:
 泤	zi;A
 𠪙	si;A
 禩	zi;A
-譩	Ai;q
+譩	Ai;q		#忿也
 噫	Ai;q
-譩	Ai;A
+譩	Ai;A	2	#恨也又噟也於擬切又於其切二
 醷	Ai;A
 意	Ai;s
 鷾	Ai;s
@@ -3477,8 +3477,8 @@ import_tables:
 皉	tsheejA
 鮆	dzeejA
 啙	dzeejA
-眥	dzeejs
-些	seejs
+眥	dzeejs		目際又才賜切
+些	seejs	2	#可也此也辝也何也楚音[-/又]蘇箇切
 䪡	tseejq
 戻	theejs
 𣧂	theejs
@@ -3500,9 +3500,9 @@ import_tables:
 摕	deejs
 𧫚	deejs
 墆	deejs
-慸	deejs
-殢	theejs
-殢	Heejs
+慸	deejs		#極也又恥厲切#蔕芥
+殢	theejs		#極困
+殢	Heejs		#殢極困也
 磾	teejq
 鷤	deejq
 鷤	deejs
@@ -3705,7 +3705,7 @@ import_tables:
 悷	leejs
 戾	leejs
 綟	leejs
-逮	deejs
+逮	deejs	2	#逮及也又徒戴切
 棣	deejs
 𤃀	leejs
 𥶾	leejs
@@ -3929,7 +3929,7 @@ import_tables:
 兮	Eeejq
 盻	Eeejs
 栖	seejq
-粞	seejq
+粞	seejq		#先稽切#碎米
 西	seejq
 卤	seejq
 𠧧	seejq
@@ -4216,7 +4216,7 @@ import_tables:
 籭	sSaeq
 躧	sSaeA
 曬	sSaes
-灑	sSaeA
+灑	sSaeA		#灑水爾雅云大瑟謂之灑長八尺一寸廣一尺八寸二十七弦所蟹切又所綺切三
 䵘	sSaes
 𩂢	Caeq
 𣏟	phaes
@@ -4299,7 +4299,7 @@ import_tables:
 絓	Efes
 黊	Efes
 纗	Efes
-孈	Efes
+孈	Efes		#愚戇又多態也#胡卦切
 𧬭	kfeq
 竵	Hfeq
 𠿎	Hfeq
@@ -4388,7 +4388,7 @@ import_tables:
 泚	tshjeA
 𩢑	tshjeA
 𧺼	tshjeA
-𡘌	tshjeA
+𡘌	tshjeA		#直大也說文火介切瞋大聲也 雌氏切
 此	tshjeA
 骴	dzjeq
 玼	dzjeq
@@ -4396,7 +4396,7 @@ import_tables:
 胔	dzjeq
 飺	dzjeq
 鴜	dzjeq
-眥	dzjes
+眥	dzjes		#目眥又在計切
 㧘	dzjes
 骴	dzjes
 胔	dzjes
@@ -4479,7 +4479,7 @@ import_tables:
 䌳	sJjeq
 䌳	sjeq
 璽	sjeA
-孈	JjeA
+孈	JjeA		#多態#多態
 臡	nJjeq
 𦭲	gjeq
 鄑	tsjeq
@@ -4564,7 +4564,7 @@ import_tables:
 𧰲	tshJjeA
 豕	sJjeA
 衹	tsJjeq
-氏	tsJjeq
+氏	tsJjeq	2	#月氏國名又閼氏匈奴皇后也又精是二音
 紙	tsJjeA
 帋	tsJjeA
 扺	tsJjeA
@@ -4574,7 +4574,7 @@ import_tables:
 眂	dzJjeq
 𣏚	dzJjeq
 䟗	dzJjeA
-氏	dzJjeA
+氏	dzJjeA		#氏族又支[指/精]二音 承紙切
 𦐊	sJjes
 舐	zJjeA
 祇	gjeq
@@ -4638,7 +4638,7 @@ import_tables:
 斯	sjeq
 澌	sjes
 𣩠	sjes
-蛇	Jjeq
+蛇	Jjeq	2	#蜲蛇莊子所謂紫衣而朱冠又蛇丘縣名又神遮切
 絁	sJjeq
 葹	sJjeq
 鍦	sJjeq
@@ -4677,7 +4677,7 @@ import_tables:
 衪	JjeA
 肔	JjeA
 扡	JjeA
-貤	Jjes
+貤	Jjes		#物之重次也 以豉切
 菥	sjeq
 蜤	sjeq
 杫	sjes
@@ -4823,7 +4823,7 @@ import_tables:
 纗	tsyeq
 觿	Hyeq
 鑴	Hyeq
-孈	Hyes
+孈	Hyes		#呼恚切過也一
 蠵	Jyeq
 欈	Jyeq
 𧲚	Jyeq
@@ -5003,8 +5003,8 @@ import_tables:
 矖	sSxeA
 襹	sSxes
 曬	sSxes
-灑	sSxeA
-灑	sSxes
+灑	sSxeA		#灑埽又所買切
+灑	sSxes		#灑埽說文汛也
 𪎕	mxeq
 𪎭	mxeq
 𦗕	mxeq
@@ -5086,7 +5086,7 @@ import_tables:
 褫	dRxeA
 傂	dRxeA
 䚦	dRxeA
-池	dRxeq
+池	dRxeq		#虖池水名在并州界出周禮又音馳
 馳	dRxeq
 䪧	dRxeq
 䶔	dRxeq
@@ -5117,7 +5117,7 @@ import_tables:
 桸	Hxeq
 𪖥	HxeA
 䖒	Hxeq
-戲	Hxeq
+戲	Hxeq	2	#於戲歎辝又姓虙戲氏之後又喜義切
 巇	Hxeq
 𤃪	Hxeq
 𢹍	Hxeq
@@ -5127,7 +5127,7 @@ import_tables:
 𢨛	Hxeq
 㚀	Hxeq
 隵	Hxeq
-戲	Hxes
+戲	Hxes		#戲弄也施也謔也歇也說文曰三軍之偏也一曰兵也又姓魏志有潁川戲志才香義切二
 嚱	Hxes
 簁	sSxeq
 簁	sSxeA
@@ -5185,11 +5185,11 @@ import_tables:
 烜	HweA
 𠷏	AweA
 𠷏	HweA
-䪎	sSweq
+䪎	sSweq		#鞍[䪎/鞘]一曰垂皃山垂切二
 䭨	sSweq
 諉	nRwes
 㢻	nRwes
-委	Aweq
+委	Aweq	2	#委委佗佗美也
 逶	Aweq
 𣨙	Aweq
 萎	Aweq
@@ -5198,7 +5198,7 @@ import_tables:
 蜲	Aweq
 痿	Aweq
 䴧	Aweq
-委	AweA
+委	AweA		#委曲也亦委積又屬也棄也隨也任也又姓漢有太原太守委進出風俗通於詭切五
 蜲	AweA
 䍴	AweA
 餧	Awes
@@ -5479,8 +5479,8 @@ import_tables:
 𧰽	zjiA
 𠒅	zjiA
 𠒃	zjiA
-貤	zJjis
-貤	Jjis
+貤	zJjis		#重物次第
+貤	Jjis		#重物次第
 鋖	sjiq
 寐	mjis
 羨	Jjiq
@@ -5581,7 +5581,7 @@ import_tables:
 眭	Hyiq
 瞡	kyis
 嫢	gyiA
-孈	JyiA
+孈	JyiA	2	#愚戇多態又尤卦切#以水切
 湀	kyiA
 癸	kyiA
 鄈	gyiq
@@ -5931,7 +5931,7 @@ import_tables:
 䉠	mxiq
 黴	mxiq
 㵟	mxiq
-薇	mxiq
+薇	mxiq	2	#爾雅曰薇垂水謂生於水邊
 娓	mxis
 鬽	mxis
 魅	mxis
@@ -6243,7 +6243,7 @@ import_tables:
 𨦂	lo,jA
 曃	tho,js
 靆	do,js
-逮	do,js
+逮	do,js		#及也又徒帝切
 埭	do,js
 𡍖	do,js
 海	Ho,jA
@@ -6252,10 +6252,10 @@ import_tables:
 鼐	no,js
 迺	no,jA
 態	tho,js
-能	no,jq
+能	no,jq	2	#爾雅謂三足鼈也又獸名禹父所化也奴來切又奴登切二
 螚	no,js
 𣉘	no,js
-能	no,js
+能	no,js	2	#技能又姓何氏姓苑云長廣人
 㧉	ko,js
 愾	kho,js
 開	kho,jq
@@ -6316,7 +6316,7 @@ import_tables:
 𪒴	do,jq
 籉	do,jq
 臺	do,jq
-粞	so,jq
+粞	so,jq		#蘇來切#碎米
 毢	so,jq
 斄	lo,jq
 犛	lo,jq
@@ -6458,7 +6458,7 @@ import_tables:
 𢂤	boojs
 顝	khoojq
 顝	khoojA
-䪎	soojq
+䪎	soojq	2	#鞍邊帶也
 𦞙	toojA
 謉	toojA
 傀	koojq
@@ -6893,7 +6893,7 @@ import_tables:
 毅	CI;js
 藙	CI;js
 䉨	CI;js
-譩	AI;jq
+譩	AI;jq	2	#哀痛聲或作偯譩噫
 㐆	AI;jq
 蟦	bU;jq
 賁	bU;jq
@@ -7035,7 +7035,7 @@ import_tables:
 𢼸	mU;jq
 微	mU;jq
 㵟	mU;jq
-薇	mU;jq
+薇	mU;jq		#無非切菜也
 䉠	mU;jq
 䥩	mU;jq
 癓	mU;jq
@@ -7131,7 +7131,7 @@ import_tables:
 䞗	tshSaejq
 豺	dzSaejq
 𡺵	dzSaejq
-𡘌	Haejs
+𡘌	Haejs	0	#?說文曰瞋大聲也
 呝	Aaejs
 俳	baejq
 輫	baejq
@@ -8298,7 +8298,7 @@ import_tables:
 軥	koovq
 夠	koovq
 鴝	koovq
-句	koovq
+句	koovq		#說文曲也又髙句驪遼東國名又句龍社神名亦姓史記有句疆又九遇古候二切
 玽	koovA
 狗	koovA
 笱	koovA
@@ -8313,7 +8313,7 @@ import_tables:
 軥	koovs
 怐	koovs
 𢄇	koovs
-句	koovs
+句	koovs	2	#句當又姓華陽國志云王平句扶張翼廖化並爲大將軍時人曰前有王句後有張廖俗作勾
 𢂁	khoovq
 夠	khoovq
 怐	khoovs
@@ -8366,7 +8366,7 @@ import_tables:
 褸	loovq
 遱	loovq
 謱	loovq
-婁	loovq
+婁	loovq		#空也又星名亦姓邾婁國之後漢有婁敬又漢複姓五氏左傳齊大夫工婁灑漢書藝文志有齊隱士贛婁子著書何氏姓苑云母婁氏今琅邪人又有精婁氏邾婁氏又虜複姓二氏後魏獻帝次弟爲伊婁氏又有匹婁氏後並改爲婁氏說文作婁今作婁並同
 塿	loovA
 嘍	loovA
 簍	loovA
@@ -8586,8 +8586,8 @@ import_tables:
 妵	thoovA
 𩿢	thoovA
 𩿢	doovA
-走	tsoovA
-走	tsoovs
+走	tsoovA		#趨也子苟切又音奏一
+走	tsoovs	2	#釋名曰疾趨曰走又祖苟切
 奏	tsoovs
 輳	tshoovs
 腠	tshoovs
@@ -8608,9 +8608,9 @@ import_tables:
 仆	phiuvs
 紑	piuvq
 鴀	piuvq
-不	piuvq
+不	piuvq		#甫鳩切弗也又姓晉書有汲郡人不準盜發六國時魏王冢得古文竹書今之汲冢記也甫鳩切又甫九甫救二切五
 鴀	piuvA
-不	piuvA
+不	piuvA	2	#方久切弗也說文作𠀚鳥飛上翔不下來也从一一天也象形又甫鳩甫救二切
 衃	phiuvq
 肧	phiuvq
 紑	phiuvq
@@ -8809,7 +8809,7 @@ import_tables:
 𦃓	liuvq
 餾	liuvq
 遛	liuvq
-留	liuvq
+留	liuvq		#住也止也說文作[𤲢/畱]亦姓出會稽本自衞大夫留封人之後後漢末避地會稽遂居東陽爲郡豪族吳志有左將留賛
 罶	liuvA
 溜	liuvs
 餾	liuvs
@@ -8817,7 +8817,7 @@ import_tables:
 廇	liuvs
 𥛅	liuvs
 塯	liuvs
-留	liuvs
+留	liuvs	2	#宿留停侍也宿音秀
 䉧	liuvq
 瀏	liuvq
 䬟	liuvq
@@ -9022,8 +9022,8 @@ import_tables:
 侑	qiuvs
 𤴨	qiuvs
 又	qiuvs
-右	qiuvA
-右	qiuvs
+右	qiuvA	2	#云久切#左右也又漢複姓五氏左傳宋樂大心爲右師其後因官爲氏漢有中郎右師譚晉賈華爲右行因官爲氏漢有御史中丞右行綽何氏姓苑有右閭右扈右南等氏
+右	qiuvs		#于救切左右又于久切佑	QvI;s
 佑	qiuvs
 祐	qiuvs
 囿	qiuvs
@@ -10059,7 +10059,7 @@ import_tables:
 莩	bxevA
 歊	Hxevq
 藃	Hxevq
-孂	kxevA
+孂	kxevA		#竦身
 枵	Hxevq
 呺	Hxevq
 鴞	qxevq
@@ -10373,7 +10373,7 @@ import_tables:
 唄	baarq
 贁	baarq
 砦	dzSaarq
-慸	thRaarq
+慸	thRaarq	2	#極也劣也慸芥
 喝	Aaarq
 餲	Aaarq
 㕢	Eaarq
@@ -10626,7 +10626,7 @@ import_tables:
 啜	dzJyerq
 㿃	tRxerq
 蹛	dRxerq
-慸	thRxerq
+慸	thRxerq	2	#困劣
 𦭮	dRxerq
 滯	dRxerq
 揥	thRxerq
@@ -10706,7 +10706,7 @@ import_tables:
 輟	tRwerq
 黲	tshoamA
 鬖	soamq
-參	soamq
+參	soamq	2		#上同（三‧數名又漢複姓五氏三閭氏三閭大夫屈原之後也沛上計三烏群三烏大夫之後也三飯尞之後有三飯氏三州孝子之後有三州氏後單姓州蜀志有三丘務蘇甘切五）又七南所今二切俗作叄
 㿴	toapq
 耷	toapq
 䓠	toapq
@@ -11256,7 +11256,7 @@ import_tables:
 䟃	tsho,mq
 傪	tsho,mq
 㜗	tsho,mq
-參	tsho,mq
+參	tsho,mq		#參承參覲也俗作叅倉含切五
 慘	tsho,mA
 黲	tsho,mA
 㜗	tsho,mA
@@ -11264,7 +11264,7 @@ import_tables:
 䫩	tsho,mA
 謲	tsho,ms
 㽩	tsho,ms
-參	tsho,ms
+參	tsho,ms	2	#參鼓俗作叅
 䟃	tsho,pq
 㜗	tsho,pq
 遪	tsho,pq
@@ -11724,7 +11724,7 @@ import_tables:
 鑈	neepq
 苶	neepq
 栝	theemA
-孂	keemA
+孂	keemA	0	竦身皃兼玷切一#誤
 䕹	dzeepq
 筴	keepq
 浹	tseepq
@@ -12080,7 +12080,7 @@ import_tables:
 𡤙	nRaepq
 厱	khaemq
 鹼	kaemA
-臉	laemA
+臉	laemA	2	#臉䑎羹屬也力減切二
 醶	laemA
 𣓅	khaemA
 㦿	khaemA
@@ -12295,7 +12295,7 @@ import_tables:
 瀲	ljems
 斂	ljems
 𩅼	tsjemq
-臉	tshjemq
+臉	tshjemq	2	#臉𦞦也
 鹼	tshjemq
 憸	tshjemq
 譣	tshjemq
@@ -12498,7 +12498,7 @@ import_tables:
 苫	sJjems
 煔	sJjems
 𡝫	sJjemq
-𥮒	dzjemq
+𥮒	dzjemq		#漂絮簀又音前
 占	tsJjemq
 颭	tsJjemA
 占	tsJjems
@@ -12856,10 +12856,10 @@ import_tables:
 挹	Ajipq
 愔	Ajimq
 韾	Ajimq
-沈	sJjimA
-枕	tsJjimA
+沈	sJjimA	2	#國名古作邥亦姓出吳興本自周文王第十子聃季食采於沈即汝南平輿沈亭是也子孫以國爲氏式[任/荏]切又丈林切十四
+枕	tsJjimA	2	#枕席又姓出下邳章荏切又之賃切三
 䪴	tsJjimA
-枕	tsJjims
+枕	tsJjims		#枕頭也論語曰飲水曲肱[-/而]枕之之任切又之稔切二
 訦	dzJjimq
 忱	dzJjimq
 㽸	dzJjimq
@@ -12922,13 +12922,13 @@ import_tables:
 䯂	dzSxipq
 嵾	tshSximq
 槮	tshSximq
-參	tshSximq
+參	tshSximq	2	#上同（嵾‧嵾差不齊皃亦作參楚簪切六）
 墋	tshSximA
 醦	tshSximA
 磣	tshSximA
 蔘	sSximq
 槮	sSximq
-參	sSximq
+參	sSximq		#參星亦姓丗本云祝融之後又蒼含切
 曑	sSximq
 瘮	sSximA
 槮	sSximA
@@ -13152,14 +13152,14 @@ import_tables:
 喑	Axims
 莐	dRximq
 霃	dRximq
-沈	dRximq
+沈	dRximq		#没也說文曰陵上滈水也又漢複姓魯有沈猶氏常朝飲其羊何氏姓苑云今泰山人直深切又尸甚切九
 沉	dRximq
-沈	dRxims
+沈	dRxims	2	#又直壬切
 㱽	tRximA
 㓄	tRxims
 𤘣	dRximq
 䒞	dRximq
-枕	dRximq
+枕	dRximq	2	#繫牛杙也
 鈂	dRximq
 鴆	dRxims
 㼉	dRxims
@@ -13222,7 +13222,7 @@ import_tables:
 㠆	toanq
 癉	toanq
 䐷	toanq
-單	toanq
+單	toanq		#單複也又大也亦虜姓[可/阿]單氏後改爲單氏都寒切又常演切十
 嘽	thoanq
 𦧴	thoanq
 鷤	doanq
@@ -13759,17 +13759,17 @@ import_tables:
 斷	tVans
 䠪	thVanA
 斷	dVanA
-挩	thVatq
+挩	thVatq	999	#徒活切#除也誤也遺也又解挩或作脫
 莌	thVatq
 梲	thVatq
 敓	dVatq
-挩	dVatq
+挩	dVatq	2	#他括切#解挩
 莌	dVatq
 痥	dVatq
 鮵	dVatq
 侻	thVatq
-脫	thVatq
-脫	dVatq
+脫	thVatq		#骨去肉又徒活切
+脫	dVatq	2	#肉去骨亦姓出姓苑又土活切
 奪	dVatq
 𡙜	dVatq
 殩	tshVans
@@ -13828,10 +13828,10 @@ import_tables:
 聒	kVatq
 𣽅	kVatq
 𣽅	EVatq
-活	kVatq
+活	kVatq	2	#水流聲又乎括切
 萿	kVatq
 闊	khVatq
-活	EVatq
+活	EVatq		#不死也又水流聲戸括切八
 括	kVatq
 葀	kVatq
 頢	kVatq
@@ -14021,7 +14021,7 @@ import_tables:
 𤼙	lVanq
 圝	lVanq
 曫	lVanq
-䜌	lVanq
+䜌	lVanq	2	#南䜌縣在鉅鹿
 灓	lVans
 欒	lVanq
 灤	lVanq
@@ -14374,7 +14374,7 @@ import_tables:
 奻	nRfans
 跧	tsSfanq
 妠	nRfatq
-舌	Efatq
+舌	Efatq	2	#博雅塞也或从甘亦作舌  #𠯑𤯁
 涮	sSfans
 刷	sSfatq
 関	kfanq
@@ -14625,10 +14625,10 @@ import_tables:
 阪	pUanA
 坂	pUanA
 返	pUanA
-反	pUanA
+反	pUanA		#府遠切#反覆又不順也府逺切六
 販	pUans
 畈	pUans
-反	phUanq
+反	phUanq	2	#孚袁切斷獄平反又方晚切
 㽹	phUans
 㤆	phUans
 汳	phUans
@@ -15150,14 +15150,14 @@ import_tables:
 𦃕	HoonA
 㤻	loonA
 睔	koons
-論	loonq
+論	loonq		#說也議也思也盧昆切又力旬盧鈍二切四
 崘	loonq
 掄	loonq
 菕	loonq
 惀	loonA
 睔	loonA
 碖	loonA
-論	loons
+論	loons	2	#議也盧困切又虜昆切三
 碖	loons
 睔	EoonA
 溣	loons
@@ -15418,8 +15418,8 @@ import_tables:
 炘	HI;ns
 𤴾	HI;ns
 菦	kI;nA
-近	gI;nA
-近	gI;ns
+近	gI;nA		#迫也幾也其謹切又其靳切二
+近	gI;ns	2	#附也巨靳切又巨隱切一
 蘄	gI;nq
 芹	gI;nq
 欣	HI;nq
@@ -15435,7 +15435,7 @@ import_tables:
 槿	kI;nA
 漌	kI;nA
 慬	kI;nA
-堇	kI;nA
+堇	kI;nA	2	#菜也說文作𡎸黏土也又音芹
 𡏳	kI;nA
 㨷	kI;ns
 鄞	CI;nq
@@ -15540,7 +15540,7 @@ import_tables:
 𡊅	pU;ns
 拚	pU;ns
 𩰟	phU;nq
-不	pU;tq
+不	pU;tq	2	#弗同又府鳩方久二切
 訓	HU;ns
 䫶	bU;nq
 萉	bU;nq
@@ -15791,7 +15791,7 @@ import_tables:
 溳	qU;nq
 篔	qU;nq
 愪	qU;nq
-員	qU;nq
+員	qU;nq	2	#益也說文作員物數也又音圎又音運姓也
 𪔅	qU;nq
 䫟	qU;nA
 𪏚	qU;nA
@@ -15799,7 +15799,7 @@ import_tables:
 韻	qU;ns
 䚋	qU;ns
 𤸫	qU;ns
-員	qU;ns
+員	qU;ns	2	#姓也前涼録有金城貟敞唐有棣州刺史貟半千
 䡝	AU;nq
 䡝	AU;nA
 黦	AU;tq
@@ -16098,7 +16098,7 @@ import_tables:
 垷	keenA
 筧	keenA
 挸	keenA
-見	keens
+見	keens		#視也又姓出姓苑古電切又胡電切二
 俔	kheens
 蜆	kheens
 涀	kheens
@@ -16116,7 +16116,7 @@ import_tables:
 睍	EeenA
 現	Eeens
 涀	Eeens
-見	Eeens
+見	Eeens	2	#胡甸切#露也胡甸切四
 瀳	tseenq
 韉	tseenq
 𧲛	tseens
@@ -16155,7 +16155,7 @@ import_tables:
 僆	leens
 憐	leenq
 𪍴	leenq
-零	leenq
+零	leenq	2	#落賢切#漢書云先零西羌也本力不切
 怜	leenq
 芇	meenA
 籩	peenq
@@ -16238,7 +16238,7 @@ import_tables:
 牽	kheenq
 㯠	kheens
 牽	kheens
-躚	seenq
+躚	seenq		#蹁躚旋行皃
 蹮	seenq
 湔	tseenq
 湔	dzeenq
@@ -16412,7 +16412,7 @@ import_tables:
 湮	Aeenq
 畇	deenq
 夨	leetq
-𥮒	dzeenq
+𥮒	dzeenq	2	#昨先切#說文曰蔽絮簀也或作
 癲	teenq
 巔	teenq
 𠑘	teenq
@@ -16603,7 +16603,7 @@ import_tables:
 焆	AYetq
 鋗	HYenq
 駽	HYenq
-㘣	HYenq
+㘣	HYenq		#規也又辭㳂切
 梋	HYenq
 駽	HYens
 琄	EYenA
@@ -16941,13 +16941,13 @@ import_tables:
 僤	dzJjenq
 禪	dzJjenq
 嬋	dzJjenq
-單	dzJjenq
+單	dzJjenq	2	#單于又丹善二音
 墠	dzJjenA
 鱓	dzJjenA
-單	dzJjenA
+單	dzJjenA	2	#單父縣名亦姓出周卿士單襄公之後又丹禪二音
 禪	dzJjens
 𦉕	dzJjens
-單	dzJjens
+單	dzJjens	2	#單父縣亦姓
 戰	tsJjens
 饘	tsJjenq
 旜	tsJjenq
@@ -17106,7 +17106,7 @@ import_tables:
 韆	tshjenq
 遷	tshjenq
 𨙙	tshjenq
-躚	sjenq
+躚	sjenq		#舞皃
 𨝍	tshjenq
 𠨧	tshjenq
 僊	sjenq
@@ -17209,7 +17209,7 @@ import_tables:
 鮮	sjenA
 鮮	sjens
 鱻	sjenq
-尠	sjenA
+尠	sjenA		#俗（鮮‧少也）
 尟	sjenA
 㳄	zjenq
 𦆀	tshJjenA
@@ -17226,7 +17226,7 @@ import_tables:
 㔎	sjetq
 辥	sjetq
 硟	tshJjens
-鋋	dzJjenq
+鋋	dzJjenq	50%	#市連切#小矛方言曰五湖之閒謂矛爲鋋市連切又以然切九
 埏	sJjenq
 挻	sJjenq
 鯅	sJjenq
@@ -17241,7 +17241,7 @@ import_tables:
 綖	Jjenq
 蜒	Jjenq
 䘰	Jjenq
-鋋	Jjenq
+鋋	Jjenq	50%	#以然切#小矛又市連切
 䀽	Jjenq
 𢌨	Jjenq
 莚	Jjenq
@@ -17419,11 +17419,11 @@ import_tables:
 舛	tshJyenA
 戀	lyens
 𤼙	lyenq
-䜌	lyenq
+䜌	lyenq	2	#南䜌縣在鉅鹿
 孌	lyenA
 灓	lyens
 孌	lyens
-䜌	lyens
+䜌	lyens	2	#何承天云姓也漢有䜌秘爲[-/汝]南郡太守
 攣	lyenq
 臠	lyenA
 𡡗	lyenA
@@ -17907,7 +17907,7 @@ import_tables:
 圈	gwenA
 蔨	gwenA
 韏	kwenA
-弮	kwens
+弮	kwens		#古縣名在滎陽丘圎切五
 桊	kwens
 帣	kwens
 觠	kwens
@@ -17915,7 +17915,7 @@ import_tables:
 餋	kwens
 䖭	kwens
 𢍏	kwens
-弮	khwenq
+弮	khwenq	2	#曲也又書弮今作卷
 拳	gwenq
 觠	gwenq
 齤	gwenq
@@ -18492,7 +18492,7 @@ import_tables:
 𥭐	lyitq
 寽	lyitq
 淪	lyinq
-論	lyinq
+論	lyinq	2	#言有理出字書又盧昆切
 䑳	lyinq
 輪	lyinq
 陯	lyinq
@@ -18819,7 +18819,7 @@ import_tables:
 𥎊	gxinq
 㨷	gxinq
 墐	gxinq
-堇	gxinq
+堇	gxinq		#黏土
 僅	gxins
 覲	gxins
 殣	gxins
@@ -19232,7 +19232,7 @@ import_tables:
 䐾	doakq
 籜	thoakq
 蘀	thoakq
-格	koakq
+格	koakq	2	#樹枝
 閣	koakq
 𦐦	phoakq
 胳	koakq
@@ -19572,9 +19572,9 @@ import_tables:
 𦅇	soaCq
 𩦌	soaCq
 𠸶	soaCq
-喪	soaCq
-喪	soaCs
+喪	soaCq		#亡也蘇浪切又音桑二
 𠸶	soaCs
+喪	soaCs		#上同（𠸶‧亡也死𠸶也又姓楚大夫𠸶左又息浪切）
 汒	moaCq
 忙	moaCq
 邙	moaCq
@@ -19928,7 +19928,7 @@ import_tables:
 𩹺	kaakq
 䩹	Caakq
 𩹿	kaakq		#古伯切
-格	kaakq
+格	kaakq		#式也度也量也書傳云來也爾雅云至也亦格五博屬行箭但行梟以格殺漢吾丘壽王善之又姓東觀漢記有侍御史東平相格班古伯切十四
 貉	maakq
 𢓜	kaakq
 茖	kaakq
@@ -20026,7 +20026,7 @@ import_tables:
 膨	baaCs
 䱮	Caakq
 蹃	nRaakq
-搦	nRaakq
+搦	nRaakq		#女白切#捉搦又正也
 橕	thRaaCq
 牚	thRaaCs
 𥊼	dRaaCs
@@ -20045,7 +20045,7 @@ import_tables:
 䴤	sSaaCq
 鼪	sSaaCq
 珄	sSaaCq
-生	sSaaCq
+生	sSaaCq		#所庚切#生長也易曰天地之大德曰生又姓出姓苑所庚切十
 猩	sSaaCq
 磔	tRaakq
 𤂥	dRaakq
@@ -20846,7 +20846,7 @@ import_tables:
 創	tshSiaCs
 餦	tRiaCq
 粻	tRiaCq
-長	tRiaCA
+長	tRiaCA		#大也又漢複姓晉有長兒魯少事智伯智伯絕之三年其後死智伯之難知丈切又直張切一
 帳	tRiaCs
 脹	tRiaCs
 痮	tRiaCs
@@ -20862,11 +20862,11 @@ import_tables:
 㙊	dRiaCq
 䗅	dRiaCq
 瓺	dRiaCq
-長	dRiaCq
+長	dRiaCq		#久也逺也常也永也直良切又直向丁丈二切八
 瓺	dRiaCs
-長	dRiaCs
-昶	thRiaCA
-昶	thRiaCs
+長	dRiaCs	2	#多也又直良切
+昶	thRiaCA		#通也明也舒也丑兩切二
+昶	thRiaCs		#[逮/達]也日長也通也遠也又丑兩切
 張	tRiaCq
 漲	tRiaCq
 張	tRiaCs
@@ -21363,7 +21363,7 @@ import_tables:
 濮	poukq
 纀	poukq
 𥣜	phoukq
-僕	boukq
+僕	boukq		#侍從人也
 榖	koukq
 瀔	koukq
 𪇗	koukq
@@ -21828,7 +21828,7 @@ import_tables:
 嗀	Haokq
 𠕓	khaokq
 搙	nRaokq
-搦	nRaokq
+搦	nRaokq		#女角切#持也女角切又女厄切六
 䚥	nRaokq
 𧢺	nRaokq
 𥭖	paokq
@@ -22539,12 +22539,12 @@ import_tables:
 䢉	nooCq
 辳	nooCq
 𨑋	nooCq
-䑑	bookq
-鏷	bookq
-䗱	bookq
-轐	bookq
-䴆	bookq
-僕	bookq
+䑑	bookq	2
+鏷	bookq	2
+䗱	bookq	2
+轐	bookq	2
+䴆	bookq	2
+僕	bookq	2	#僮僕說文曰給事者也漢書曰太僕秦官掌輿馬亦姓風俗通云漢有渾梁侯僕多又虜複姓魏書僕蘭氏後改爲僕氏蒲沃切六
 傶	tsookq
 褥	nookq
 傉	nookq
@@ -22626,15 +22626,15 @@ import_tables:
 馮	biuCq
 𨝭	biuCq
 䠢	miuCs
-瞢	miuCq
-瞢	miuCs
-夢	miuCq
+瞢	miuCq	2	#目不明莫中切六
+瞢	miuCs	2	#雲瞢澤在南郡亦作夢
+夢	miuCq	2	#說文曰不明也又武仲切
 鄸	miuCq
 懜	miuCq
 𦫰	miuCq
 𧲎	miuCq
-夢	miuCs
-㝱	miuCs
+夢	miuCs		#上同（㝱‧寐中神游說文云寐而有覺周禮以日月星辰占六㝱之吉凶一曰正㝱無所感動平安自㝱二曰愕㝱驚愕而㝱三曰思㝱覺時所思念之而㝱四曰寤㝱覺時所道之而㝱五曰喜㝱喜恱而㝱六曰懼㝱恐懼而㝱亦作夢莫鳳切五）又亡中切
+㝱	miuCs	99
 鄸	miuCs
 肜	JiuCq
 珫	tshJiuCq
@@ -23111,7 +23111,7 @@ import_tables:
 鬙	so;Cq
 䒏	so;Cq
 𧀧	mo;Cs
-瞢	mo;Cq
+瞢	mo;Cq		#目不明武登切四
 䒐	mo;Cq
 懵	mo;Cs
 䲛	mo;Cs
@@ -23178,7 +23178,7 @@ import_tables:
 𥔂	ko;Cs
 恆	Eo;Cq
 𢛢	Eo;Cq
-孂	ko;kq
+孂	ko;kq	0	#竦身皃出玉篇#誤
 刻	kho;kq
 餩	Ao;kq
 劾	Eo;kq
@@ -23223,8 +23223,8 @@ import_tables:
 艒	mo;kq
 𤲰	mo;kq
 蕄	mo;Cq
-能	no;Cq
-能	no;CA
+能	no;Cq		#工善也又獸名熊屬足似鹿亦賢能也奴登切又奴代奴來二切一
+能	no;CA	2	#夷人語奴等切本又奴登切一
 䘅	no;kq
 𣉘	no;kq
 慝	tho;kq
@@ -23989,8 +23989,8 @@ import_tables:
 䴇	leeCq
 蕶	leeCq
 澪	leeCq
-零	leeCq
-零	leeCs
+零	leeCq		#落也說文曰徐雨也又姓出姓苑
+零	leeCs		#零落郎定切又魯丁切三
 䕘	leeCq
 舲	leeCq
 齡	leeCq
@@ -24301,8 +24301,8 @@ import_tables:
 硩	theekq
 顁	teeCs
 錠	teeCs
-定	teeCs
-掟	deeCs
+定	teeCs	2	#題額詩云定之方中定營室也又徒徑切
+掟	deeCs		#安也亦州名帝堯始封唐國之城秦爲趙郡鉅鹿二郡漢爲中山郡後魏置安州又改爲定州以安定天下爲名徒徑切四
 錠	deeCs
 定	deeCs
 𧠫	deekq
@@ -24865,8 +24865,8 @@ import_tables:
 聲	sJjeCq
 㚒	sJjekq
 麝	zJjekq
-射	zJjekq
-射	Jjekq
+射	zJjekq	2	#丗本曰逢蒙作射又姓吳有中書郎射慈又神柘切又羊謝羊益二切
+射	Jjekq	2	#無射九月律
 𣻒	tsjeCq
 旍	tsjeCq
 晶	tsjeCq
@@ -24908,7 +24908,7 @@ import_tables:
 渻	sjeCA
 㮐	sjeCA
 𢜫	sjeCA
-省	sjeCA
+省	sjeCA		#察也審也息井切六
 睲	sjeCA
 惺	sjeCA
 拓	tsJjekq
@@ -24927,7 +24927,7 @@ import_tables:
 䗪	tsJjekq
 席	zjekq
 蓆	zjekq
-氏	tsjeCq
+氏	tsjeCq	2	#狋氏縣名狋音權
 郢	JjeCA
 聖	sJjeCs
 浧	JjeCA
@@ -25155,7 +25155,7 @@ import_tables:
 眚	sSraCA
 鼪	sSraCs
 貹	sSraCs
-生	sSraCs
+生	sSraCs	2	#所敬切所敬切又所京切三
 㾪	sSraCA
 𡞞	sSraCA
 䚇	sSraCA
@@ -25163,7 +25163,7 @@ import_tables:
 㼳	sSraCA
 渻	sSraCA
 𨜜	sSraCA
-省	sSraCA
+省	sSraCA		#省署漢書曰舊名禁中避元后諱改爲省中又姓左傳宋大夫省臧所景切又息井切九
 迎	CraCq
 迎	CraCs
 碧	prakq
@@ -25345,7 +25345,7 @@ import_tables:
 打	taaCA
 倄	qoojA
 鯫	dzSoovA
-爹	tRjaq
+爹	tRiaq
 地	djis
 #
 栘	dzJjeq

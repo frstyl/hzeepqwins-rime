@@ -4,18 +4,15 @@
 schema:
   schema_id: hzeepqwins_s
   name: 叶韻三等
-  version: "2022.02.7"
+  version: "2026.5.9" #  version: "2022.02.7"
   author:
     - 
   description: |
     叶韻　基于中古音系，參攷上古擬音
     三等　以三等爲基 j i介音不寫
   dependencies:
-    - luna_quanpin
+    - luna_pinyin
     - cangjie6
-    # - hzeepqwins_c
-
-
 switches:
   - name: ascii_mode
     reset: 0
@@ -45,7 +42,6 @@ engine:
     - abc_segmentor
     - affix_segmentor@pinyin_lookup
     - affix_segmentor@cangjie6_lookup
-    - affix_segmentor@quanpin
     # - affix_segmentor@hzeepqwins_c
     - punct_segmentor
     - fallback_segmentor
@@ -56,8 +52,6 @@ engine:
     - script_translator
     - script_translator@pinyin_lookup
     - table_translator@cangjie6_lookup
-    - script_translator@quanpin
-    # - script_translator@hzeepqwins_c
     # - table_translator@cangjie6
 
   filters:
@@ -292,8 +286,10 @@ speller:
     - derive/^(L[RJ]|L(?![szRJ]))/j/ #常定澄 中L
     # - derive/^L/j/ #已補全L
     - derive/^(hqz|hzq?|qz|hQz?|E)/q/ #雲一 hqz E
-    - derive/^(J[qQ])/j/ #以?喻
-    - derive/^(J[qQ])/q/ #雲三A jy必要?
+    # - derive/^(J[qQ])/j/ #以?喻
+    # - derive/^(J[qQ])/q/ #雲三A jy必要?
+    - derive/^(JQ)/q/
+    - derive/^(Jq)/jq/
 ##
     - derive/^(kh|k|g|C)[JR]/$1/  #與渻略ij同時用
     - derive/^(th|t|d|n)[JR]/$1/
@@ -455,6 +451,7 @@ speller:
     - derive/^(hq|A)/h/
     - derive/^(ng|C)/c/
     - derive/^J/j/
+    - derive/^Jq/u/
 
     - derive/^(sJ)/e/
     - derive/^(zJ)/i/
@@ -651,54 +648,6 @@ cangjie6_lookup:
   comment_format:
     - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田止卜片～|"
 
-quanpin:
-  dictionary: luna_pinyin
-  prism: luna_quanpin
-  enable_completion: false
-  prefix: ""
-  # suffix: "'"
-  tips: 〔quanpin〕
-  tag: quanpin
-  # closing_tips:
-  # # contextual_suggestions: 
-  preedit_format:
-    - xform/([nl])v/$1ü/
-    - xform/([nl])ue('|$)/$1üe$2/
-    - xform/([jqxy])v/$1ü/
-  initial_quality: 0.5
-
-
-# cangjie6:
-#   dictionary: cangjie6
-#   prism: cangjie6
-#   enable_charset_filter: false
-#   enable_sentence: false
-#   enable_encoder: false
-#   encode_commit_history: false
-#   enable_completion: false
-#   enable_user_dict: false
-#   prefix: ""
-#   tips: 〔倉頡6〕
-#   tag: cangjie6
-#   # closing_tips:
-#   preedit_format:
-#     - xlit|abcdefghijklmnopqrstuvwxyz|日月金木水火土竹戈十大中一弓人心手口尸廿山女田止卜片|
-#   comment_format:
-#     - "xlit|abcdefghijklmnopqrstuvwxyz~|日月金木水火土竹戈十大中一弓人心手口尸廿山女田止卜片～|"
-#   initial_quality: 0.6
-
-# hzeepqwins_c:
-#   dictionary: hzeepqwins
-#   prism: hzeepqwins_c
-#   enable_completion: false
-#   prefix: ""
-#   # suffix: "'"
-#   tips: 〔hzeepqwins_c〕
-#   tag: hzeepqwins_c
-#   # closing_tips:
-#   # # contextual_suggestions: 
-#   # preedit_format:
-#   initial_quality: 0.7
 
 
 # abc_segmentor: #混用 不依賴patterns 不与其䡴𠫓
@@ -721,6 +670,8 @@ menu:
 key_binder:
   import_preset: default
   bindings:
+    - {accept: semicolon, send_sequence: "{Home}{Right}{apostrophe}{Right}{apostrophe}{End}", when: has_menu}
+    - {accept: grave, send_sequence: "{Home}{grave}{End}", when: has_menu}
 ascii_composer:
     good_old_caps_lock: true
     switch_key: {Caps_Lock: noop, Control_L: noop, Control_R: noop, Eisu_toggle: clear, Shift_L: commit_code, Shift_R: commit_code}
@@ -733,7 +684,7 @@ recognizer:
      # punct: '^/([0-9]0?|[A-Za-z]+)$' #配合symbols.yaml中的特殊字符輸入
     punct: "^/[0-9a-zA-Z]*$" #配合symbols.yaml中的特殊字符輸入
     # quanpin: "^[zyxwtsrqpnmlkjhgfdcb]h?[iu]?[aeiouv](ng|[ioun])?[a-z]+$"
-    quanpin: "^[a-z]+'$"
-    # hzeepqwins_c: "^[a-z]*[aeiouy]$"
+    # quanpin: "^[a-z]+'$"
+    # pinyin_lookup: "^[a-z]+'$"
     pinyin_lookup: "^`[a-z]*'?$"
     cangjie6_lookup: "^~[a-z]*'?$"

@@ -170,10 +170,10 @@ use_preset_vocabulary: true
 銅	douCq
 鋅	sjinq
 鎵	kaaq
-鍺	tsJjaA
+鍺	tsJiaA
 砷	sJjinq
 砒	pheiq
-硒	so,jq
+硒	seejq		#Selenium
 溴	Hiuvs
 溴	tshJiuvs		#Bromine 殠
 氪	kho;kq
@@ -333,39 +333,39 @@ use_preset_vocabulary: true
 鿖	khrirq
 #######會意
 #####
-𱍚	piuq toajq
-𱍛	piuq Eo,pq
-𱍤	piuq dzJjeA
-𱏤	piuq kVaCq
-𱰸	piuq AU;js
-𱷣	piuq ljipq
-𡀆	piuq Ei;A
-𰴪	piuq CIanq
-𰑼	piuq Aoakq
-𰀚	piuq tsJjeCs
-𭯒	piuq moavq
-𭯈	piuq moovA
-𫠫	piuq CUanq
-𫠬	piuq tRiuCq
-𫠲	piuq khiokq
-𫠻	piuq sjins
-𬦇	piuq tsoovA
-𪜄	piuq khoajA
-𧗩	piuq EaaCq
-𩖲	piuq piuCq
-𤯚	piuq SaeCq
-𣈇	piuq mraCq
-𡍂	piuq dzVas
-𠁞	piuq EVar
-𢆓	piuq braCq
-𣨀	piuq sjiA
-𡈯	piuq qwenq
-𠁒	piuq tsJjinq
-𠀱	piuq buoA
-甭	piuq JioCs
-䬩	piuq zJi;kq
-歪	piuq tsJjeCs
-奀	piuq doarq
+𱍚	piuvq toajq
+𱍛	piuvq Eo,pq
+𱍤	piuvq dzJjeA
+𱏤	piuvq kVaCq
+𱰸	piuvq AU;js
+𱷣	piuvq ljipq
+𡀆	piuvq Ei;A
+𰴪	piuvq CIanq
+𰑼	piuvq Aoakq
+𰀚	piuvq tsJjeCs
+𭯒	piuvq moavq
+𭯈	piuvq moovA
+𫠫	piuvq CUanq
+𫠬	piuvq tRiuCq
+𫠲	piuvq khiokq
+𫠻	piuvq sjins
+𬦇	piuvq tsoovA
+𪜄	piuvq khoajA
+𧗩	piuvq EaaCq
+𩖲	piuvq piuCq
+𤯚	piuvq SaeCq
+𣈇	piuvq mraCq
+𡍂	piuvq dzVas
+𠁞	piuvq EVar
+𢆓	piuvq braCq
+𣨀	piuvq sjiA
+𡈯	piuvq qwenq
+𠁒	piuvq tsJjinq
+𠀱	piuvq buoA
+甭	piuvq JioCs
+䬩	piuvq zJi;kq
+歪	piuvq tsJjeCs
+奀	piuvq doarq
 𪱱	moukq EaaA
 𮗙	keens kU;jA
 𭂴	piuCq lioA
@@ -377,7 +377,7 @@ use_preset_vocabulary: true
 𪞵	piuCq moukq
 ####合字
 鿿	puoA moojq
-𡗀	toaq tsJjaA		#四庫人名用字咸平六年李繼遷寇洪德砦蕃官癿𡗀慶擊走之
+𡗀	toaq tsJiaA		#四庫人名用字咸平六年李繼遷寇洪德砦蕃官癿𡗀慶擊走之
 𱁬	doojA do;pq
 𣍲	CqooA CUat nRioA
 𠧗	dzJiaCA EaaA
@@ -403,9 +403,9 @@ use_preset_vocabulary: true
 鿟	ljis nJjeA
 鿠	ljis nJjeA
 鿡	loaq nJjeA
-鿢	Jjaq Eo,pq
-鿣	Jjaq kho;kq
-鿤	Jjaq kaakq
+鿢	Jiaq Eo,pq
+鿣	Jiaq kho;kq
+鿤	Jiaq kaakq
 鿥	loaCq nJjeA
 鿦	AraCq mU;jq
 鿧	liuCq nJjeA
@@ -480,7 +480,7 @@ use_preset_vocabulary: true
 # 麼	mVaq
 #嘛	maaq	5
 #喵	mxevq		#貓
-#咪	mjaq		#咩
+#咪	miaq		#咩
 #噗	phoukq
 #嘿	Ho;kq	5
 #啦	lo,pq	5
@@ -489,7 +489,7 @@ use_preset_vocabulary: true
 #啊	Aoaq
 #嘿	Heejq
 #哼	Ho;Cq
-#啥	sJjaq	5
+#啥	sJiaq	5
 #啥		Eoat	5
 ##
 # 啦	loa
@@ -505,7 +505,7 @@ use_preset_vocabulary: true
 哎	Coarq
 嗨	Ho,jq
 咍	Ho,jq
-喏	nJjaA		#𠰒
+喏	nJiaA		#𠰒
 呔	to,jq
 # 媽	moa
 # 嗎	moa
@@ -598,7 +598,7 @@ use_preset_vocabulary: true
 哎	Coarq
 嗨	Ho,jq
 咍	Ho,jq
-喏	nJjaA		#𠰒
+喏	nJiaA		#𠰒
 呔	to,jq
 ###凵
 ###吅
@@ -1185,39 +1185,39 @@ use_preset_vocabulary: true
 ####
 ###𠃉乚
 ###不
-𱍚	piuq toajq
-𱍛	piuq Eo,p
-𱍤	piuq dzJjeA
-𱏤	piuq kVaC
-𱰸	piuq AU;js
-𱷣	piuq ljip
-𡀆	piuq hi;A
-𰴪	piuq CIan
-𰑼	piuq Aoak
-𰀚	piuq tsJjeCs
-𭯒	piuq moavq
-𭯈	piuq moovA
-𫠫	piuq CUan
-𫠬	piuq tRiuC
-𫠲	piuq khiok
-𫠻	piuq sjins
-𬦇	piuq tsoovA
-𪜄	piuq khoajA
-𧗩	piuq EaaC
-𩖲	piuq piuC
-𤯚	piuq SaeC
-𣈇	piuq miaC
-𡍂	piuq dzVujs
-𠁞	piuq EVujs
-𢆓	piuq breCq
-𣨀	piuq sjiA
-𡈯	piuq qwenq
-𠁒	piuq tsJjinq
-𠀱	piuq buoA
-甭	piuq JioCs
-䬩	piuq zJi;k
-歪	piuq tsJjeCs
-奀	piuq doar
+𱍚	piuvq toajq
+𱍛	piuvq Eo,p
+𱍤	piuvq dzJjeA
+𱏤	piuvq kVaC
+𱰸	piuvq AU;js
+𱷣	piuvq ljip
+𡀆	piuvq hi;A
+𰴪	piuvq CIan
+𰑼	piuvq Aoak
+𰀚	piuvq tsJjeCs
+𭯒	piuvq moavq
+𭯈	piuvq moovA
+𫠫	piuvq CUan
+𫠬	piuvq tRiuC
+𫠲	piuvq khiok
+𫠻	piuvq sjins
+𬦇	piuvq tsoovA
+𪜄	piuvq khoajA
+𧗩	piuvq EaaC
+𩖲	piuvq piuC
+𤯚	piuvq SaeC
+𣈇	piuvq miaC
+𡍂	piuvq dzVujs
+𠁞	piuvq EVujs
+𢆓	piuvq breCq
+𣨀	piuvq sjiA
+𡈯	piuvq qwenq
+𠁒	piuvq tsJjinq
+𠀱	piuvq buoA
+甭	piuvq JioCs
+䬩	piuvq zJi;k
+歪	piuvq tsJjeCs
+奀	piuvq doar
 ###至
 ###西㢴
 ###鹵
@@ -1241,7 +1241,7 @@ use_preset_vocabulary: true
 拼	pheeCq		#姘 #拚
 掂	teemq		#敁
 打	toaA		#?taag 都瓦切
-扯	tshJjaA		#撦
+扯	tshJiaA		#撦
 ###𠦬
 ###女
 姥	loavA		#嫽
@@ -1331,7 +1331,7 @@ use_preset_vocabulary: true
 銅	douCq
 鋅	sjinq
 鎵	kaaq
-鍺	tsJjaA
+鍺	tsJiaA
 銣	nJioq
 鍶	si;q
 釔	Axitq		#Y ytRrium -t
@@ -1378,7 +1378,7 @@ use_preset_vocabulary: true
 銥	Ai;jq
 鉑	boakq
 # 黃金	kximq	9
-#鉈	dzJjaq
+#鉈	dzJiaq
 鉈	thVaq
 鉛	Jyenq
 鉍	pxikq

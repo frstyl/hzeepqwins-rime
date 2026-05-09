@@ -4,13 +4,13 @@
 schema:
   schema_id: soamqpheec
   name: 灮熙三拼
-  version: "2026.04.28"
+  version: "2026.5.8"
   author:
     - 
   description: |
-    基于切韻廣韻
+    廣韻三拼 
   dependencies:
-    - luna_quanpin
+    - luna_pinyin
     - cangjie6
 switches:
   - name: ascii_mode
@@ -48,7 +48,6 @@ engine:
     - punct_translator
     - script_translator
     - script_translator@pinyin_lookup
-    - script_translator@quanpin
     - table_translator@cangjie6_lookup
   filters:
     - simplifier
@@ -70,6 +69,7 @@ speller:
     - xform/^(ph|p|b|m)u([aou;,])/$1i$2/
     - xform/^(ph|p|b|m)[Yv]([ei;,])/$1e$2/ #无用  ##q不用
 
+    - xform/^(q)U([aou;,])/$1I$2/
 
     - xform/(R|Sh?)i([aeiou;,])/$1x$2/
     - xform/(R|Sh?)u([aeiou;,])/$1w$2/
@@ -89,6 +89,7 @@ speller:
     #- derive/(o[;,])j([qAs])/$1$2/ # 咍  ##只餘-aej -iəj
     # - derive/([Uu])uj([qAs])/$1$2/ # 微
     - xform/([ijyxw]i)([qAs])/$1j$2/ #  脂
+    - xform/([ijyxw]e)([qAs])/$1j$2/ #支
 ##聲-介韻 -j -n
 
    # - derive/([UywWu])i([ntr][qAs])/$1u$2/ #yu yi
@@ -132,7 +133,8 @@ speller:
     - xform/(?<!^)([ptk])q$/$1/ #入韻
     - xform/(?<!^)rq$/r/ #次入
 
-    - xform/(?<!^)([Cmn])q$/$1/ #陽韻
+    - xform/(?<!^)([cmn])q$/$1/ #陽韻
+    - xform/(?<!^)Cq?$/c/
     - xform/(?<!^)(ng|C|c)A$/g/
     - xform/(?<!^)(ng|C|c)s$/x/
     - xform/(?<!^)mA$/b/
@@ -140,7 +142,9 @@ speller:
     - xform/(?<!^)nA$/d/
     - xform/(?<!^)ns$/z/
 
-    
+    - xform/(?<!^)([aeiou;,])$/$1q/
+    - xform/(?<!^)([aeiou;,])A$/$1h/
+     
     - xform/(?<!^)jq$/$1j/
     - xform/(?<!^)jA$/$1l/
     - xform/(?<!^)js$/$1i/
@@ -148,11 +152,6 @@ speller:
     - xform/(?<!^)vA$/$1w/
     - xform/(?<!^)vs$/$1u/
 
-    - xform/(?<!^)Cq?$/c/
-    # - xform/([aeiou;,])([q])$/$1$2/ #无韻尾
-    - xform/(?<!^)A$/h/  #主體
-
-    - xform/(?<!^)([aeiou;,])$/$1q/  #主體
 ##聲𥳑
     - derive/^(th|t|d|n)R/$1/ #知
 
@@ -234,9 +233,10 @@ speller:
    # - xform/^(.)u[;,]k/$1xo/  #vy
 ##𥳑 首字母𥳑寫 保留
     - abbrev/^([a-z])..$/$1/ #𥳑
-####轉寫 元音 保留
+####轉寫  保留
     - derive/(;|,)/y/ #ə eo 
-
+   # - derive/C/c/
+   # - derive/A/h/
 translator:
   dictionary: kvachqwins
   prism: soamqpheec
@@ -348,22 +348,6 @@ translator:
     # - xform/([rs])[ptk]($|')/$1/
   initial_quality: 0.7
 
-quanpin:
-  dictionary: luna_pinyin
-  prism: luna_quanpin
-  enable_completion: false
-  prefix: ""
-  # suffix: "'"
-  tips: 〔quanpin〕
-  tag: quanpin
-  # closing_tips:
-  # # contextual_suggestions: 
-  preedit_format:
-    - xform/([nl])v/$1ü/
-    - xform/([nl])ue('|$)/$1üe$2/
-    - xform/([jqxy])v/$1ü/
-  initial_quality: 0.5
-
 pinyin_lookup:
   dictionary: luna_pinyin
   prism: luna_pinyin
@@ -411,6 +395,8 @@ menu:
 key_binder:
   import_preset: default
   bindings:
+    - {accept: semicolon, send_sequence: "{Home}{Right}{apostrophe}{Right}{apostrophe}{End}", when: has_menu}
+    - {accept: grave, send_sequence: "{Home}{grave}{End}", when: has_menu}
 ascii_composer:
     good_old_caps_lock: true
     switch_key: {Caps_Lock: noop, Control_L: noop, Control_R: noop, Eisu_toggle: clear, Shift_L: commit_code, Shift_R: commit_code}
@@ -422,6 +408,5 @@ recognizer:
     url: "^(www[.]|https?:|ftp:|mailto:).*$"
     # punct: '^/([0-9]0?|[A-Za-z]+)$' #配合symbols.yaml中的特殊字符輸入
     punct: "^/[0-9a-zA-Z]*$" #配合symbols.yaml中的特殊字符輸入
-    quanpin: "^[a-z]+'$"
-    pinyin_lookup: "^`[a-z]*'?$"
+    pinyin_lookup: "^[a-z]+'$"
     cangjie6_lookup: "^~[a-z]*'?$"
