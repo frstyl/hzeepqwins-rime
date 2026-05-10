@@ -2774,7 +2774,7 @@ preset_keyboards:
     - {click: '🇬🇺'}
     - {click: '🇬🇼'}
     - {click: '🇬🇾'}
-    - {click: '??🇰'}
+    - {click: '🇭🇰'}
     - {click: '🇭🇳'}
     - {click: '🇭🇷'}
     - {click: '🇭🇹'}
@@ -2976,7 +2976,7 @@ preset_keyboards:
     - {click: '🇺🇬'}
     - {click: '🇺🇸'}
     - {click: '🇺🇾'}
-    - {click: '??🇿'}
+    - {click: '🇺🇿'}
     - {click: '🇻🇦'}
     - {click: '🇻🇨'}
     - {click: '🇻🇪'}
@@ -3405,7 +3405,7 @@ preset_keyboards:
     - {label: '🎉', click: Keyboard_bqhd1, key_back_color: bgn, key_text_color: tgn}
     - {label: '🔌', click: Keyboard_bqkj1, key_back_color: bgn, key_text_color: tgn}
     - {label: '🔶', click: Keyboard_bqqt1, key_back_color: bgn, key_text_color: tgn}
-    - {label: '??🇳', click: Keyboard_bqqz1, key_back_color: bgn, key_text_color: tgn}
+    - {label: '🇨🇳', click: Keyboard_bqqz1, key_back_color: bgn, key_text_color: tgn}
     - {label: '更多', click: Keyboard_symbols, key_text_size: "14", key_back_color: bgn, key_text_color: tgn}
     - {label: '上页', click: Keyboard_bqhc2, key_text_size: "14"}
     - {click: '🌷'}
@@ -3635,9 +3635,9 @@ preset_keyboards:
     - {click: '🛬'}
     - {click: '💺'}
     - {click: '🚁'}
-    - {click: '??'}
+    - {click: '🚟'}
     - {click: '🚠'}
-    - {click: '??'}
+    - {click: '🚡'}
     - {click: '🚀'}
     - {click: '🛰'}
     - {click: Keyboard_default, width: 17, key_text_size: "14", key_back_color: benter, key_text_color: tenter}
@@ -4052,7 +4052,7 @@ preset_keyboards:
     - {click: '📎'}
     - {click: '🖇'}
     - {click: '📏'}
-    - {click: '??'}
+    - {click: '📐'}
     - {click: '✂'}
     - {click: '🗃'}
     - {click: '🗄'}
@@ -4812,7 +4812,7 @@ preset_keys:
   Keyboard_bqqt3: {label: 其它1, functional: false, send: Eisu_toggle, select: bqqt3}
   Keyboard_bqqt4: {label: 其它1, functional: false, send: Eisu_toggle, select: bqqt4}
 
-  Keyboard_bqqz1: {label: '??🇳', functional: false, send: Eisu_toggle, select: bqqz1}
+  Keyboard_bqqz1: {label: '🇨🇳', functional: false, send: Eisu_toggle, select: bqqz1}
   Keyboard_bqqz2: {label: 旗帜1, functional: false, send: Eisu_toggle, select: bqqz2}
   Keyboard_bqqz3: {label: 旗帜1, functional: false, send: Eisu_toggle, select: bqqz3}
   Keyboard_bqqz4: {label: 旗帜1, functional: false, send: Eisu_toggle, select: bqqz4}

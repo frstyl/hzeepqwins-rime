@@ -1399,13 +1399,13 @@ preset_keyboards:
     - {click: e, long_click: "+", swipe_up: "+"}
     - {click: r, long_click: "=", swipe_up: "=", swipe_down: "≠"}
     - {click: t, long_click: "|", swipe_up: "|"}
-    - {click: y, long_click: "\\", swipe_up: "\\"}
+    - {click: y, long_click: "\\", swipe_up: "\\",, swipe_down: redo}
     - {click: u, long_click: "[", swipe_up: "[", swipe_down: "｢"}
     - {click: i, long_click: "]", swipe_up: "]", swipe_down: "｣"}
     - {click: o, long_click: "{", swipe_up: "{"}
     - {click: p, long_click: "}", swipe_up: "}"}
    # - {width: 5}
-    - {click: a, long_click: Insert, swipe_up: select_all}
+    - {click: a, long_click: Insert, swipe_up: Insert, swipe_down: select_all}
     - {click: s, long_click: Delete, swipe_up: Delete}
     - {click: d, long_click: "~", swipe_up: "~"}
     - {click: f, long_click: "`", swipe_up: "`"}
@@ -1419,10 +1419,14 @@ preset_keyboards:
     #- {click: "'", long_click: "\"", width: 10}
     #- {label: Tab,click:  '	', long_click: space, width: 10} #tab鍵与符不同
     - {click: "'", long_click: "\"",swipe_up: Date, width: 10}
-    - {click: z, long_click: Home, swipe_up: undo, swipe_down: redo}
-    - {click: x, long_click: End, swipe_up: cut}
-    - {click: c, long_click: Page_Up, swipe_up: copy}
-    - {click: v, long_click: Page_Down, swipe_up: paste}
+  #  - {click: z, long_click: Home, swipe_up: undo, swipe_down: redo}
+   # - {click: x, long_click: End, swipe_up: cut}
+    #- {click: c, long_click: Page_Up, swipe_up: copy}
+    #- {click: v, long_click: Page_Down, swipe_up: paste}
+    - {click: z, long_click: Home, swipe_up: Home, swipe_down: undo}
+    - {click: x, long_click: End, swipe_up: End, swipe_down: cut}
+    - {click: c, long_click: Page_Up, swipe_up: Page_Up, swipe_down: copy}
+    - {click: v, long_click: Page_Down, swipe_up: Page_Down, swipe_down: paste}
     - {click: b, long_click: Left , swipe_up: Left}
     - {click: n, long_click: Down , swipe_up: Down}
     - {click: m, long_click: Right , swipe_up: Right}
@@ -1430,7 +1434,7 @@ preset_keyboards:
     - {click: BackSpace, width: 20, swipe_up: BackToPreviousSyllable}
     #- {width: 5}
     - {click: Shift_L, swipe_up: Keyboard_qwer36_number}
-    - {click: Ctrl_L, width: 17.5, long_click: Keyboard_qwer36_number, swipe_up: Keyboard_symbols}
+    - {click: Control_L_h, width: 17.5, long_click: Keyboard_qwer36_number, swipe_up: Keyboard_symbols}
     - {click: ",", long_click: "<", swipe_up: Theme_settings}
     - {click: space, long_click: '	', swipe_right: "Right", swipe_left: "Left", swipe_up: "Up", swipe_down:  "Down",  width: 25}
     - {click: ".", long_click: ">", swipe_up: Color_switch}
@@ -2339,7 +2343,7 @@ preset_keyboards:
     - {click: '🗯'}
     - {click: '💭'}
     - {click: '🕳'}
-    - {click: '??'}
+    - {click: '👓'}
     - {click: '🕶'}
     - {click: '👔'}
     - {click: '👕'}
@@ -2779,7 +2783,7 @@ preset_keyboards:
     - {click: '🇬🇺'}
     - {click: '🇬🇼'}
     - {click: '🇬🇾'}
-    - {click: '??🇰'}
+    - {click: '🇭🇰'}
     - {click: '🇭🇳'}
     - {click: '🇭🇷'}
     - {click: '🇭🇹'}
@@ -3410,7 +3414,7 @@ preset_keyboards:
     - {label: '🎉', click: Keyboard_bqhd1, key_back_color: bgn, key_text_color: tgn}
     - {label: '🔌', click: Keyboard_bqkj1, key_back_color: bgn, key_text_color: tgn}
     - {label: '🔶', click: Keyboard_bqqt1, key_back_color: bgn, key_text_color: tgn}
-    - {label: '??🇳', click: Keyboard_bqqz1, key_back_color: bgn, key_text_color: tgn}
+    - {label: '🇨🇳', click: Keyboard_bqqz1, key_back_color: benter, key_text_color: tenter}
     - {label: '更多', click: Keyboard_symbols, key_text_size: "14", key_back_color: bgn, key_text_color: tgn}
     - {label: '上页', click: Keyboard_bqhc2, key_text_size: "14"}
     - {click: '🌷'}
@@ -3640,9 +3644,9 @@ preset_keyboards:
     - {click: '🛬'}
     - {click: '💺'}
     - {click: '🚁'}
-    - {click: '??'}
+    - {click: '🚟'}
     - {click: '🚠'}
-    - {click: '??'}
+    - {click: '🚡'}
     - {click: '🚀'}
     - {click: '🛰'}
     - {click: Keyboard_default, width: 17, key_text_size: "14", key_back_color: benter, key_text_color: tenter}
@@ -4057,7 +4061,7 @@ preset_keyboards:
     - {click: '📎'}
     - {click: '🖇'}
     - {click: '📏'}
-    - {click: '??'}
+    - {click: '📐'}
     - {click: '✂'}
     - {click: '🗃'}
     - {click: '🗄'}
@@ -4657,6 +4661,7 @@ preset_keyboards:
 preset_keys:
  #
   Alter_L: {label: Alt,send: Alt_L,shift_lock: long, functional: false}
+  Control_L_h: {label: Ctrl,send: Control_L,shift_lock: long, functional: false}
   Caps: {label: 大寫, send: Caps_Lock, shift_lock: click}
   Table: {label: 製表, send: Tab, functional: false}
   # 安卓
@@ -4821,7 +4826,7 @@ preset_keys:
   Keyboard_bqqt3: {label: 其它1, functional: false, send: Eisu_toggle, select: bqqt3}
   Keyboard_bqqt4: {label: 其它1, functional: false, send: Eisu_toggle, select: bqqt4}
 
-  Keyboard_bqqz1: {label: '??🇳', functional: false, send: Eisu_toggle, select: bqqz1}
+  Keyboard_bqqz1: {label: '🇨🇳', functional: false, send: Eisu_toggle, select: bqqz1}
   Keyboard_bqqz2: {label: 旗帜1, functional: false, send: Eisu_toggle, select: bqqz2}
   Keyboard_bqqz3: {label: 旗帜1, functional: false, send: Eisu_toggle, select: bqqz3}
   Keyboard_bqqz4: {label: 旗帜1, functional: false, send: Eisu_toggle, select: bqqz4}

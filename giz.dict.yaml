@@ -6,6 +6,7 @@ sor: by_weight
 use_preset_vocabulary: true
 ...
 ####切韻
+𤴘	nRxepq		#機 正作𤴘
 ##
 韵	qwins		#爲捃反 音和 一#集韻 筠呁切
 ##rəŋ
@@ -124,6 +125,12 @@ use_preset_vocabulary: true
 #####韻書 
 ####今
 ###䛐
+鸀鳿	
+句當	koovs toaCs
+鷤䳏	
+𪂿䳏	
+鷤䳏	
+瘢胝	
 蹎跋	
 蛜蝛
 𧑓蝜			#蟠 鼠負 鼠婦 蛜蝛
@@ -194,7 +201,7 @@ use_preset_vocabulary: true
 雩婁	Huoq loovq
 蛇丘	Jjeq khiuvq
 # 南䜌	no,mq lVanq
-龜兹	kiuq tsi;q
+龜兹	kiuvq tsi;q
 咎䌛	koavq dRiuvs		#皋陶
 月氏	CUatq tsJjeq
 閼氏	Aeenq tsJjeq
@@ -424,6 +431,7 @@ use_preset_vocabulary: true
 靡曼	
 𪑜𪐴	
 䘢𧛢	
+𢻆㩾	
 㪁敧	
 𤿙皺	
 𧠵覰	
@@ -1181,7 +1189,7 @@ use_preset_vocabulary: true
 # 鐸	錫	屋	職	覺	質	藥	月	物	盇	緝
 ###不
 不	pU;t	#弗
-不	piuq
+不	piuvq
 #
 雬	phiuvA		#𩂆
 䍒	biuvq		#罘
@@ -1194,12 +1202,12 @@ use_preset_vocabulary: true
 𠥀	poojq
 𠤯	poojq
 #
-# 㐬	piuq
-𠀚	piuq
-𠙐	piuq
-𫠭	piuq
-#不	piuq		#
-#不	pFius		#方副切弗也
+# 㐬	piuvq
+𠀚	piuvq
+𠙐	piuvq
+𫠭	piuvq
+#不	piuvq		#
+#不	pFiuvs		#方副切弗也
 #不	pFuoq		#風無切艸木房爲 #柎
 ###否
 ###丕
@@ -1372,7 +1380,7 @@ use_preset_vocabulary: true
 韛	bxis
 𫖉	bxis		#1		#韛
 #
-??	bxis
+𥼉	bxis
 𩝳	bxis
 𪌾	bxis
 𠃰	bxis
@@ -1837,9 +1845,9 @@ use_preset_vocabulary: true
 𧴷	pxemA		#貶
 𥑁	pxemq
 #
-𠂜	buapq
-𠓟	buapq
-𣥄	buapq
+𠂜	bUapq
+𠓟	bUapq
+𣥄	bUapq
 ###凡-u-
 凢	buamq
 凣	buamq
@@ -2542,25 +2550,25 @@ use_preset_vocabulary: true
 # 鍐
 儍	sSfaA
 ###法
-𰭑	puapq
-琺	puapq
+𰭑	pUapq
+琺	pUapq
 #
-峜	puapq
-㳒	puapq
-𣳬	puapq
-𣳴	puapq
-𣶽	puapq
-𭰅	puapq
-𢌇	puapq
-𭐉	puapq
-𰝄	puapq
-𱩬	puapq
-𱩮	puapq
-𱪄	puapq
-𱪉	puapq
-𫼒	puapq
+峜	pUapq
+㳒	pUapq
+𣳬	pUapq
+𣳴	pUapq
+𣶽	pUapq
+𭰅	pUapq
+𢌇	pUapq
+𭐉	pUapq
+𰝄	pUapq
+𱩬	pUapq
+𱩮	pUapq
+𱪄	pUapq
+𱪉	pUapq
+𫼒	pUapq
 ###乏
-姂	khuapq
+姂	khUapq
 𥑁	pxemq		#砭
 ###凡
 ###虣
@@ -5199,7 +5207,7 @@ use_preset_vocabulary: true
 稿	koavA
 熇	khoavs
 熇	khoavA		#熇
-??	khoavA
+𣩅	khoavA
 薧	khoavs
 藳	koavA
 𨃤	khoavs
@@ -6530,10 +6538,10 @@ use_preset_vocabulary: true
 ###有-又
 峟	qiuvs
 迶	qiuvs
-𪠥	qiuA
-𰭿	qiuA
-𦘬	qiuA
-𧆘	qius		#囿
+𪠥	qiuvA
+𰭿	qiuvA
+𦘬	qiuvA
+𧆘	qiuvs		#囿
 䤈	Ho,jA
 𥂠	Ho,jA
 𥂧	Ho,jA
@@ -7693,8 +7701,8 @@ use_preset_vocabulary: true
 𬽋	tshSaepq
 𨇧	thRiamA
 𠑆	thRiamA
-𦑣	thRiapq
-𦑪	thRiapq
+𦑣	thRIapq
+𦑪	thRIapq
 ###𡙕執
 䙝	deepq		#褺
 ###甚
@@ -7914,17 +7922,17 @@ use_preset_vocabulary: true
 砍	kho,mA
 崁	kho,ms
 ###劫
-刦	kiapq		#2
-刧	kiapq		#2
-刼	kiapq		#2
-𠉨	kiapq
-𠛗	kiapq
-𠞏	kiapq
+刦	kIapq		#2
+刧	kIapq		#2
+刼	kIapq		#2
+𠉨	kIapq
+𠛗	kIapq
+𠞏	kIapq
 ##
-㤼	kiapq
+㤼	kIapq
 ###業
-𡁖	Ciapq
-𨼙	Ciapq
+𡁖	CIapq
+𨼙	CIapq
 ###曅𣋓
 晔	qxepq
 𣊚	qxepq
@@ -7948,7 +7956,7 @@ use_preset_vocabulary: true
 ###及
 﨤	gxipq
 圾	Cxipq		#岌
-𥘜	kiapq		#衱
+𥘜	kIapq		#衱
 𠬛	gxipq
 𢎜	gxipq
 𰃋	gxipq
@@ -8245,9 +8253,9 @@ use_preset_vocabulary: true
 𱱨	Ajems
 懨	Ajemq
 ###奄o ə
-𦊸	Aiapq
-𦌌	Aiapq
-𢽱	Aiapq
+𦊸	AIapq
+𦌌	AIapq
+𢽱	AIapq
 𢽱	Axepq
 𡘤	AxemA
 𡘹	AxemA
@@ -8257,9 +8265,9 @@ use_preset_vocabulary: true
 𦶂𦮾	
 阝	Axipq
 𡇃	Axipq
-䭂	Aiapq
-𦤡	Aiapq
-鄓	Aiapq		#郹?𦤡䣍
+䭂	AIapq
+𦤡	AIapq
+鄓	AIapq		#郹?𦤡䣍
 ##厭
 嚈	Ajepq
 懨	Ajemq
@@ -8494,15 +8502,7 @@ use_preset_vocabulary: true
 つ	tshJyenq
 ツ	tshJyenq
 ###屯
-炖	doons
 𤆚	doons
-𪎶	thoonq
-旽	thoonq
-礅	toonq
-砘	doons
-噸	toonq
-# 窀	dfenq
-𡭻	doonq
 #
 𠄤	doonq
 𭕾	doonq
@@ -8838,7 +8838,7 @@ use_preset_vocabulary: true
 ###歬前
 𢶕	tsjenA
 𠟠	tsjenA
-??	tsjenA
+𦒕	tsjenA
 𦑦	tsjenA
 譾	tsjenA
 𠞳	tsjenA
@@ -9367,6 +9367,11 @@ use_preset_vocabulary: true
 ###厂
 丆	HoanA
 ###看
+𥉏	khoanq
+𡈟	khoanq
+𡰶	khoanq
+𨌁	khoanq
+㸔	khoanq
 ###𡴅
 𡴅	tRwitq
 ⿱山巾	tRwitq
@@ -10133,7 +10138,7 @@ use_preset_vocabulary: true
 丐	koatq
 ##曷
 掲	kiatq		#1		#曷
-猲	khuapq
+猲	khUapq
 䋵	loapq
 ###
 䔾	mVatq
@@ -10681,7 +10686,7 @@ use_preset_vocabulary: true
 壱	Ajitq
 夁	Ajitq
 𡔾	Ajitq
-??	Ajitq
+𡕄	Ajitq
 𡕋	Ajitq
 𡕌	Ajitq
 # 𡕍	Ajitq
@@ -10863,7 +10868,7 @@ use_preset_vocabulary: true
 萒	gwenA
 𠤦	nJyenA
 #
-䬇	Jyens		#1		#??
+䬇	Jyens
 ###㕯
 𠆘	Jjerq
 𧘉	Jjerq
@@ -11108,7 +11113,7 @@ use_preset_vocabulary: true
 膛	doaCq
 嚐	dzJiaCq
 ##黨
-攩	toaCA
+攩	toaCA	99
 灙	toaCA
 儻	toaCA
 𥤗	toaCA
@@ -11638,13 +11643,13 @@ use_preset_vocabulary: true
 𢀹	dRximA
 𠢧	sJi;Cs
 𧜜	sJi;Cs
-##滕??
+##滕𣎌
 𩧔	do;Cq
 𩧖	do;Cq
 駦	do;Cq
 籐	do;Cq
 ###𤮪
-??	nJioCA
+𧝻	nJioCA
 𧜈	nJioCA
 𤮪	nJioCA
 𤮡	nJioCA
@@ -12463,7 +12468,7 @@ use_preset_vocabulary: true
 㶢	kVaCq
 𠈑	kVaCq
 𰭧	kVaCq
-??	kVaCq
+𰰬	kVaCq
 𤉭	kVaCq
 𤐥	kVaCq
 𤑋	kVaCq
@@ -12531,7 +12536,7 @@ use_preset_vocabulary: true
 𣪳	Houkq
 㺉	khoukq
 𣪹	khoukq
-??	khoukq
+𥀎	khoukq
 𩁡	koukq
 #
 𥝻	koukq		#1		#穀
@@ -12647,7 +12652,7 @@ use_preset_vocabulary: true
 𦬦	Ci;q
 𰅢	Ci;q
 #
-??	Ci;q
+𪟽	Ci;q
 𭼃	Ci;q
 𭼅	Ci;q
 ###亥
@@ -14067,7 +14072,7 @@ use_preset_vocabulary: true
 ###是
 ###辵
 䢪	khxevq	#俗橇字#鞽
-𨕽	giapq		#巨業切 躓 跲
+𨕽	gIapq		#巨業切 躓 跲
 𨓰	dzjepq
 𮞳	dzjepq
 𨖷	dzSaepq
@@ -14175,7 +14180,7 @@ use_preset_vocabulary: true
 ###攴攵
 𫿓	pVas
 𢽲	lootq
-𢼄	kius		#五音集韻
+𢼄	kiuvs		#五音集韻
 𢼄	kheejA
 㳊	Jiuvq
 䍩	JiaCA
@@ -14907,7 +14912,7 @@ use_preset_vocabulary: true
 ###仌
 ###雨
 雿	deevs
-霌	tsJiuq
+霌	tsJiuvq
 𮦇	phU;nq
 ###雲云
 䨺	doojA
@@ -14946,15 +14951,15 @@ use_preset_vocabulary: true
 ###不
 奀	tshJi;A		#搜眞玉鏡 尺止切#止?
 奀	douCA		#音動
-𱍤	piuq dzJjeA
-嫑	piuq Ajevs
+𱍤	piuvq dzJjeA
+嫑	piuvq Ajevs
 嫑	pjevs
-孬	piuq HoavA
+孬	piuvq HoavA
 孬	nRavq
 孬	Hferq		#呼怪切
-𨱥	piuq dRiaC
+𨱥	piuvq dRiaC
 𨱥	AaaA		#矮
-𧗩	piuq EaaC
+𧗩	piuvq EaaC
 𧗩	loapq		#音臘
 # 歪	Hfaq		#竵
 歪	Afejq		#烏乖切崴
