@@ -123,7 +123,7 @@ speller:
     - derive/([UyWwu])e([ntr][qAs])/$1o$2/
     - derive/([UyWwu])e([qAs])/$1oj$2/ #e=ej i=ij
 
-    - derive/([Vv])a([qAs])/$1uj$2/ #vaj=uj
+    - derive/([Vv])a([qAs])/$1uj$2/ #vaj=uj #vj
     - derive/([Vv])a([jntr][qAs])/$1u$2/
     - derive/([Uu])a([nt][qAs])/$1o$2/ #    元
     
@@ -140,6 +140,11 @@ speller:
     - derive/y([uo][jlirndztR])/j$1/
     - derive/u([uo][jlirndztR])/i$1/
 ####介  主體
+##介作元
+    # - derive/[Ii][;,]/i/  ##此乃有
+    # - derive/(iu|[Uu][;,])/u/  #介元
+    - abbrev/([oVv])u/v/
+    - abbrev/([o])[;,]([jlirndztRmbfp])/w$2/
 ##?
     # - abbrev/(?<!^)[jx](a|e|i|o|u|;|,)/i$1/ #i=jx  #保畱?
     # - abbrev/(?<!^)[yw](a|e|i|o|u|;|,)/u$1/
@@ -218,16 +223,13 @@ speller:
 ####𥳑
 
 ##可選 
-##介作元
-    # - derive/[Ii][;,]/i/  ##此乃有
-    # - derive/(iu|[Uu][;,])/u/  #介元
-    - abbrev/([Vvo])u([jvnmC])/v$2/ #v=vu #與首字母同級
+
 ##介元序 尾後
     - abbrev/(?<!^)([oVveYlafUuyrWxw])([aeiou;,])([qAhsjlrvwymbfpndztRCcgxk])/$2$1$3/
 
 
 ##聲𥳑
-    - derive/^(ng)/c/
+    - xform/^(ng)/c/
 
     - derive/^(hs|H)/x/    
     - derive/^(hq|A)/h/
@@ -249,20 +251,8 @@ speller:
 
 
 ##𥳑 首字母
-    # - abbrev/^(\w).+$/$1/
-    # - abbrev/^(\w[zhcqs]?[lrfvjyxw]).+$/$1/ #介
-    # - abbrev/^(tsh?|dz).+$/$1/
-    # - abbrev/^([ptkw]h).+$/$1/
-    # - abbrev/^(sz).+$/$1/
-    # - abbrev/^([sz]c).+$/$1/
-    # - abbrev/^(hz|hq).+$/$1/
-    # - abbrev/^(ng).+$/$1/
 
-    # - erase/^[a-z][zhcgqs].+$/
-    # - abbrev/^([a-z])[^szhcgqrl].*$/$1/ #𥳑
-
-
-    - abbrev/^([a-zA-Z])[aeiouVYvfIUjyxwə;,].*$/$1/ #𥳑
+    - abbrev/^([a-z])[aeiouVYvfIUjyxwə;,].*$/$1/ #𥳑
 ####轉寫 元音
     - derive/,/oe/
     - derive/;/eo/

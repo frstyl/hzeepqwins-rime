@@ -142,10 +142,10 @@ speller:
     - derive/[Iji][;,]/i/  ##單元音 i u
     - derive/([Uyu][;,])/u/  #
     
-    - derive/([iIj]u)/u/  #溷 yi ueo 
+    - derive/([iIj]u)/u/  #溷 yi ueo #溷用derive
     # - derive/([y]i)/u/
     
-    - derive/([oVv])u/w/
+    - abbrev/([oVv])u/v/
 ##?
 
    #  - abbrev/(?<!^)[jx](a|e|i|o|u|;|,)/i$1/ #i=jx  #保畱
@@ -196,6 +196,8 @@ speller:
     - xform/^dzJ/dj/
     - xform/^tshJ/thj/
     - xform/^nJ/nj/
+    - xform/^sJ/sj/
+    - xform/^zJ/zj/
 
 
 ####尾
@@ -234,12 +236,12 @@ speller:
 
 
 ##聲𥳑
-    - xform/^(q)/a/  #
+    - xform/^(ng)/c/
+    # - xform/^(q)/a/  #xj
     
     - derive/^(hq|A)/q/  ##hq
-    - derive/^(hs|H)/h/ 
+    - xform/^(hs|H)/h/ 
 
-    - derive/^(ng)/c/
 
     - derive/^(dz)/x/
 
@@ -252,25 +254,13 @@ speller:
     - derive/^tsh/v/
     - derive/^ts/w/
 
-    - derive/^(sJ|sj)/e/
-    - derive/^(zJ|zj)/i/
+    # - derive/^(sJ|sj)/e/
+    # - derive/^(zJ|zj)/i/
 
 
 ##𥳑 首字母
-    # - abbrev/^(\w).+$/$1/
-    # - abbrev/^(\w[zhcqs]?[lrfvjyxw]).+$/$1/ #介
-    # - abbrev/^(tsh?|dz).+$/$1/
-    # - abbrev/^([ptkw]h).+$/$1/
-    # - abbrev/^(sz).+$/$1/
-    # - abbrev/^([sz]c).+$/$1/
-    # - abbrev/^(hz|hq).+$/$1/
-    # - abbrev/^(ng).+$/$1/
 
-    # - erase/^[a-z][zhcgqs].+$/
-    # - abbrev/^([a-z])[^szhcgqrl].*$/$1/ #𥳑
-
-
-    - abbrev/^([a-zA-Z])[aeiouVYvfIUjyxwə;,].*$/$1/ #𥳑
+    - abbrev/^([a-z])[^hszq].*$/$1/ #𥳑 #
 ####轉寫 元音
     # - derive/,/oe/
     - derive/;/eo/

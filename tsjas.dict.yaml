@@ -138,7 +138,7 @@ use_preset_vocabulary: true
 氦	Eo,jA		#He helium 
 氜	nJjitq		#日 helium
 鋰	li;A		#Li lithium
-鈹	bxeq		#Be beryllium
+# 鈹	bxeq		#Be beryllium
 硼	bo;Cq		#B boracium
 碳	thoans		#C 6 carbonium
 氮	doams		#N 7 nitrogenium azote 
@@ -156,7 +156,7 @@ use_preset_vocabulary: true
 硫	liuvq
 氯	liokq
 氬	Aaas
-鉀	kaapq
+# 鉀	kaapq
 鈣	koarq		#Ca calcium 
 鈧	khoaCs		#scandium
 鈦	thoarq		#titanium
@@ -164,10 +164,10 @@ use_preset_vocabulary: true
 釩	buamq		#Vanadium
 鉻	kaakq
 錳	maaCA
-鐵	theetq
+# 鐵	theetq
 鈷	kooA
 鎳	Ceetq
-銅	douCq
+# 銅	douCq
 鋅	sjinq
 鎵	kaaq
 鍺	tsJiaA
@@ -1316,11 +1316,11 @@ use_preset_vocabulary: true
 ####
 ###金
 鋰	li;A		#li lithium
-鈹	bxeq		#be beryllium
+# 鈹	bxeq		#be beryllium
 鈉	no,pq
 鎂	mxiA
 鋁	lioA
-鉀	kaapq
+# 鉀	kaapq
 鈣	koarq		#Coa calcium 
 鈧	khoaCs
 鈦	thoarq
@@ -1328,10 +1328,10 @@ use_preset_vocabulary: true
 釩	buamq
 鉻	kaakq
 錳	maaCA
-鐵	theetq
+# 鐵	theetq
 鈷	kooA
 鎳	Ceetq
-銅	douCq
+# 銅	douCq
 鋅	sjinq
 鎵	kaaq
 鍺	tsJiaA

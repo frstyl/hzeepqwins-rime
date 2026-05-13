@@ -165,7 +165,7 @@ speller:
     # - xform/^h([oVeYafiujyxwrWvəʌ])/H$1/
     #- xform/^h(?![gqszQ])/H/
     
-    - derive/^([LR])(?![sz])/d/ #d[RJ]
+    # - derive/^([LR])(?![sz])/d/ #d[RJ]  ##以
     - derive/^([LRn]sh)/th/
     - derive/^(C)(?=[JR])/n/
     - derive/^h?[mnCLRqQ](s)J/$1J/ #[]s #Ls→hLs→LsJ,  L→LJ?→JL

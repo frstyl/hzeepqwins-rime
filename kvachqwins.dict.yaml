@@ -1828,7 +1828,7 @@ import_tables:
 齝	thRi;q		#丑之	#牛吐食而復嚼也
 笞	thRi;q		#丑之	#捶擊
 痴	thRi;q		#丑之	#痴㾻不達之皃
-治	dRi;q		#直之	#水名出東萊亦理也直之切三
+治	dRi;q	2	#直之	#水名出東萊亦理也直之切三
 持	dRi;q		#直之	#執持
 莉	dRi;q		#直之	#姓也姓苑云淮南人
 蚩	tshJi;q		#赤之	#蟲名亦輕侮字從㞢赤之切七
@@ -2269,7 +2269,7 @@ import_tables:
 𦌬	muoq		#武夫	#罟屬又音武
 蝥	muoq		#武夫	#爾雅云鼅鼄鼄蝥又音牟
 𢜮	muoq		#武夫	#爾雅云愛也又音武
-无	muoq		#武夫	#虛无之道又漢複姓左傳莒有大夫无婁修胡
+无	muoq	999	#武夫	#虛无之道又漢複姓左傳莒有大夫无婁修胡
 𢃀	muoq		#武夫	#嵌空之皃
 譕	muoq		#武夫	#譕誘詞也
 墲	muoq		#武夫	#冢也
@@ -2644,7 +2644,7 @@ import_tables:
 匍	booq		#薄胡	#匍匐
 蜅	booq		#薄胡	#蛤蜅
 荹	booq		#薄胡	#荹攎收亂草也
-樸	booq		#薄胡	#樸𠟼縣名在武威𠟼音還
+樸	booq	2	#薄胡	#樸𠟼縣名在武威𠟼音還
 菩	booq		#薄胡	#梵言菩提漢言王道
 䔕	booq		#薄胡	#膊魚亦雉有䔕𠟼也
 蒲	booq		#薄胡	#草名似藺可以爲席亦州名舜所都蒲坂秦爲河東郡後魏爲雍州又改爲秦州周改爲蒲州因蒲坂以爲名又姓風俗通漢有詹事蒲昌又苻洪之先家池中蒲生長五丈如竹形時咸謂之蒲家因以爲氏又漢複姓有蒲姑蒲城蒲圃三氏出何氏姓苑
@@ -2734,7 +2734,7 @@ import_tables:
 峹	dooq		#同都	#上同
 𣘻	dooq		#同都	#楸木別名
 鍍	dooq		#同都	#以金飾物又音度
-䤅	dooq		#同都	#𨡭䤅醬也
+䤅	dooq	1	#同都	#𨡭䤅醬也
 蒤	dooq		#同都	#虎杖
 䖘	dooq		#同都	#烏䖘楚謂虎也左傳作於菟
 鷵	dooq		#同都	#爾雅曰鸄鶶鷵郭璞云似烏蒼白色
@@ -4607,7 +4607,7 @@ import_tables:
 𦺦	Eoanq		#胡安	#𦺦蔣草也
 翰	Eoanq		#胡安	#天雞羽有五色又音扞
 鶾	Eoanq		#胡安	#上同
-邯	Eoanq		#胡安	#邯鄲縣名又漢複姓漢有衛尉邯鄲義風俗通云因國爲姓也
+邯	Eoanq	1	#胡安	#邯鄲縣名又漢複姓漢有衛尉邯鄲義風俗通云因國爲姓也
 邗	Eoanq		#胡安	#邗溝水名在廣陵
 虷	Eoanq		#胡安	#虷蟹一名蜎蟲
 汗	Eoanq		#胡安	#可汗蕃王稱又音犴
@@ -5386,7 +5386,7 @@ import_tables:
 便	bjenq		#房連	#辯也僻也安也又姓漢有少府便樂成房連切又去聲九
 緶	bjenq		#房連	#縫也
 楩	bjenq		#房連	#木名
-平	bjenq		#房連	#書傳云平平辨治也又皮明切
+平	bjenq	2	#房連	#書傳云平平辨治也又皮明切
 諞	bjenq		#房連	#巧言又符蹇切
 㛹	bjenq		#房連	#㛹娟美好
 箯	bjenq		#房連	#竹輿
@@ -6214,7 +6214,7 @@ import_tables:
 餻	koavq		#古勞	#餻糜
 㟸	koavq		#古勞	#㟸㟉古亭
 櫜	koavq		#古勞	#韜也一曰車上囊
-咎	koavq		#古勞	#皋陶舜臣古作咎繇
+咎	koavq	2	#古勞	#皋陶舜臣古作咎繇
 鼛	koavq		#古勞	#役事車鼓長丈二尺詩曰鼓鐘伐鼛傳云鼛大鼓也
 鷎	koavq		#古勞	#𪁜鷎鳥名
 篙	koavq		#古勞	#進船竿
@@ -6930,7 +6930,7 @@ import_tables:
 㢒	dzSaaq		#鉏加	#壞也淮南子云㢒屋之下不可坐也
 苴	dzSaaq		#鉏加	#詩傳云水中浮草也
 侘	thRaaq		#敕加	#侘傺失意敕加切傺丑例切四
-哆	thRaaq		#敕加	#張口也
+哆	thRaaq	2	#敕加	#張口也
 𤵾	thRaaq		#敕加	#𤵾癡皃也
 㗬	thRaaq		#敕加	#緩口又厚脣也
 奓	tRaaq		#陟加	#張也陟加切八
@@ -7303,7 +7303,7 @@ import_tables:
 鋃	loaCq		#魯當	#鋃鐺鎖頭一曰鍾聲
 硠	loaCq		#魯當	#硠磕石聲
 𪁜	loaCq		#魯當	#𪁜鷎鳥名
-浪	loaCq		#魯當	#滄浪水名又盧宕切
+浪	loaCq	2	#魯當	#滄浪水名又盧宕切
 䯖	loaCq		#魯當	#䯑䯖股肉䯑苦光切
 蜋	loaCq		#魯當	#螳蜋
 𩷕	loaCq		#魯當	#魚脂
@@ -7624,7 +7624,7 @@ import_tables:
 䟓	thRaaCq		#丑庚	#字書跉䟓行遟皃
 竀	thRaaCq		#丑庚	#正視
 鎗	tshSaaCq		#楚庚	#鼎類楚庚切四
-鐺	tshSaaCq		#楚庚	#俗本音當
+鐺	tshSaaCq	1	#楚庚	#俗本音當
 槍	tshSaaCq		#楚庚	#欃槍祅星
 琤	tshSaaCq		#楚庚	#玉聲
 傖	dzSaaCq		#助庚	#楚人別種也助庚切五
@@ -7854,7 +7854,7 @@ import_tables:
 棚	baeCq		#薄萌	#棧也
 弸	baeCq		#薄萌	#弓弱皃
 㥊	baeCq		#薄萌	#㥊𢝁好嗔皃
-庄	baeCq		#薄萌	#平也亦作□
+庄	baeCq		#薄萌	#平也亦作{⿸广主}
 娙	CaeCq		#五莖	#身長好皃漢書曰娙娥婦官也武帝邢夫人號娙娥五莖切二
 俓	CaeCq		#五莖	#急也
 爭	tsSaeCq		#側莖	#競也引也側莖切七
@@ -8233,16 +8233,16 @@ import_tables:
 𪕍	kYeCq		#古螢	#𪕍𪕌班鼠
 絅	kYeCq		#古螢	#引急也
 𣕄	kYeCq		#古螢	#木名
-蒸	tsJji;Cq		#煑仍	#眾也進也君也又麁曰薪細曰蒸說文曰析麻中幹也又爾雅曰冬祭曰蒸經典亦作烝煑仍切七
-䒱	tsJji;Cq		#煑仍	#說文同上
-烝	tsJji;Cq		#煑仍	#說文曰火氣上行也
-𦚦	tsJji;Cq		#煑仍	#熟也
-䕄	tsJji;Cq		#煑仍	#葅也
-篜	tsJji;Cq		#煑仍	#玉篇云竹也
-脀	tsJji;Cq		#煑仍	#癡皃
-承	dzJji;Cq		#署陵	#次也奉也受也又姓後漢有承宮署陵切二三
-丞	dzJji;Cq		#署陵	#佐也翊也物理論曰高祖定天下置丞相以統文德立大司馬以整武事爲二府也
-𨋬	dzJji;Cq		#署陵	#軺車後登也出字林
+蒸	tsJi;Cq		#煑仍	#眾也進也君也又麁曰薪細曰蒸說文曰析麻中幹也又爾雅曰冬祭曰蒸經典亦作烝煑仍切七
+䒱	tsJi;Cq		#煑仍	#說文同上
+烝	tsJi;Cq		#煑仍	#說文曰火氣上行也
+𦚦	tsJi;Cq		#煑仍	#熟也
+䕄	tsJi;Cq		#煑仍	#葅也
+篜	tsJi;Cq		#煑仍	#玉篇云竹也
+脀	tsJi;Cq		#煑仍	#癡皃
+承	dzJi;Cq		#署陵	#次也奉也受也又姓後漢有承宮署陵切二三
+丞	dzJi;Cq		#署陵	#佐也翊也物理論曰高祖定天下置丞相以統文德立大司馬以整武事爲二府也
+𨋬	dzJi;Cq		#署陵	#軺車後登也出字林
 澂	dRi;Cq		#直陵	#清也直陵切五
 澄	dRi;Cq		#直陵	#上同
 瞪	dRi;Cq		#直陵	#直視也又直庚切
@@ -8278,31 +8278,31 @@ import_tables:
 冫	pi;Cq		#筆陵	#水凍也說文本作仌筆陵切三
 冰	pi;Cq		#筆陵	#上同說文本魚陵切
 掤	pi;Cq		#筆陵	#說文曰所以覆矢也詩云抑釋掤忌
-蠅	Jji;Cq		#余陵	#蟲也詩云營營青蠅余陵切一
-繩	zJji;Cq		#食陵	#直也又繩索俗作䋲食陵切十二
-譝	zJji;Cq		#食陵	#稱舉
-憴	zJji;Cq		#食陵	#上同
-鱦	zJji;Cq		#食陵	#小魚
-乘	zJji;Cq		#食陵	#駕也勝也登也守也說文作椉覆也又姓漢有乘昌爲煑棗侯
-椉	zJji;Cq		#食陵	#上同
-𠅞	zJji;Cq		#食陵	#古文
-澠	zJji;Cq		#食陵	#水名在齊在傳云有酒如澠又泯緬二音
-溗	zJji;Cq		#食陵	#波前後相淩也
-塍	zJji;Cq		#食陵	#稻田畦也畔也
-塖	zJji;Cq		#食陵	#上同
-騬	zJji;Cq		#食陵	#犗馬
-升	sJji;Cq		#識蒸	#十合也成也又布八十縷爲升識蒸切五
-昇	sJji;Cq		#識蒸	#日上本亦作升詩曰如日之升升出也俗加日
-陞	sJji;Cq		#識蒸	#登也躋也
-勝	sJji;Cq		#識蒸	#任也舉也說文本从舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公爲河東太守又書證切
-抍	sJji;Cq		#識蒸	#上舉易曰抍馬壯吉說文音蒸上聲
-仍	nJji;Cq		#如乘	#因也就也重也頻也又姓出何氏姓苑如乘切七
-艿	nJji;Cq		#如乘	#草名謂陳根草不芟新草又生相因艿也所謂燒火艿者也
-䚮	nJji;Cq		#如乘	#厚也
-辸	nJji;Cq		#如乘	#往也
-礽	nJji;Cq		#如乘	#福也
-扔	nJji;Cq		#如乘	#引也
-㭁	nJji;Cq		#如乘	#木名
+蠅	Ji;Cq		#余陵	#蟲也詩云營營青蠅余陵切一
+繩	zJi;Cq		#食陵	#直也又繩索俗作䋲食陵切十二
+譝	zJi;Cq		#食陵	#稱舉
+憴	zJi;Cq		#食陵	#上同
+鱦	zJi;Cq		#食陵	#小魚
+乘	zJi;Cq		#食陵	#駕也勝也登也守也說文作椉覆也又姓漢有乘昌爲煑棗侯
+椉	zJi;Cq		#食陵	#上同
+𠅞	zJi;Cq		#食陵	#古文
+澠	zJi;Cq		#食陵	#水名在齊在傳云有酒如澠又泯緬二音
+溗	zJi;Cq		#食陵	#波前後相淩也
+塍	zJi;Cq		#食陵	#稻田畦也畔也
+塖	zJi;Cq		#食陵	#上同
+騬	zJi;Cq		#食陵	#犗馬
+升	sJi;Cq		#識蒸	#十合也成也又布八十縷爲升識蒸切五
+昇	sJi;Cq		#識蒸	#日上本亦作升詩曰如日之升升出也俗加日
+陞	sJi;Cq		#識蒸	#登也躋也
+勝	sJi;Cq		#識蒸	#任也舉也說文本从舟經典省作月他皆倣此又漢複姓何氏姓苑有勝屠公爲河東太守又書證切
+抍	sJi;Cq		#識蒸	#上舉易曰抍馬壯吉說文音蒸上聲
+仍	nJi;Cq		#如乘	#因也就也重也頻也又姓出何氏姓苑如乘切七
+艿	nJi;Cq		#如乘	#草名謂陳根草不芟新草又生相因艿也所謂燒火艿者也
+䚮	nJi;Cq		#如乘	#厚也
+辸	nJi;Cq		#如乘	#往也
+礽	nJi;Cq		#如乘	#福也
+扔	nJi;Cq		#如乘	#引也
+㭁	nJi;Cq		#如乘	#木名
 兢	ki;Cq		#居陵	#兢兢戒慎居陵切二
 矜	ki;Cq		#居陵	#本矛柄也巨巾切字㨾借爲矜憐字
 徵	tRi;Cq		#陟陵	#召也明也成也證也經典省作徵又姓吳太子率更令河南徵崇陟陵切四
@@ -8318,9 +8318,9 @@ import_tables:
 凝	Ci;Cq		#魚陵	#水結也又成也魚陵切一
 興	Hi;Cq		#虛陵	#盛也舉也善也說文曰起也从舁从同同力也亦州名戰國時爲白馬氐之地漢置武都郡魏立東益州梁爲興州因武興山而名虛陵切又許應切三
 𨞾	Hi;Cq		#虛陵	#說文曰地名也
-稱	tshJji;Cq		#處陵	#知輕重也說文曰銓也又姓漢功臣表有新山侯稱忠處陵切又昌證切三
-爯	tshJji;Cq		#處陵	#并舉也
-偁	tshJji;Cq		#處陵	#宣揚美事又言也好也揚也舉也足也
+稱	tshJi;Cq		#處陵	#知輕重也說文曰銓也又姓漢功臣表有新山侯稱忠處陵切又昌證切三
+爯	tshJi;Cq		#處陵	#并舉也
+偁	tshJi;Cq		#處陵	#宣揚美事又言也好也揚也舉也足也
 殑	gi;Cq		#其矜	#殑㱡欲死狀其矜切又其拯切二
 䔷	gi;Cq		#其矜	#草名根可緣竹器又音琴
 㱡	sSi;Cq		#山矜	#殑㱡山矜切一
@@ -10186,7 +10186,7 @@ import_tables:
 袲	tshJjeA		#尺氏	#上同
 𧰲	tshJjeA		#尺氏	#豕也
 恀	tshJjeA		#尺氏	#恃也又音帋
-哆	tshJjeA		#尺氏	#張口又丑加昌者二切
+哆	tshJjeA	2	#尺氏	#張口又丑加昌者二切
 弛	sJjeA		#施是	#釋也說文云弓解也施是切三
 豕	sJjeA		#施是	#豬也
 阤	sJjeA		#施是	#壞也又音豸
@@ -11318,11 +11318,11 @@ import_tables:
 傀	khoojA		#口猥	#俗作傀儡子也
 顝	khoojA		#口猥	#首大骨又口兀切
 磈	khoojA		#口猥	#磈礧石也
-𦞙	toojA		#都罪	#𦢏𦞙亦作䏨都罪切五
+𦞙	toojA	1	#都罪	#𦢏𦞙亦作䏨都罪切五
 䇏	toojA		#都罪	#木實垂皃
 𡑈	toojA		#都罪	#𨻾𡑈重皃
 頧	toojA		#都罪	#頭不正皃
-謉	toojA		#都罪	#謉諢謔言出聲譜
+謉	toojA	1	#都罪	#謉諢謔言出聲譜
 餧	noojA		#奴罪	#飢也一曰魚敗曰餧奴罪切八
 餒	noojA		#奴罪	#上同
 浽	noojA		#奴罪	#溾浽
@@ -12456,7 +12456,7 @@ import_tables:
 𧾣	HyenA		#香兗	#走皃
 楩	bjenA		#符善	#木名符善切又父綿切四
 㦚	bjenA		#符善	#急也
-諞	bjenA		#符善	#巧言
+諞	bjenA	2	#符善	#巧言
 扁	bjenA		#符善	#又辮篇二音
 免	mxenA		#亡辨	#止也黜也脫也去也亦姓左傳衛大夫免餘亡辨切八
 娩	mxenA		#亡辨	#婉娩媚也又音挽
@@ -12973,7 +12973,7 @@ import_tables:
 軻	khoaA		#枯我	#轗軻又音珂
 坷	khoaA		#枯我	#坎坷
 𨵌	AoaA		#烏可	#𨵌砢欲傾皃烏可切七
-椏	AoaA		#烏可	#㰁椏樹斜
+椏	AoaA	2	#烏可	#㰁椏樹斜
 𣘨	AoaA		#烏可	#𣘨橠
 妸	AoaA		#烏可	#妸娜亦作婀
 娿	AoaA		#烏可	#人姓莊子有娿荷甘又音痾
@@ -13190,7 +13190,7 @@ import_tables:
 奲	tshJiaA		#昌者	#寬大也昌者切五
 㨋	tshJiaA		#昌者	#擊也
 䰩	tshJiaA		#昌者	#醜䰩
-哆	tshJiaA		#昌者	#脣下垂皃又當可切
+哆	tshJiaA	2	#昌者	#脣下垂皃又當可切
 撦	tshJiaA		#昌者	#裂開
 䋾	tRaaA		#竹下	#䋾䋈相著皃竹下切一
 䋈	nRaaA		#奴下	#奴下切一
@@ -13738,11 +13738,11 @@ import_tables:
 詗	HYeCA		#火迥	#明悟了知也火迥切一
 䀴	CeeCA		#五剄	#直視皃也五剄切二
 矨	CeeCA		#五剄	#小皃
-拯	tsJji;CA		#蒸上聲	#救也助也無韻切音蒸上聲五
-抍	tsJji;CA		#蒸上聲	#
-撜	tsJji;CA		#蒸上聲	#並上同見說文
-𨋬	tsJji;CA		#蒸上聲	#軺車後登出字林
-氶	tsJji;CA		#蒸上聲	#晉譙王名
+拯	tsJi;CA		#蒸上聲	#救也助也無韻切音蒸上聲五
+抍	tsJi;CA		#蒸上聲	#
+撜	tsJi;CA		#蒸上聲	#並上同見說文
+𨋬	tsJi;CA		#蒸上聲	#軺車後登出字林
+氶	tsJi;CA		#蒸上聲	#晉譙王名
 庱	thRi;CA		#丑拯	#亭名在吳晉陵丑拯切又恥陵切一
 殑	gi;CA		#其拯	#殑㱡欲死也其拯切一
 㱡	sSi;CA		#色庱	#殑㱡色庱切一
@@ -15102,7 +15102,7 @@ import_tables:
 稺	dRxis		#直利	#晚禾
 𦃘	dRxis		#直利	#刺𦃘針縫也
 𩹈	dRxis		#直利	#魚名
-治	dRxis		#直利	#理也又直之切
+治	dRxis	1	#直利	#理也又直之切
 𠊷	dRxis		#直利	#會物
 𢴧	dRxis		#直利	#當也對也
 謘	dRxis		#直利	#語謘
@@ -15227,7 +15227,7 @@ import_tables:
 眎	zJjis		#神至	#呈也
 貤	zJjis		#神至	#重物次第
 自	dzjis		#疾二	#從也用也由也率也疾二切二
-嫉	dzjis		#疾二	#妬也又音疾
+嫉	dzjis	2	#疾二	#妬也又音疾
 墜	dRwis		#直類	#落也直類切三
 懟	dRwis		#直類	#怨也
 鎚	dRwis		#直類	#好銅半熟
@@ -15322,7 +15322,7 @@ import_tables:
 異	Jjes		#羊吏	#奇也說文分也羊吏切七
 异	Jjes		#羊吏	#异哉歎也退也舉也
 潩	Jjes		#羊吏	#水名在河南密縣出文字音義
-食	Jjes		#羊吏	#人名漢有酈食其又音蝕
+食	Jjes	2	#羊吏	#人名漢有酈食其又音蝕
 已	Jjes		#羊吏	#過事語辝又去也弃也成也
 䔬	Jjes		#羊吏	#連翹草名
 廙	Jjes		#羊吏	#恭也敬也
@@ -15352,7 +15352,7 @@ import_tables:
 糦	tshJjes		#昌志	#大祭亦稷也說文同上
 幟	tshJjes		#昌志	#又音試音志
 𡑠	tshJjes		#昌志	#赤土
-哆	tshJjes		#昌志	#哆聲
+哆	tshJjes	2	#昌志	#哆聲
 埴	tshJjes		#昌志	#黏土
 意	Ai;s		#於記	#志也又姓於記切四
 鷾	Ai;s		#於記	#鷾鴯玄鳥也出莊子
@@ -15474,16 +15474,16 @@ import_tables:
 藙	CI;js		#魚既	#上同
 顡	CI;js		#魚既	#說文曰癡顡不聰明也
 䉨	CI;js		#魚既	#竹名
-氣	khI;js		#去既	#氣息也去既切說文本音欷五
+氣	khI;js	1	#去既	#氣息也去既切說文本音欷五
 炁	khI;js		#去既	#同上出道書
-气	khI;js		#去既	#与人物也說文曰雲气也今作乞又去訖切
+气	khI;js	999	#去既	#与人物也說文曰雲气也今作乞又去訖切
 盵	khI;js		#去既	#姓也出纂文
 䀈	khI;js		#去既	#䀈居獸似蝟尾赤也
 欷	HI;js		#許既	#歔欷許既切十八
 唏	HI;js		#許既	#啼也
 塈	HI;js		#許既	#仰塗
 愾	HI;js		#許既	#大息也又苦愛切
-氣	HI;js		#許既	#說文曰饋客芻米春秋傳曰齊人來氣諸侯
+氣	HI;js	2	#許既	#說文曰饋客芻米春秋傳曰齊人來氣諸侯
 餼	Hj		#許既	,js		#
 䊠	HI;js		#許既	#並上同見說文
 鎎	HI;js		#許既	#怒戰
@@ -15732,7 +15732,7 @@ import_tables:
 埧	guos		#其遇	#堤塘
 臞	guos		#其遇	#瘦又音瞿
 芋	quos		#王遇	#一名蹲鴟廣志云蜀漢以芋爲資凡十四等有君子芋大如斗魁如杵𥰠其車轂鋸子旁巨青邊四等多子王遇切五
-雨	quos		#王遇	#詩曰雨雪其霶又音禹
+雨	quos	2	#王遇	#詩曰雨雪其霶又音禹
 羽	quos		#王遇	#鳥翅也又五聲宮商角徵羽晉書樂志云宮中也中和之道無往而不理商強也謂金性之堅強角觸也象諸陽氣觸動而生徵止也言物盛則止羽舒也陽氣將復萬物孳育而舒生又音禹
 䨒	quos		#王遇	#說文曰水音也
 吁	quos		#王遇	#疑怪辭也
@@ -16138,7 +16138,7 @@ import_tables:
 戾	leejs		#郎計	#乖也待也利也立也罪也來也至也定也又很戾說文曲也从犬出戶下戾者身戾曲也
 㑦	leejs		#郎計	#很㑦俗
 隸	leejs		#郎計	#僕隷
-隷	leejs		#郎計	#上同俗作𣜩
+隷	leejs		#郎計	#上同俗作[𥻳/𥻊]
 儷	leejs		#郎計	#伉儷
 盭	leejs		#郎計	#綠色又綬名或作綟又云弼也
 綟	leejs		#郎計	#草色衣也
@@ -18135,7 +18135,7 @@ import_tables:
 羨	zjens		#似面	#貪慕又餘也又姓列仙傳有羨門似面切二
 䢭	zjens		#似面	#遮也
 騗	phjens		#匹戰	#躍上馬匹戰切二
-偏	phjens		#匹戰	#又音篇
+偏	phjens	2	#匹戰	#又音篇
 𢮨	dzJyens		#時釧	#縣繩望時釧切二
 叀	dzJyens		#時釧	#說文曰專小謹也
 輾	nRxens		#女箭	#水輾女箭切二
@@ -18151,7 +18151,7 @@ import_tables:
 涎	Jjens		#于線	#湎涎水流
 䢭	Jjens		#于線	#移也
 𠻤	Jjens		#于線	#大笑
-便	bjens		#婢面	#利也婢面切又音平聲一
+便	bjens	2	#婢面	#利也婢面切又音平聲一
 邅	dRxens		#持碾	#逐也持碾切又張連切二
 纏	dRxens		#持碾	#纏繞物也
 𤹨	ljens		#連彥	#疰𤹨惡病也連彥切二
@@ -18496,9 +18496,9 @@ import_tables:
 㿷	tshoavs		#七到	#米穀雜
 糙	tshoavs		#七到	#上同
 鄵	tshoavs		#七到	#鄭地名
-暴	boavs		#薄報	#侵暴猝也急也又晞也案說文作曓疾有所趣也又作㬥晞也今通作暴亦姓漢有繡衣使者暴勝之薄報切九
+暴	boavs	2	#薄報	#侵暴猝也急也又晞也案說文作曓疾有所趣也又作㬥晞也今通作暴亦姓漢有繡衣使者暴勝之薄報切九
 虣	boavs		#薄報	#上同周禮曰以刑教中則民不虣
-曝	boavs		#薄報	#曝乾俗
+曝	boavs	2	#薄報	#曝乾俗
 瀑	boavs		#薄報	#瀑雨
 勽	boavs		#薄報	#說文覆也
 菢	boavs		#薄報	#鳥伏卵
@@ -18559,7 +18559,7 @@ import_tables:
 跢	toas		#丁佐	#小兒行也丁佐切四
 癉	toas		#丁佐	#勞也
 痑	toas		#丁佐	#病也
-哆	toas		#丁佐	#語助聲
+哆	toas	2	#丁佐	#語助聲
 邏	loas		#郎佐	#游兵也郎佐切三
 𧟌	loas		#郎佐	#婦人衣
 㿚	loas		#郎佐	#病也
@@ -18699,7 +18699,7 @@ import_tables:
 咤	tRaas		#陟駕	#上同禮記曰無咤食
 奼	tRaas		#陟駕	#美女又丁故切
 灹	tRaas		#陟駕	#火聲
-哆	tRaas		#陟駕	#哆㕦大口
+哆	tRaas	2	#陟駕	#哆㕦大口
 奓	tRaas		#陟駕	#張也開也又陟加切
 䐒	tRaas		#陟駕	#䐒䏧相黏也
 𢕮	tRaas		#陟駕	#𢕮步立也
@@ -19198,26 +19198,26 @@ import_tables:
 零	leeCs	2	#郎定	#零落郎定切又魯丁切三
 𢺰	leeCs		#郎定	#插空皃又魯丁切
 令	leeCs	2	#郎定	#令支縣在遼西郡
-證	tsJji;Cs		#諸應	#驗也諸應切二
-烝	tsJji;Cs		#諸應	#熱又音蒸
-孕	Jji;Cs		#以證	#懷孕以證切七
-䵴	Jji;Cs		#以證	#面黑子
-賸	Jji;Cs		#以證	#增益一曰送也又物相贈
-媵	Jji;Cs		#以證	#送女從嫁
-㑞	Jji;Cs		#以證	#㑞送行也
-鱦	Jji;Cs		#以證	#小魚
-膡	Jji;Cs		#以證	#大視又雙也
-乘	zJji;Cs		#實證	#車乘也實證切又食陵切七
-鱦	zJji;Cs		#實證	#魚子
-媵	zJji;Cs		#實證	#又音孕
-𣎜	zJji;Cs		#實證	#孕也
-嵊	zJji;Cs		#實證	#山名在剡縣也
-賸	zJji;Cs		#實證	#又音孕
-剩	zJji;Cs		#實證	#剩長也
-認	nJji;Cs		#而證	#認物而證切又而振切四
-扔	nJji;Cs		#而證	#強牽引又音仍
-芿	nJji;Cs		#而證	#草不翦
-㭁	nJji;Cs		#而證	#上車又木名
+證	tsJi;Cs		#諸應	#驗也諸應切二
+烝	tsJi;Cs		#諸應	#熱又音蒸
+孕	Ji;Cs		#以證	#懷孕以證切七
+䵴	Ji;Cs		#以證	#面黑子
+賸	Ji;Cs		#以證	#增益一曰送也又物相贈
+媵	Ji;Cs		#以證	#送女從嫁
+㑞	Ji;Cs		#以證	#㑞送行也
+鱦	Ji;Cs		#以證	#小魚
+膡	Ji;Cs		#以證	#大視又雙也
+乘	zJi;Cs		#實證	#車乘也實證切又食陵切七
+鱦	zJi;Cs		#實證	#魚子
+媵	zJi;Cs		#實證	#又音孕
+𣎜	zJi;Cs		#實證	#孕也
+嵊	zJi;Cs		#實證	#山名在剡縣也
+賸	zJi;Cs		#實證	#又音孕
+剩	zJi;Cs		#實證	#剩長也
+認	nJi;Cs		#而證	#認物而證切又而振切四
+扔	nJi;Cs		#而證	#強牽引又音仍
+芿	nJi;Cs		#而證	#草不翦
+㭁	nJi;Cs		#而證	#上車又木名
 應	Ai;Cs		#於證	#物相應也說文作應當也於證切又音膺三
 譍	Ai;Cs		#於證	#以言對也
 噟	Ai;Cs		#於證	#上同
@@ -19228,20 +19228,20 @@ import_tables:
 興	Hi;Cs		#許應	#許應切又許陵切三
 臖	Hi;Cs		#許應	#腫起
 嬹	Hi;Cs		#許應	#悅也喜也
-勝	sJji;Cs	2	#詩證	#勝負又加也克也亦州名春秋時戎狄地戰國時晉趙地漢雲中五原也隋置榆林鎮屬雲州唐武德中改爲勝州詩證切又詩陵切四
-膡	sJji;Cs		#詩證	#美目
-蕂	sJji;Cs		#詩證	#苣蕂胡麻
-榺	sJji;Cs		#詩證	#織機榺也
+勝	sJi;Cs	2	#詩證	#勝負又加也克也亦州名春秋時戎狄地戰國時晉趙地漢雲中五原也隋置榆林鎮屬雲州唐武德中改爲勝州詩證切又詩陵切四
+膡	sJi;Cs		#詩證	#美目
+蕂	sJi;Cs		#詩證	#苣蕂胡麻
+榺	sJi;Cs		#詩證	#織機榺也
 瞪	dRi;Cs		#丈證	#直視皃陸本作眙丈證切三
 𪒘	dRi;Cs		#丈證	#米黑壞
 𪑬	dRi;Cs		#丈證	#雲色
 𩜁	lji;Cs		#里甑	#馬食穀多氣流四下也里甑切一
 凭	bi;Cs		#皮證	#依几也皮證切又皮陵切二
 靐	bi;Cs		#皮證	#靐靐雷聲也
-稱	tshJji;Cs		#昌孕	#愜意又是也等也銓也度也俗作秤云正斤兩也昌孕切又昌陵切二
-秤	tshJji;Cs		#昌孕	#俗
+稱	tshJi;Cs		#昌孕	#愜意又是也等也銓也度也俗作秤云正斤兩也昌孕切又昌陵切二
+秤	tshJi;Cs		#昌孕	#俗
 凝	Ci;Cs		#牛𩜁	#牛𩜁切又牛凌切一
-丞	dzJji;Cs		#常證	#縣名在沂州匡衡所居常證切又音承一
+丞	dzJi;Cs		#常證	#縣名在沂州匡衡所居常證切又音承一
 覴	thRi;Cs		#丑證	#直視丑證切一
 殑	gi;Cs		#其𩜁	#釋典殑伽其𩜁切又其陵切一
 嶝	t,Cs		#都鄧	#小坂都鄧切八
@@ -19355,9 +19355,9 @@ import_tables:
 縐	tsSiuvs		#側救	#衣不申又絺之細者
 䐢	tsSiuvs		#側救	#字書云䐢脯也
 副	phiuvs		#敷救	#貳也佐也又虜姓後魏書副呂氏後改爲副氏敷救切七
-仆	phiuvs		#敷救	#前倒
+仆	phiuvs	2	#敷救	#前倒
 𩯅	phiuvs		#敷救	#假髻又敷六切
-覆	phiuvs		#敷救	#蓋也又敷六切
+覆	phiuvs	2	#敷救	#蓋也又敷六切
 𤸑	phiuvs		#敷救	#病重發也
 㤱	phiuvs		#敷救	#小怒也
 褔	phiuvs		#敷救	#衣一福今作副
@@ -19409,14 +19409,14 @@ import_tables:
 腬	nRiuvs		#女救	#嘉膳
 猱	nRiuvs		#女救	#爾雅曰猱蝯善援又奴刀切
 狃	nRiuvs		#女救	#習也就也又狐狸也
-復	biuvs		#扶富	#又也返也往來也安也白也告也扶富切又音服八
+復	biuvs	2	#扶富	#又也返也往來也安也白也告也扶富切又音服八
 𢕒	biuvs		#扶富	#古文
 𤸑	biuvs		#扶富	#再病
 伏	biuvs		#扶富	#鳥菢子又音服
 椱	biuvs		#扶富	#機持繒者
 𨺅	biuvs		#扶富	#兩阜閒也
-覆	biuvs		#扶富	#伏兵曰覆
-複	biuvs		#扶富	#重複
+覆	biuvs	2	#扶富	#伏兵曰覆
+複	biuvs	2	#扶富	#重複
 狖	Jiuvs		#余救	#獸名似猨余救切十四
 貁	Jiuvs		#余救	#上同
 鼬	Jiuvs		#余救	#蟲名似鼠
@@ -19485,7 +19485,7 @@ import_tables:
 𦼪	moovs		#莫候	#草名
 𠔼	moovs		#莫候	#重覆又亡保切
 雺	moovs		#莫候	#天氣下地不應
-仆	phoovs		#匹候	#倒也匹候切又匐覆二音五
+仆	phoovs	2	#匹候	#倒也匹候切又匐覆二音五
 踣	phoovs		#匹候	#上同
 䞳	phoovs		#匹候	#僵也
 㰴	phoovs		#匹候	#語而不受
@@ -20055,7 +20055,7 @@ import_tables:
 磟	loukq		#盧谷	#磟碡又音六逐
 簶	loukq		#盧谷	#弧簶箭室也出音譜
 𧌍	loukq		#盧谷	#𧌍聽似蜥蜴居樹上輒上齧人上樹垂頭聽聞吠聲乃去出字林
-谷	loukq		#盧谷	#漢書匈奴傳有谷蠡王蠡音离
+谷	loukq	2	#盧谷	#漢書匈奴傳有谷蠡王蠡音离
 娽	loukq		#盧谷	#埤蒼云顓頊妻名說文云隨從也史記毛遂入楚謂十九人曰公等娽娽可謂因人成事耳又力玉切案史記亦作錄
 𥉶	loukq		#盧谷	#𥌮𥉶眼淨也
 摝	loukq		#盧谷	#振也周禮曰摝鐸鄭玄云掩上振之爲摝
@@ -20099,7 +20099,7 @@ import_tables:
 瀑	boukq		#蒲木	#瀑布水流下也
 䗱	boukq		#蒲木	#䗱𧐒蟲名
 㲫	boukq		#蒲木	#㲢㲫毛不理也
-樸	boukq		#蒲木	#爾雅云樕樸心又音卜
+樸	boukq	2	#蒲木	#爾雅云樕樸心又音卜
 僕	boukq		#蒲木	#侍從人也
 䑑	boukq		#蒲木	#古文
 𥐁	boukq		#蒲木	#短人又倉候切
@@ -20122,7 +20122,7 @@ import_tables:
 䧤	poukq		#博木	#彭䧤蠻夷國名
 轐	poukq		#博木	#車伏兔
 𡡐	poukq		#博木	#昌意妻也
-樸	poukq		#博木	#棫樸叢木又音僕樸樕小木也
+樸	poukq	2	#博木	#棫樸叢木又音僕樸樕小木也
 獛	poukq		#博木	#獛鉛南極之夷尾長數寸巢居山林出山海經
 蹼	poukq		#博木	#足指閒相著爾雅云鳧鴈醜其足蹼
 纀	poukq		#博木	#爾雅曰裳削幅謂之纀郭璞云削殺其幅深衣之裳
@@ -20405,7 +20405,7 @@ import_tables:
 覆	phiukq		#芳福	#反覆又敗也倒也審也又敷救切
 蕧	phiukq		#芳福	#蕧葐草又音服
 𩯅	phiukq		#芳福	#廣雅曰假髻也
-副	phiukq		#芳福	#剖也又敷救切
+副	phiukq	2	#芳福	#剖也又敷救切
 㙏	phiukq		#芳福	#地室
 𥨍	phiukq		#芳福	#上同
 䔰	phiukq		#芳福	#䔰𦼱草名又音富
@@ -20631,7 +20631,7 @@ import_tables:
 輍	Jiokq		#余蜀	#車枕前也
 慾	Jiokq		#余蜀	#嗜慾
 𤞞	Jiokq		#余蜀	#獨𤞞獸
-谷	Jiokq		#余蜀	#山谷爾雅曰水注谿曰谷說文曰泉出通川爲谷亦虜三字姓吐谷渾氏又音穀
+谷	Jiokq	2	#余蜀	#山谷爾雅曰水注谿曰谷說文曰泉出通川爲谷亦虜三字姓吐谷渾氏又音穀
 躅	dRiokq		#直錄	#躑躅直錄切三
 䠱	dRiokq		#直錄	#上同
 蠋	dRiokq		#直錄	#𧓸蠋蟲名
@@ -20653,7 +20653,7 @@ import_tables:
 㫽	liokq		#力玉	#日暗
 㪖	liokq		#力玉	#剝㪖又聲㪖
 曲	khiokq		#丘玉	#委曲說文作曲象器曲受物之形又姓晉穆侯子成師封於曲沃後氏焉漢有代郡太守曲謙丘玉切四
-䱡	khiokq		#丘玉	#魚名
+䱡	khiokq	1	#丘玉	#魚名
 䒼	khiokq		#丘玉	#蠶薄漢書周勃織溥䒼爲生亦作筁
 匤	khiokq		#丘玉	#匤匣也
 瘃	tRiokq		#陟玉	#寒瘡也陟玉切七
@@ -23755,9 +23755,9 @@ import_tables:
 躄	pjekq		#必益	#跛躄說文作𣦢人不能行也
 𣦢	pjekq		#必益	#上同
 襞	pjekq		#必益	#襞衣說文曰韏衣也
-𨐨	pjekq		#必益	#治也
-僻	phjekq		#芳辟	#誤也邪僻也芳辟切四
-辟	phjekq		#芳辟	#上同見詩
+𨐨	pjekq	9	#必益	#治也
+僻	phjekq	2	#芳辟	#誤也邪僻也芳辟切四
+辟	phjekq	1	#芳辟	#上同見詩
 癖	phjekq		#芳辟	#腹病
 廦	phjekq		#芳辟	#牆也
 麝	zJjekq		#食亦	#麝香也食亦切又食夜切二
@@ -23796,7 +23796,7 @@ import_tables:
 澼	pheekq		#普擊	#莊子洴澼絖漂絮者
 憵	pheekq		#普擊	#急速
 䤨	pheekq		#普擊	#裁木爲器
-癖	pheekq		#普擊	#痃癖病
+癖	pheekq	2	#普擊	#痃癖病
 僻	pheekq		#普擊	#邪僻
 靂	leekq		#郎擊	#霹靂郎擊切四十五
 䟐	leekq		#郎擊	#䟐𧻕行皃𧻕七昔切
@@ -24025,15 +24025,15 @@ import_tables:
 殈	HYekq		#呼狊	#鳥卵破也
 𣤩	theekq		#丑歷	#痛也丑歷切又丑力切二
 𥛚	theekq		#丑歷	#福𥛚
-職	tsJji;kq		#之翼	#爾雅云職主也常也博雅云業也字林云記微也又姓周禮有職方氏其後因官爲姓風俗通云漢有山陽令職洪之翼切九
-軄	tsJji;kq		#之翼	#俗
-戠	tsJji;kq		#之翼	#說文云闕職識字从此
-織	tsJji;kq		#之翼	#組織說文曰作布帛總名
-膱	tsJji;kq		#之翼	#油敗
-蟙	tsJji;kq		#之翼	#蟙䘃蟲蝙蝠別名也
-𧄕	tsJji;kq		#之翼	#草名似酸漿亦作蘵
-䐈	tsJji;kq		#之翼	#脯長尺有二寸曰䐈儀禮作膱
-樴	tsJji;kq		#之翼	#樴杙
+職	tsJi;kq		#之翼	#爾雅云職主也常也博雅云業也字林云記微也又姓周禮有職方氏其後因官爲姓風俗通云漢有山陽令職洪之翼切九
+軄	tsJi;kq		#之翼	#俗
+戠	tsJi;kq		#之翼	#說文云闕職識字从此
+織	tsJi;kq		#之翼	#組織說文曰作布帛總名
+膱	tsJi;kq		#之翼	#油敗
+蟙	tsJi;kq		#之翼	#蟙䘃蟲蝙蝠別名也
+𧄕	tsJi;kq		#之翼	#草名似酸漿亦作蘵
+䐈	tsJi;kq		#之翼	#脯長尺有二寸曰䐈儀禮作膱
+樴	tsJi;kq		#之翼	#樴杙
 直	dRi;kq		#除力	#正也又姓楚人直躬之後漢有御史大夫直不疑除力切四
 犆	dRi;kq		#除力	#𤚳犆牛也
 䐈	dRi;kq		#除力	#肥腸
@@ -24063,8 +24063,8 @@ import_tables:
 㽚	thRi;kq		#恥力	#田器又地名
 陟	tRi;kq		#竹力	#升也進也竹力切二
 稙	tRi;kq		#竹力	#早種禾
-食	zJji;kq		#乘力	#飲食大戴禮曰食穀者智惠而巧古史考曰古者茹毛飲血燧人鑽火而人始裹肉而燔之曰炮及神農時人方食穀加米干燒石之上而食之及黃帝始有釜甑火食之道成矣又戲名博屬又用也僞也亦姓風俗通云漢有博士食子公河內人乘力切二
-蝕	zJji;kq		#乘力	#日蝕也說文云敗瘡也𥼶名曰日月虧曰蝕稍小侵虧如蟲食草木之葉也
+食	zJi;kq		#乘力	#飲食大戴禮曰食穀者智惠而巧古史考曰古者茹毛飲血燧人鑽火而人始裹肉而燔之曰炮及神農時人方食穀加米干燒石之上而食之及黃帝始有釜甑火食之道成矣又戲名博屬又用也僞也亦姓風俗通云漢有博士食子公河內人乘力切二
+蝕	zJi;kq		#乘力	#日蝕也說文云敗瘡也𥼶名曰日月虧曰蝕稍小侵虧如蟲食草木之葉也
 息	sji;kq		#相即	#止也又嬎息也說文喘也亦姓姓苑云今襄陽人又漢複姓前漢書有河內息夫躬相即切十一
 㮩	sji;kq		#相即	#木名
 鄎	sji;kq		#相即	#新鄎縣在豫州
@@ -24076,24 +24076,24 @@ import_tables:
 㴧	sji;kq		#相即	#水
 𥰝	sji;kq		#相即	#簨𥰝
 𪄛	sji;kq		#相即	#鳥食
-寔	dzJji;kq		#常職	#實也是也常職切八
-湜	dzJji;kq		#常職	#水清也
-殖	dzJji;kq		#常職	#多也生也
-植	dzJji;kq		#常職	#種植也立志也置也
-埴	dzJji;kq		#常職	#黏土
-𡑠	dzJji;kq		#常職	#古文
-㨁	dzJji;kq		#常職	#拄杖曰㨁
-遈	dzJji;kq		#常職	#流行
-識	sJji;kq		#賞職	#說文云常也一曰知也賞職切十
-式	sJji;kq		#賞職	#法也敬也用也度也又姓出何氏姓苑
-拭	sJji;kq		#賞職	#拭刷
-𢂑	sJji;kq		#賞職	#上同
-軾	sJji;kq		#賞職	#車前
-飾	sJji;kq		#賞職	#裝飾
-𥿮	sJji;kq		#賞職	#方言云趙魏閒呼經而未緯者曰機𥿮
-鉽	sJji;kq		#賞職	#鼎鉽也
-烒	sJji;kq		#賞職	#火皃
-𧄹	sJji;kq		#賞職	#草名
+寔	dzJi;kq		#常職	#實也是也常職切八
+湜	dzJi;kq		#常職	#水清也
+殖	dzJi;kq		#常職	#多也生也
+植	dzJi;kq		#常職	#種植也立志也置也
+埴	dzJi;kq		#常職	#黏土
+𡑠	dzJi;kq		#常職	#古文
+㨁	dzJi;kq		#常職	#拄杖曰㨁
+遈	dzJi;kq		#常職	#流行
+識	sJi;kq		#賞職	#說文云常也一曰知也賞職切十
+式	sJi;kq		#賞職	#法也敬也用也度也又姓出何氏姓苑
+拭	sJi;kq		#賞職	#拭刷
+𢂑	sJi;kq		#賞職	#上同
+軾	sJi;kq		#賞職	#車前
+飾	sJi;kq		#賞職	#裝飾
+𥿮	sJi;kq		#賞職	#方言云趙魏閒呼經而未緯者曰機𥿮
+鉽	sJi;kq		#賞職	#鼎鉽也
+烒	sJi;kq		#賞職	#火皃
+𧄹	sJi;kq		#賞職	#草名
 赩	Hi;kq		#許極	#大赤也許極切五
 衋	Hi;kq		#許極	#傷痛其心
 䵱	Hi;kq		#許極	#赤黑皃
@@ -24160,40 +24160,40 @@ import_tables:
 蕀	ki;kq		#紀力	#遠志別名
 茍	ki;kq		#紀力	#說文曰自急敕也
 𧩦	ki;kq		#紀力	#訥言
-弋	Jji;kq		#與職	#橜亦弋射又姓出河東今蒲州有弋氏見姓苑與職切三十四
-翊	Jji;kq		#與職	#馮翊郡又輔翊
-翌	Jji;kq		#與職	#明日
-廙	Jji;kq		#與職	#敬也又音異
-黓	Jji;kq		#與職	#皁也爾雅曰太歲在壬曰玄黓
-翼	Jji;kq		#與職	#羽翼說文翍也又恭也美也助也亦州名在隴右因翼水爲名又姓晉翼侯之後漢有諫議大夫翼奉
-𩙺	Jji;kq		#與職	#說文同上
-𦏵	Jji;kq		#與職	#古文
-䴬	Jji;kq		#與職	#麥䴬
-隿	Jji;kq		#與職	#繳射也或作弋
-𧃟	Jji;kq		#與職	#藕翹
-㚤	Jji;kq		#與職	#婦官也漢有鉤㚤夫人居鉤㚤宮漢書亦作弋
-潩	Jji;kq		#與職	#水名出密縣大騩山
-杙	Jji;kq		#與職	#果名如棃亦橜也
-芅	Jji;kq		#與職	#今羊桃也或曰鬼桃葉似桃而花白
-㔴	Jji;kq		#與職	#說文云田器也
-𧾰	Jji;kq		#與職	#趨進𧾰如也
-𨙒	Jji;kq		#與職	#疾趨
-𥡪	Jji;kq		#與職	#黍稷蕃蕪皃亦作翼
-蛡	Jji;kq		#與職	#蛡蛡蟲行皃
-𤬩	Jji;kq		#與職	#瓶瓮骨也
-𢖺	Jji;kq		#與職	#心動
-瀷	Jji;kq		#與職	#水聚
-𢎀	Jji;kq		#與職	#缺盆骨也
-𠥦	Jji;kq		#與職	#大鼎
-熼	Jji;kq		#與職	#火光
-釴	Jji;kq		#與職	#鼎附耳在外也
-𤼌	Jji;kq		#與職	#痒𤼌淫𤼌
-𧑌	Jji;kq		#與職	#蟲也
-𦔜	Jji;kq		#與職	#耕也
-䄩	Jji;kq		#與職	#禾䄩
-𢓀	Jji;kq		#與職	#行𢓀
-䘝	Jji;kq		#與職	#衣䘝
-䣧	Jji;kq		#與職	#酒色
+弋	Ji;kq		#與職	#橜亦弋射又姓出河東今蒲州有弋氏見姓苑與職切三十四
+翊	Ji;kq		#與職	#馮翊郡又輔翊
+翌	Ji;kq		#與職	#明日
+廙	Ji;kq		#與職	#敬也又音異
+黓	Ji;kq		#與職	#皁也爾雅曰太歲在壬曰玄黓
+翼	Ji;kq		#與職	#羽翼說文翍也又恭也美也助也亦州名在隴右因翼水爲名又姓晉翼侯之後漢有諫議大夫翼奉
+𩙺	Ji;kq		#與職	#說文同上
+𦏵	Ji;kq		#與職	#古文
+䴬	Ji;kq		#與職	#麥䴬
+隿	Ji;kq		#與職	#繳射也或作弋
+𧃟	Ji;kq		#與職	#藕翹
+㚤	Ji;kq		#與職	#婦官也漢有鉤㚤夫人居鉤㚤宮漢書亦作弋
+潩	Ji;kq		#與職	#水名出密縣大騩山
+杙	Ji;kq		#與職	#果名如棃亦橜也
+芅	Ji;kq		#與職	#今羊桃也或曰鬼桃葉似桃而花白
+㔴	Ji;kq		#與職	#說文云田器也
+𧾰	Ji;kq		#與職	#趨進𧾰如也
+𨙒	Ji;kq		#與職	#疾趨
+𥡪	Ji;kq		#與職	#黍稷蕃蕪皃亦作翼
+蛡	Ji;kq		#與職	#蛡蛡蟲行皃
+𤬩	Ji;kq		#與職	#瓶瓮骨也
+𢖺	Ji;kq		#與職	#心動
+瀷	Ji;kq		#與職	#水聚
+𢎀	Ji;kq		#與職	#缺盆骨也
+𠥦	Ji;kq		#與職	#大鼎
+熼	Ji;kq		#與職	#火光
+釴	Ji;kq		#與職	#鼎附耳在外也
+𤼌	Ji;kq		#與職	#痒𤼌淫𤼌
+𧑌	Ji;kq		#與職	#蟲也
+𦔜	Ji;kq		#與職	#耕也
+䄩	Ji;kq		#與職	#禾䄩
+𢓀	Ji;kq		#與職	#行𢓀
+䘝	Ji;kq		#與職	#衣䘝
+䣧	Ji;kq		#與職	#酒色
 即	tsji;kq		#子力	#就也今也舍也半也說文作即食也亦姓風俗通有單父令即賣又漢複姓有城陽相齊人即墨成子力切十六
 卽	tsji;kq		#子力	#上同
 稷	tsji;kq		#子力	#五穀之摠名一曰黍屬周禮注云社稷土穀之神有德者配食焉共工氏之子曰句龍食於社有厲山氏之子曰柱食於稷湯遷之而祀棄俗作稷亦姓后稷之後
@@ -24292,8 +24292,8 @@ import_tables:
 𣮊	tRi;kq		#丁力	#毛少𣮊𣮊
 𢕚	tRi;kq		#丁力	#𢕚滴水少
 䁇	mi;kq		#亡逼	#細視也亡逼切一
-瀷	tshJji;kq		#昌力	#水潦積聚昌力切又音翼二
-𦔫	tshJji;kq		#昌力	#字統云耕也
+瀷	tshJi;kq		#昌力	#水潦積聚昌力切又音翼二
+𦔫	tshJi;kq		#昌力	#字統云耕也
 德	t,kq		#多則	#德行又惠也升也福也亦州名秦爲齊郡地漢爲平原郡武德初爲德州因安德縣以名之多則切九
 惪	t,kq		#多則	#古文
 𢛳	t,kq		#多則	#觻𢛳縣名在張掖漢書作得
@@ -24373,7 +24373,7 @@ import_tables:
 匐	b,kq		#蒲北	#匍匐
 𠣵	b,kq		#蒲北	#上同
 踣	b,kq		#蒲北	#斃也倒也又作仆
-仆	b,kq		#蒲北	#倒也
+仆	b,kq	2	#蒲北	#倒也
 菩	b,kq		#蒲北	#草名又音蒲
 垘	b,kq		#蒲北	#填塞
 䞳	b,kq		#蒲北	#僵也又孚豆切
@@ -24396,7 +24396,7 @@ import_tables:
 𢧧	k,kq		#古得	#𢧧䎪草生
 孂	k,kq		#古得	#竦身皃出玉篇
 墄	tsh,kq		#七則	#階齒七則切一
-覆	ph,kq		#匹北	#匹北切三
+覆	ph,kq	2	#匹北	#匹北切三
 𧕡	ph,kq		#匹北	#𧕡蝗蟲名
 𠣾	ph,kq		#匹北	#𠣾匐
 𢃤	Hw,kq		#呼或	#巾帛從風聲呼或切二
@@ -25332,10 +25332,8 @@ import_tables:
 ##
 䂫	EouCq		#戶公	#石聲
 𪈥	EYejq		#戶圭	#子𪈥鳥出蜀中
-𥛛	Ajinq		#於真	#籀文
+𥛛	Ajinq		#於真	#籀文(禋)
 𥉏	khoanq		#苦寒	#古文(看)
-𥮓	dzeenq		#昨先	#上同(𥮒)
-𥷰	dzeenq		#昨先	#上同(𥮒)
 𤓷	nRaaq		#女加	#爬𤓷以收除也
 𦱟	m,Cq	0	#武登	#穢也
 㔋	kaamq		#古銜	#細切
@@ -25378,4 +25376,542 @@ import_tables:
 #爹	tRiaq		#陟邪切#北方人呼父徒可切九
 爹	tiaq		#正
 #地	djis		#徒四切#土地說文曰元气初分輕淸陽爲天重濁隂爲地萬物所陳𠛱也元命包曰地者易也言養萬物懷任交易變化含吐應節[故立字亦從水土者爲地/故其立字土力於一者爲地]又虜複姓有地連氏地倫氏徒四切二
-#
+## 字林|[或又亦俗通文今古本省]作 
+𪂝	touCq		#德紅	
+𤸇	liuCq		#力中	
+𪔴	liuCq		#力中	
+㓛	kouCq		#古紅	
+袶	bouCq		#薄紅	
+𦙄	HioCq		#許容	
+𢙄	kioCq		#九容	
+窗	tshSaoCq		#楚江	
+龡	tshJyeq		#昌垂	
+𧇾	khweq		#去爲	
+𡧗	Cxeq		#魚羈	
+髭	tsjeq		#即移	
+𧸅	tRxeq		#陟離	
+訑	Hjeq		#香支	
+𪙉	dzSxeq		#士宜	
+䡨	tshjiq		#取私	
+縲	lyiq		#力追	
+嫘	lyiq		#力追	
+傫	lyiq		#力追	
+縲	lyiq		#力追	
+𦙁	tRxiq		#丁尼	
+熺	Hi;q		#許其	
+𣣷	tshJi;q		#赤之	
+鷀	dzi;q		#疾之	
+茌	dzSi;q		#士之	
+𦙃	sioq		#相居	
+葅	sSioq		#所𦵔	
+葅	tsSioq		#側魚	
+蒭	tshSuoq		#測隅	
+亏	quoq		#羽俱	
+亏	quoq		#羽俱	
+𣰠	guoq		#其俱	
+翑	guoq		#其俱	
+𪓟	guoq		#其俱	
+𧝄	nJuoq		#人朱	
+𨿊	dzSuoq		#仕于	
+摹	mooq		#莫胡	
+謩	mooq		#莫胡	
+𩚩	Eooq		#戶吳	
+𪕮	Eooq		#戶吳	
+𩶉	pooq		#博孤	
+𪗇	dzeejq		#徂奚	
+𩥴	leejq		#郎奚	
+仾	teejq		#都奚	
+䤈	Heejq		#呼雞	
+㢴	seejq		#先稽	
+𤬉	khYejq		#苦圭	
+靁	loojq		#魯回	
+靁	loojq		#魯回	
+𢮒	toojq		#都回	
+裵	boojq		#薄回	
+来	lo,jq		#落哀	
+琜	lo,jq		#落哀	
+𥅰	tso,jq		#祖才	
+腮	so,jq		#蘇來	
+囙	Ajinq		#於真	
+隣	ljinq		#力珍	
+珎	tRxinq		#陟鄰	
+𪋻	dRxinq		#直珍	
+𣸁	tsjinq		#將鄰	
+𧗁	tsjinq		#將鄰	
+𡩟	Jjinq		#翼真	
+𩔤	bjinq		#符真	
+𩔤	bjinq		#符真	
+琘	mxinq		#武巾	
+琘	mxinq		#武巾	
+𧈇	pxinq		#府巾	
+享	dzJyinq		#常倫	
+𧈇	phxinq		#普巾	
+閿	mU;nq		#無分	
+𩿈	bU;nq		#符分	
+群	gU;nq		#渠云	
+裙	gU;nq		#渠云	
+帉	phU;nq		#府文	
+𠫐	CUanq		#愚袁	
+𠫐	CUanq		#愚袁	
+藼	HUanq		#況袁	
+蕿	HUanq		#況袁	
+飦	kIanq		#居言	
+昷	Aoonq		#烏渾	
+𧄸	moonq		#莫奔	
+𢍜	tsoonq		#祖昆	
+瓫	boonq		#蒲奔	
+昬	Hoonq		#呼昆	
+𪇠	noanq		#那干	
+𩁘	noanq		#那干	
+飡	tshoanq		#七安	
+𢬵	phVanq		#普官	
+𤦦	paanq		#布還	
+姧	kaanq		#古顏	
+狠	Caenq		#五閑	
+𥮓	dzeenq	2	#昨先	
+𥷰	dzeenq	2	#昨先	
+开	keenq		#古賢	
+𢎺	Eeenq		#胡田	
+𠆺	Eeenq		#胡田	
+䏈	ljenq		#力延	
+𧍻	bjenq		#房連	
+𤼣	lyenq		#呂員	
+齠	deevq		#徒聊	
+𪚰	tsjevq		#即消	
+㑾	Jjevq		#餘昭	
+飈	pjevq		#甫遙	
+穮	pxevq		#甫嬌	
+𠠧	bjevq		#符霄	
+𦝫	Ajevq		#於霄	
+㠐	gxevq		#巨嬌	
+幓	tshjevq		#七遙	
+𡝩	Axevq		#於喬	
+票	phjevq		#撫招	
+𣿖	phjevq		#撫招	
+𣔱	soavq		#蘇遭	
+䑹	soavq		#蘇遭	
+𧛙	poavq		#博毛	
+𢾕	Coavq		#五勞	
+鏍	lVaq		#落戈	
+蟇	maaq		#莫霞	
+䔢	Efaq		#戶花	
+皅	phaaq		#普巴	
+㢉	dRaaq		#宅加	
+𪏰	HiaCq		#許良	
+𧷞	sJiaCq		#式羊	
+𨢩	sJiaCq		#式羊	
+𩰱	sJiaCq		#式羊	
+摪	tsiaCq		#即良	
+𧒾	toaCq		#都郎	
+堽	koaCq		#古郎	
+𦪗	EfaCq		#戶盲	
+烹	phaaCq		#撫庚	
+𢡗	maeCq		#莫耕	
+{⿸}	baeCq		#薄萌	
+頳	thRxeCq		#丑貞	
+𠜚	EeeCq		#戶經	
+仌	pi;Cq		#筆陵	
+䋲	zJi;Cq		#食陵	
+畱	liuvq		#力求	
+𪀖	tshiuvq		#七由	
+逌	Jiuvq		#以周	
+𨢫	dzJiuvq		#市流	
+㘜	dzJiuvq		#市流	
+収	sJiuvq		#式州	
+葘	khiuvq		#去鳩	
+䏫	Hiuvq		#許尤	
+髹	Hiuvq		#許尤	
+膄	Hiuvq		#許尤	
+𢅂	dRiuvq		#直由	
+𠾉	dRiuvq		#直由	
+𤲮	dRiuvq		#直由	
+𧯁	Eoovq		#戶鉤	
+䵉	doovq		#度侯	
+滮	bruvq		#皮彪	
+㑴	tshjimq		#七林	
+䋕	nJjimq		#如林	
+叅	tsho,mq		#倉含	
+𠵂	lo,mq		#盧含	
+𢲘	tho,mq		#他含	
+躭	to,mq		#丁含	
+汵	ko,mq		#古南	
+栢	koamq		#古三	
+叄	soamq		#蘇甘	
+奩	ljemq		#力鹽	
+螊	ljemq		#力鹽	
+𦧕	tsJjemq		#職廉	
+𩆷	sSaemq		#所咸	
+𣞘	HIamq		#虛嚴	
+㸝	HIamq		#虛嚴	
+壟	lioCA		#力踵	
+壟	lioCA		#力踵	
+𢹬	AioCA		#於隴	
+冗	nJioCA		#而隴	
+㲩	nJioCA		#而隴	
+𣯏	nJioCA		#而隴	
+勈	JioCA		#余隴	
+𡰒	dzJioCA		#時宂	
+𠬞	kioCA		#居悚	
+𥍨	kweA		#過委	
+𩪦	syeA		#息委	
+鈘	CxeA		#魚倚	
+𧣭	dRxeA		#池爾	
+蹝	sSxeA		#所綺	
+𤡪	zyeA		#隨婢	
+𧱞	JyeA		#羊捶	
+𧻜	gweA		#渠委	
+𣅀	tsJjiA		#職雉	
+𥬘	sJjiA		#式視	
+㕜	sSi;A		#疎士	
+𤲵	dRi;A		#直里	
+厞	bU;jA		#浮鬼	
+𢬜	lioA		#力舉	
+処	tshJioA		#昌與	
+簴	gioA		#其呂	
+汿	zioA		#徐呂	
+𠹪	phuoA		#芳武	
+砫	tsJuoA		#之庾	
+鼔	kooA		#公戶	
+䀇	kooA		#公戶	
+鳸	EooA		#侯古	
+泲	tseejA		#子禮	
+𥙄	neejA		#奴禮	
+𣅸	CeejA		#研啓	
+𡴋	moojA		#武罪	
+黾	mjinA		#武盡	
+栒	syinA		#思尹	
+蠕	nJyinA		#而允	
+𩨬	koonA		#古本	
+鮌	koonA		#古本	
+狠	Eo,nA		#胡墾	
+罕	HoanA		#呼旱	
+𣂾	tVanA		#都管	
+断	tVanA		#都管	
+𧹞	nRaanA		#奴板	
+𢩆	EaenA		#胡簡	
+𣐻	EaenA		#胡簡	
+𣧠	deenA		#徒典	
+㬎	HeenA		#呼典	
+妶	EYenA		#胡畎	
+蹍	nRxenA		#尼展	
+𠤦	nJyenA		#而兗	
+縳	dRwenA		#持兗	
+𦯄	maavA		#莫飽	
+𢾐	sSaavA		#山巧	
+皂	dzoavA		#昨早	
+𠈃	poavA		#博抱	
+䳈	poavA		#博抱	
+𪁣	poavA		#博抱	
+䳰	poavA		#博抱	
+槁	khoavA		#苦浩	
+𩉙	loaA		#來可	
+𩉌	loaA		#來可	
+婀	AoaA		#烏可	
+鏁	sVaA		#蘇果	
+𩎫	dVaA		#徒果	
+𠨳	CVaA		#五果	
+徦	kaaA		#古疋	
+享	HiaCA		#許兩	
+冈	muaCA		#文兩	
+䣊	toaCA		#多朗	
+晄	EVaCA		#胡廣	
+昺	praCA		#兵永	
+䭊	AraCA		#於丙	
+桺	liuvA		#力久	
+𦶆	nRiuvA		#女久	
+韮	kiuvA		#舉有	
+奺	kiuvA		#舉有	
+𠀚	piuvA	0	#方久	
+𩣅	giuvA		#其九	
+𩋰	dRiuvA		#除柳	
+𣸈	sSiuvA		#疎有	
+𠪀	EoovA		#胡口	
+𠪀	EoovA		#胡口	
+㟝	boovA		#蒲口	
+糺	kruvA		#居黝	
+醓	tho,mA		#他感	
+𢏵	dzo,mA		#徂感	
+□	moamA		#謨敢	
+澰	ljemA		#良冉	
+𧵏	sJjemA		#失冉	
+𡕫	meemA		#明忝	
+𡕩	mUamA		#亡范	
+𧩟	tshouCs		#千弄	
+蚛	dRiuCs		#直眾	
+㑋	khiuCs		#去仲	
+𩰓	EouCs		#胡貢	
+湗	pioCs		#方用	
+𨜕	EaoCs		#胡絳	
+𩰓	EaoCs		#胡絳	
+觗	tsJjes		#支義	
+𧣨	tsJjes		#支義	
+㾽	dRwes		#馳僞	
+𡑞	zyis		#徐醉	
+㴃	lyis		#力遂	
+秘	pxis		#兵媚	
+𦆕	pxis		#兵媚	
+𠀐	gwis		#求位	
+𩏡	gwis		#求位	
+𨽼	sjis		#息利	
+𥹹	mU;js		#無沸	
+䝿	kU;js		#居胃	
+𦞅	qU;js		#于貴	
+𢑷	qU;js		#于貴	
+剕	bU;js		#扶涕	
+䀟	bU;js		#扶涕	
+耝	tshios		#七慮	
+𩜈	Aios		#依倨	
+𣶝	tsios		#將預	
+𥛜	tsSios		#莊助	
+𣹤	nJios		#人恕	
+轝	Jios		#羊洳	
+䣱	Huos		#香句	
+𧐙	muos		#亡遇	
+㸦	Eoos		#胡誤	
+𧩯	soos		#桑故	
+𦃃	soos		#桑故	
+䊇	boos		#薄故	
+屜	theejs		#他計	
+継	keejs		#古詣	
+葪	keejs		#古詣	
+𥻳	leejs		#郎計	
+𥻊	leejs		#郎計	
+𨡐	tsJjerq		#征例	
+𧚞	Jjerq		#餘制	
+㖂	Jjerq		#餘制	
+㡂	ljerq		#力制	
+彑	kxerq		#居例	
+䐭	tRxerq		#竹例	
+盖	koarq		#古太	
+㮏	noarq		#奴帶	
+㝡	tsVarq		#祖外	
+𨞨	khoarq		#苦蓋	
+𧷓	maes		#莫懈	
+𦘕	Efes		#胡卦	
+沠	phaes		#匹卦	
+䐱	tRaes		#竹賣	
+□	kaejs		#古拜	
+𦰵	khfejs		#苦怪	
+䛡	Efarq		#下快	
+㻗	boojs		#蒲昧	
+蝐	moojs		#莫佩	
+㳷	Hoojs		#荒內	
+槶	koojs		#古對	
+𣫹	do,js		#徒耐	
+玳	do,js		#徒耐	
+㑷	tho,js		#他代	
+𢙴	Ao,js		#烏代	
+𣍃	Jjins		#羊晉	
+𠫤	ljins		#良刃	
+𤵜	thRxins		#丑刃	
+趂	thRxins		#丑刃	
+㼂	mU;ns		#亡運	
+飰	bUans		#符万	
+㛯	phUans		#芳万	
+㥵	Eoons		#胡困	
+𢁅	soons		#蘇困	
+坋	boons		#蒲悶	
+銲	Eoans		#侯旰	
+𣉙	koans		#古案	
+罕	Hoans		#呼旰	
+𡛝	tshoans		#蒼案	
+舘	kVans		#古玩	
+乱	lVans		#郎段	
+𣂾	tVans		#丁貫	
+断	tVans		#丁貫	
+磵	kaans		#古晏	
+𡼏	kaans		#古晏	
+𢢔	maans		#謨晏	
+孿	sSfans		#生患	
+䘺	dRaens		#丈莧	
+𪎘	seens		#蘇佃	
+𥍂	Aeens		#於甸	
+𣢁	teens		#都甸	
+𡇢	mjens		#彌箭	
+靣	mjens		#彌箭	
+龹	kwens		#居倦	
+灷	kwens		#居倦	
+劵	gwens		#渠卷	
+勌	gwens		#渠卷	
+孿	sSwens		#所眷	
+撽	kheevs		#苦弔	
+㝔	Aeevs		#烏叫	
+㝔	Aeevs		#烏叫	
+穾	Aeevs		#烏叫	
+𡄒	doavs		#徒到	
+𠰛	koavs		#古到	
+𦒷	moavs		#莫報	
+㲘	moavs		#莫報	
+曓	boavs		#薄報	
+㬥	boavs		#薄報	
+𡥆	Hoavs		#呼到	
+椸	kaas		#古訝	
+睱	Eaas		#胡駕	
+蟅	tsJias		#之夜	
+誯	tshJiaCs		#尺亮	
+酱	tsiaCs		#于亮	
+絖	khVaCs		#苦謗	
+㪅	kaaCs		#古孟	
+侫	neeCs		#乃定	
+絚	k,Cs		#古鄧	
+臰	tshJiuvs		#尺救	
+褏	ziuvs		#似祐	
+嗅	Hiuvs		#許救	
+𤿥	tsSiuvs		#側救	
+娒	moovs		#莫候	
+𡴝	tsoovs		#則候	
+㕻	thoovs		#他候	
+哣	thoovs		#他候	
+𦎯	koovs		#古候	
+勾	koovs	2	#古候	
+䋕	nJjims		#汝鴆	
+癊	Axims		#於禁	
+叅	tsho,ms	2	#七紺	
+澰	ljems		#力驗	
+𪛏	Aaems		#於陷	
+𥩠	tRaems		#陟陷	
+㸥	dzSaams		#士懺	
+唃	koukq		#古祿	
+樚	loukq		#盧谷	
+㺉	Houkq		#呼木	
+𦝫	Houkq		#呼木	
+𦝫	Houkq		#呼木	
+鍢	piukq		#方六	
+𡕨	biukq		#房六	
+拀	tshJiukq		#昌六	
+𡧢	nJiukq		#如六	
+衂	nJiukq		#如六	
+𠱙	tsJiukq		#之六	
+笁	tRiukq		#張六	
+閦	tshSiukq		#初六	
+㮋	Aiukq		#於六	
+㝛	siukq		#息逐	
+𡖊	siukq		#息逐	
+坶	miukq		#莫六	
+𣵽	Aookq		#烏酷	
+𣈉	tookq		#冬毒	
+斶	tshJiokq		#尺玉	
+筁	khiokq		#丘玉	
+𩁓	Caokq		#五角	
+礨	Caokq		#五角	
+𧣀	dzSaokq		#士角	
+𨖮	dzSaokq		#士角	
+𦙚	sSaokq		#所角	
+𨘷	maokq		#莫角	
+𧬉	baokq		#蒲角	
+𡉉	khaokq		#苦角	
+䖿	dzjitq		#秦悉	
+鞸	pjitq		#卑吉	
+㳼	pjitq		#卑吉	
+抋	pxitq		#鄙密	
+肹	Hxitq		#羲乙	
+𦆽	lyitq		#呂卹	
+𧈲	sSxitq		#所櫛	
+𩇣	sSxitq		#所櫛	
+𤒓	pU;tq		#分勿	
+岪	bU;tq		#符弗	
+𢧕	bUatq		#房越	
+蹷	kUatq		#居月	
+橛	kUatq		#居月	
+𩜌	AUatq		#於月	
+𧯡	AUatq		#於月	
+𪑲	AUatq		#於月	
+橛	gUatq		#其月	
+㷎	AIatq		#於歇	
+歾	mootq		#莫勃	
+𥩾	phootq		#普沒	
+𦜇	khootq		#苦骨	
+𦍐	thoatq		#他達	
+歹	Coatq		#五割	
+𩲺	tshSaetq		#初八	
+𥈎	Haatq		#許鎋	
+𠯑	Efatq	0	#下刮	
+𤬼	nRfatq		#女刮	
+㞕	seetq		#先結	
+𠋱	seetq		#先結	
+卪	tseetq		#子結	
+决	kYetq		#古穴	
+䥫	theetq		#他結	
+䁾	meetq		#莫結	
+𢏨	peetq		#方結	
+𨳲	peetq		#方結	
+撇	pheetq		#普蔑	
+𧢍	pheetq		#普蔑	
+𧝬	beetq		#蒲結	
+絏	sjetq		#私列	
+齥	sjetq		#私列	
+齥	sjetq		#私列	
+㓭	zJjetq		#食列	
+㪿	dzJjetq		#常列	
+鱉	pjetq		#并列	
+蟞	pjetq		#并列	
+𧢍	phjetq		#芳滅	
+拽	Jjetq		#羊列	
+𧐯	liakq		#離灼	
+𦅾	tsJiakq		#之若	
+𧆩	Ciakq		#魚約	
+𧍷	thRiakq		#丑略	
+籆	quakq		#王縛	
+𢖲	doakq		#徒落	
+㱳	moakq		#慕各	
+㱳	moakq		#慕各	
+𣔳	thoakq		#他各	
+㖾	Coakq		#五各	
+𪎄	boakq		#傍各	
+𧍷	Hoakq		#呵各	
+㗥	khVakq		#苦郭	
+栢	paakq		#博陌	
+𢧢	krakq		#几劇	
+㟯	Caakq		#五陌	
+𡍩	thRaakq		#丑格	
+㪾	kaakq		#古伯	
+麦	maekq		#莫獲	
+蘗	paekq		#博厄	
+𣚅	tRaekq		#陟革	
+㫺	sjekq		#思積	
+𦟝	tsjekq		#資昔	
+䳭	tsjekq		#資昔	
+𡖋	Jjekq		#羊益	
+蟅	tsJjekq		#之石	
+䰛	leekq		#郎擊	
+蝷	leekq		#郎擊	
+旳	teekq		#都歷	
+𤁷	teekq		#都歷	
+𪁌	Ceekq		#五歷	
+鷊	Ceekq		#五歷	
+㲻	neekq		#奴歷	
+幂	meekq		#莫狄	
+鸊	beekq		#扶歷	
+蘵	tsJi;kq		#之翼	
+𩾜	lji;kq		#林直	
+𢑏	Ai;kq		#於力	
+𠾂	sSi;kq		#所力	
+䳭	tsji;kq		#子力	
+𨺤	phi;kq		#芳逼	
+㝵	t,kq		#多則	
+𠅏	kh,kq		#苦得	
+娔	kh,kq		#苦得	
+嘿	m,kq		#莫北	
+𠜨	E,kq		#胡得	
+𡙕	tsJjipq		#之入	
+卄	nJjipq		#人執	
+㤂	kxipq		#居立	
+𨸚	kxipq		#居立	
+鴔	bxipq		#皮及	
+𠴲	do,pq		#徒合	
+硆	Co,pq		#五合	
+盇	Eoapq		#胡臘	
+䂝	toapq		#都搕	
+𧪟	doapq		#徒盍	
+䝓	ljepq		#良涉	
+鴔	gxepq		#其輒	
+𦗺	theepq		#他協	
+䛟	keepq		#古協	
+銸	neepq		#奴協	
+𡆴	nRaepq		#女洽	
+𪀌	Aaapq		#烏甲	
+𩿼	Aaapq		#烏甲	
+𪁗	Aaapq		#烏甲	
+𢄁	CIapq		#魚怯	
+刧	kIapq		#居怯	
+𣩫	JIapq		#余業	
