@@ -22,7 +22,7 @@ switches:
   - name: simplification
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
-    reset: 1
+    reset: 0
     states: [ 。，, ．， ]
 
 engine:
@@ -76,8 +76,9 @@ speller:
     - derive/^(tsh|ts|dz|s|zJ)i([aeiou;,])/$1j$2/
     - derive/^(tsh|ts|dz|s|zJ)u([aeiou;,])/$1y$2/
 #渻補
-    - derive/^([J])[ji]([aeiou;,])/$1$2/ #章J- 介前  聲母省介  #, tR->tRi?
+    - derive/^([Jz])[ji]([aeiou;,])/$1$2/ #章J- 介前  聲母省介  #, tR->tRi?
     - derive/^((tsh|ts|dz|s|z|n)J)[ji]([aeiou;,])/$1$3/
+    - abbrev/(q)[Uu]([aeiou;,])/$1$2/ #Q雲渻
 #
     - derive/^(tsh|ts|dz|s|z)[SR][xi]([aeiou;,])/$1x$2/ #知莊R- 介前 #介省聲 #tx->tRi 
     - derive/^(tsh|ts|dz|s|z)[SR][wu]([aeiou;,])/$1w$2/
@@ -143,8 +144,7 @@ speller:
 ##介作元
     # - derive/[Ii][;,]/i/  ##此乃有
     # - derive/(iu|[Uu][;,])/u/  #介元
-    - abbrev/([oVv])u/v/
-    - abbrev/([o])[;,]([jlirndztRmbfp])/w$2/
+
 ##?
     # - abbrev/(?<!^)[jx](a|e|i|o|u|;|,)/i$1/ #i=jx  #保畱?
     # - abbrev/(?<!^)[yw](a|e|i|o|u|;|,)/u$1/
@@ -173,7 +173,6 @@ speller:
     # - derive/(e)(a|e|i|u|;)/$1/ #e四等 
 
     - abbrev/(?<!^)[Ij]([aeiou;,])/$1/ #三 省#1.6 vio
-    - abbrev/(q)[Uu]([aeiou;,])/$1$2/ #Q雲渻
     - abbrev/([^RShv]|[^RS]h|^h)i([aeiou;,])/$1$2/ #i I j#未改
 
 ##聲母轉寫
@@ -223,7 +222,9 @@ speller:
 ####𥳑
 
 ##可選 
-
+##介作元
+    - abbrev/[oVv]u/w$1/
+    - abbrev/[o][;,]/v$1/  #w-<vs 
 ##介元序 尾後
     - abbrev/(?<!^)([oVveYlafUuyrWxw])([aeiou;,])([qAhsjlrvwymbfpndztRCcgxk])/$2$1$3/
 
@@ -406,7 +407,7 @@ menu:
 key_binder:
   import_preset: default
   bindings:
-    - {accept: semicolon, send_sequence: "{Home}{Right}{apostrophe}{Right}{apostrophe}{End}", when: has_menu}
+    - {accept: semicolon, send_sequence: "{Left}{apostrophe}{Right}", when: has_menu}
     - {accept: grave, send_sequence: "{Home}{grave}{End}", when: has_menu}
 ascii_composer:
     good_old_caps_lock: true

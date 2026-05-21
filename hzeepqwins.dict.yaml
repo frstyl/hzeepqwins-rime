@@ -430,7 +430,7 @@ import_tables:
 䴹	kQ_VujA
 粿	kQ_VujA
 𠿜	kQ_VujA
-裹	kQ_Vujs
+裹	kQ_Vujs	2
 稞	khQ_Vujq
 窠	khQ_Vujq
 課	khQ_Vujq	1
@@ -522,7 +522,7 @@ import_tables:
 ##Oa?Oo?
 䎠	nVaj_q		#?
 涴	AVaj_s		#宛
-過	kQ_Vaj_q
+過	kQ_Vaj_q		#?平去同
 㗻	kQ_Vaj_q
 𧒖	kQ_Vaj_q
 渦	kQ_Vaj_q
@@ -3597,20 +3597,20 @@ import_tables:
 傂	LRxeA
 䚦	LRxeA
 彲	RshRxeq		#麗#Rs
-釃	sSxeq
-欐	sSxeq
-襹	sSxeq
-𧕯	sSxeq
-籭	sSxeq
-躧	sSxeA
-𩎉	sSxeA
-纚	sSxeA
-釃	sSxeA
-矖	sSxeA
-灑	sSxeA		#灑埽又所買切
-灑	sSxes		#灑埽說文汛也
-襹	sSxes
-曬	sSxes		#暴也
+釃	RsRxeq
+欐	RsRxeq
+襹	RsRxeq
+𧕯	RsRxeq
+籭	RsRxeq
+躧	RsRxeA
+𩎉	RsRxeA
+纚	RsRxeA
+釃	RsRxeA
+矖	RsRxeA
+灑	RsRxeA		#灑埽又所買切
+灑	RsRxes		#灑埽說文汛也
+襹	RsRxes
+曬	RsRxes		#暴也
 ##xej?
 ##xəj
 螘	Cx;jA		#?
@@ -8372,9 +8372,9 @@ import_tables:
 殊	dJuoq
 㼡	dJuoq
 㸡	dJuoq
-裕	JLuoks		#谷
-䘱	JLuoks		#裕
-螸	JLuoq
+裕	Jquoks		#谷
+䘱	Jquoks		#同裕 ⿴衣谷
+螸	Jquoq
 㬰	Jquoq	99	#𠒍#与 䝿同形
 𦚤	Jquoq	99
 𥑷	Jquoq
@@ -14469,8 +14469,6 @@ import_tables:
 箴	kJj;mq
 𪈁	kJj;mq
 鱵	kJj;mq
-針	kJj;mq		#鍼#十?
-針	kJj;ms
 㸒	JLj;mq
 淫	JLj;mq
 𦁍	sj;mq
@@ -14550,6 +14548,8 @@ import_tables:
 伈	sj;mA
 孴	JLj;pq		#?孨
 ##
+針	kJjimq		#鍼#十? i-m?
+針	kJjims
 濅	tshj;mq		#?;?ə
 㑴	tshj;mq	999
 侵	tshj;mq
@@ -14688,7 +14688,7 @@ import_tables:
 綝	RshRx;mq		#Rs
 郴	RshRx;mq
 罧	RsRx;ms		#林R-eo-m
-森	sSx;mq
+森	RsRx;mq
 𢕬	tshSx;pq
 歰	sSx;pq
 澀	sSx;pq
@@ -14755,14 +14755,6 @@ import_tables:
 霠	Ax;mq
 𩃬	Ax;mq
 侌	Ax;mq	999
-陰	Ax;mq		#?
-蔭	Ax;ms
-廕	Ax;ms
-𤷜	Ax;ms
-#
-霠	Ax;mq
-𩃬	Ax;mq
-侌	Ax;mq	999
 陰	Ax;mq		#A-u-m
 蔭	Ax;ms
 廕	Ax;ms
@@ -14774,7 +14766,7 @@ import_tables:
 梣	dzSx;mq
 笒	dzSx;mq
 𩒣	dzSx;mA		#𩖄
-棽	thRx;mq		#貪?林?今?#丑林切
+棽	RshRx;mq		#貪?林?今?#丑林切
 棽	sq-Rx;mq		#所今切
 #
 # 㞥	zk-Rx;mq
@@ -14783,7 +14775,7 @@ import_tables:
 # 梣	zk-Rx;mq
 # 笒	zk-Rx;mq
 # 𩒣	zk-Rx;mA
-# 棽	thRx;mq		#貪?林?今?
+# 棽	RshRx;mq		#貪?林?今?
 # 棽	sk-Rx;mq
 #
 品	phx;mA
@@ -14967,50 +14959,42 @@ import_tables:
 岌	Ci;pq
 吸	Hi;pq
 #
-霠	Ai;mq
-𩃬	Ai;mq
-侌	Ai;mq	999
-陰	Ai;mq		#?
-蔭	Ai;ms
-廕	Ai;ms
-𤷜	Ai;ms
-#
-霠	Ai;mq
-𩃬	Ai;mq
-侌	Ai;mq	999
-陰	Ai;mq		#A-u-m
-蔭	Ai;ms
-廕	Ai;ms
-𤷜	Ai;ms
-#𦨽	gi;ms
-今	ki;mq
-黅	ki;mq
-衿	ki;mq
-衾	khi;mq
-𧘭	khi;mq
-坅	khi;mA
-黔	gi;mq
-芩	gi;mq
-𨙽	gi;mq
-庈	gi;mq
-雂	gi;mq
-㪁	gi;mq
-耹	gi;mq
-靲	gi;mq
-𦧈	gi;ms
-䶖	gi;ms
-𤘡	gi;ms
-紟	gi;ms
-笒	gi;ms
-訡	Ci;mq
-䪩	Ci;mq
-吟	Ci;mq
-荶	Ci;mq
-吟	Ci;ms
-酓	Ai;mA
-㱃	Ai;mA
-飲	Ai;mA
-飲	Ai;ms
+# 霠	Ai;mq
+# 𩃬	Ai;mq
+# 侌	Ai;mq	999
+# 陰	Ai;mq		#A-u-m
+# 蔭	Ai;ms
+# 廕	Ai;ms
+# 𤷜	Ai;ms
+# #𦨽	gi;ms
+# 今	ki;mq
+# 黅	ki;mq
+# 衿	ki;mq
+# 衾	khi;mq
+# 𧘭	khi;mq
+# 坅	khi;mA
+# 黔	gi;mq
+# 芩	gi;mq
+# 𨙽	gi;mq
+# 庈	gi;mq
+# 雂	gi;mq
+# 㪁	gi;mq
+# 耹	gi;mq
+# 靲	gi;mq
+# 𦧈	gi;ms
+# 䶖	gi;ms
+# 𤘡	gi;ms
+# 紟	gi;ms
+# 笒	gi;ms
+# 訡	Ci;mq
+# 䪩	Ci;mq
+# 吟	Ci;mq
+# 荶	Ci;mq
+# 吟	Ci;ms
+# 酓	Ai;mA
+# 㱃	Ai;mA
+# 飲	Ai;mA
+# 飲	Ai;ms
 金	ki;mq
 𠊍	ki;mq
 䘳	ki;mq
@@ -15800,11 +15784,11 @@ import_tables:
 䈀	soans
 𠱡	soatq
 𨷻	loanq
-炭	thoans
-㨏	thoanq
-湠	thoans
-𣁗	thoans
-㛶	thoans
+炭	Lshoans		#?ls?C
+㨏	Lshoanq
+湠	Lshoans
+𣁗	Lshoans
+㛶	Lshoans
 糲	loatq
 噧	thoatq		#Rs
 閼	Aoatq		
@@ -16999,7 +16983,7 @@ import_tables:
 奻	nRfonq
 𡠛	nRfonq		#奻
 #RjO→wo→fo
-㝈	sp-Rfons		#所眷切 生患切
+㝈	RsRfons		#所眷切 生患切# 䜌R-o-n
 刷	sSfotq		#數刮切 所劣切
 涮	sSfons
 㔍	tshSfotq
@@ -17414,7 +17398,7 @@ import_tables:
 拔	bF_Uotq		1
 #
 䑔	bF_Uotq		#巿p-o-t
-㪻	phF_Uons		#䜌r-o-n
+㪻	phF_Uons		#䜌R-o-n
 㪻	kUons
 卛	kUons		#㪻
 㤄	phF_Uotq
@@ -19886,8 +19870,8 @@ import_tables:
 㕞	sSwotq
 刷	sSwotq
 𠴪	sSwotq
-孿	sp-Rwons
-㝈	sp-Rwons		#生患切 所眷切 #䜌p-R-o-n#䜌A-R-o-n
+孿	RsRwons
+㝈	RsRwons		#生患切 所眷切 #䜌p-R-o-n#䜌A-R-o-n
 㔍	tshSwotq
 䵵	tsSwotq
 䉵	dzSwons
@@ -22543,14 +22527,6 @@ import_tables:
 𨛌	moaCq
 杗	moaCq
 朚	moaCq
-喪	soaCq		#SM
-𠸶	soaCq	2	#亡也蘇浪切又音桑二
-𠷔	soaCq
-𦅇	soaCq
-𩦌	soaCq
-喪	soaCs
-𠸶	soaCs	2	#𠸶‧亡也死𠸶也又姓楚大夫𠸶左又息浪切）
-𠷔	soaCs
 卬	CQ_oaCq
 䭹	CQ_oaCq
 枊	CQ_oaCq
@@ -22785,6 +22761,14 @@ import_tables:
 𣞙	sn-oaCA
 𣡆	sn-oaCA
 磉	sn-oaCA
+喪	soaCq		#sm?桑聲
+𠸶	soaCq	2	#亡也蘇浪切又音桑二
+𠷔	soaCq
+𦅇	soaCq
+𩦌	soaCq
+喪	soaCs
+𠸶	soaCs	2	#𠸶‧亡也死𠸶也又姓楚大夫𠸶左又息浪切）
+𠷔	soaCs
 當	toaCq
 鐺	toaCq
 簹	toaCq
@@ -27140,11 +27124,11 @@ import_tables:
 陟	tRi;kq
 𡮞	tRi;kq		#丁力切#?t-
 荲	RshRi;kq		#Rs
-敕	RshRi;kq		#Rs?
-勅	RshRi;kq
-鷘	RshRi;kq
-慗	RshRi;kq
-遫	RshRi;kq
+敕	LshRi;kq		#Rs?
+勅	LshRi;kq
+鷘	LshRi;kq
+慗	LshRi;kq
+遫	LshRi;kq
 飭	LshRi;kq		#Ls食
 栻	LshRi;kq		#Ls
 侙	LshRi;kq
@@ -28011,7 +27995,7 @@ import_tables:
 #Ro ro→ao?
 瀧	laoCq #南人名湍 亦州 在嶺南 呂江切
 䮾	laoCq		#充塞之皃
-瀧	sp-RaoCq		#龍?
+瀧	RsRaoCq		#龍?
 #
 艭	sSaoCq
 䉶	sSaoCq

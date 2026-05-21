@@ -2551,7 +2551,7 @@ import_tables:
 䒀	phuoq		#芳無	#䒀艇船也
 㩤	phuoq		#芳無	#張也
 姇	phuoq		#芳無	#姇悅
-荂	phuoq		#芳無	#華榮之皃又音吁
+荂	phuoq	0	#芳無	#華榮之皃又音吁
 紨	phuoq		#芳無	#布也又細紬也
 䓵	phuoq		#芳無	#䓵萮花皃
 㲗	phuoq		#芳無	#毛解
@@ -9750,7 +9750,7 @@ import_tables:
 腌	AIamq		#於嚴	#上同
 㪁	khIamq		#丘嚴	#㪁欹不齊丘嚴切又丘广切二
 厱	khIamq		#丘嚴	#山側空處也
-凡	bUamq		#符咸	#常也皆也輕也非一也又姓周公子凡伯之後姓苑云晉陵人符䒦切七
+凡	bUamq		#符咸	#常也皆也輕也非一也又姓周公子凡伯之後姓苑云晉陵人符[䒦/咸]切七
 帆	bUamq		#符咸	#船上幔也亦作颿又扶汎切
 𠆩	bUamq		#符咸	#輕也又孚劒切
 𦨲	bUamq		#符咸	#船舷
@@ -12809,7 +12809,7 @@ import_tables:
 䆃	doavA		#徒晧	#禾一莖六穗也出字林
 𨱵	doavA		#徒晧	#镺𨱵長皃又奴晧切
 堖	noavA		#奴晧	#頭堖奴晧切九
-腦	noavA		#奴晧	#上同或從□餘同
+腦	noavA		#奴晧	#上同或從𭗼餘同
 𠜶	noavA		#奴晧	#亦同出同禮
 惱	noavA		#奴晧	#懊惱
 碯	noavA		#奴晧	#碼碯寶石
@@ -14319,7 +14319,7 @@ import_tables:
 憺	doamA		#徒敢	#安緩又徒濫切
 惔	doamA		#徒敢	#上同
 黲	tshoamA		#倉敢	#日暗色倉敢切一
-㛧	moamA		#謨敢	#鄉名在河東徛氏縣亦作□謨敢切二
+㛧	moamA		#謨敢	#鄉名在河東徛氏縣亦作[{⿰女部}/{⿰女⿱山口}]謨敢切二
 𩛎	moamA		#謨敢	#吳人呼哺兒也
 䭕	tsoamA		#子敢	#澉䭕子敢切一
 槧	dzoamA		#才敢	#削版牘才敢切又七廉切七豔切四
@@ -15703,7 +15703,7 @@ import_tables:
 赴	phuos		#芳遇	#奔赴爾雅曰至也說文曰趨也芳遇切十一
 𠓗	phuos		#芳遇	#急疾也
 䞯	phuos		#芳遇	#上同
-䎷	phuos		#芳遇	#䎷𩕏也又音注
+䎷	phuos	0	#芳遇	#䎷𩕏也又音注
 豧	phuos		#芳遇	#豕聲
 簠	phuos		#芳遇	#簠簋又甫于方武二切
 訃	phuos		#芳遇	#告喪也又至也
@@ -16679,7 +16679,7 @@ import_tables:
 誡	kaejs		#古拜	#言警也古拜切二十三
 戒	kaejs		#古拜	#慎也具也備也警也易注云洗心曰齋防患曰戒
 界	kaejs		#古拜	#境也垂也
-介	kaejs		#古拜	#大也助也佑也甲也閱也耿介也說文作介畫也俗作□又姓介之推是
+介	kaejs		#古拜	#大也助也佑也甲也閱也耿介也說文作{⿱人忄}畫也俗作𭄞又姓介之推是
 屆	kaejs		#古拜	#至也舍也說文曰行不便也一曰極也
 疥	kaejs		#古拜	#瘡疥
 玠	kaejs		#古拜	#大珪長尺二寸
@@ -17389,7 +17389,7 @@ import_tables:
 㽹	phUans		#芳万	#吐㽹
 𨠒	phUans		#芳万	#一宿酒
 𡗹	phUans		#芳万	#上同
-𣀔	phUans		#芳万	#小舂
+𣀔	phUans	0	#芳万	#小舂
 㤆	phUans		#芳万	#急性
 婏	phUans		#芳万	#說文云兔子也婏疾也
 奿	phUans		#芳万	#說文云其義闕
@@ -17417,7 +17417,7 @@ import_tables:
 𩋢	HUans		#虛願	#俗
 健	gIans		#渠建	#伉也易曰天行健渠建切二
 腱	gIans		#渠建	#筋本也
-𣀔	tshSUans		#芳万	#小舂也亦作䊲叉万切一
+𣀔	tshSUans		#芳万	#小舂也亦作䊲[叉/芳]万切一
 遠	qUans		#于願	#離也于願切一
 𤬝	CIans		#語堰	#瓢也語堰切二
 鬳	CIans		#語堰	#鬲屬
@@ -18117,7 +18117,7 @@ import_tables:
 䠣	syens		#息絹	#上同
 繏	syens		#息絹	#索也
 渲	syens		#息絹	#小水
-䉵	dzSwens		#七戀	#說文曰具食也士戀切九
+䉵	dzSwens		#七戀	#說文曰具食也[七/士]戀切九
 饌	dzSwens		#七戀	#上同
 𦠆	dzSwens		#七戀	#上同見儀禮
 襈	dzSwens		#七戀	#緣也
@@ -18542,7 +18542,7 @@ import_tables:
 藃	Hoavs		#呼到	#藃縮也
 腝	noavs		#那到	#臂節那到切三
 𨱵	noavs		#那到	#長皃
-腦	noavs		#那到	#優皮也
+腦	noavs	2	#那到	#優皮也
 箇	koas		#古賀	#箇數又枚也凡也古賀切三
 个	koas		#古賀	#明堂四面偏室曰左个也
 個	koas		#古賀	#偏也
@@ -18577,7 +18577,7 @@ import_tables:
 㰤	Hoas		#呼箇	#㰤㰤大笑
 拖	thoas		#吐邏	#牽車吐邏切一
 過	kVas		#古臥	#誤也越也責也度也古臥切七
-裹	kVas		#古臥	#包也又音果
+裹	kVas	2	#古臥	#包也又音果
 鐹	kVas		#古臥	#鎌也亦作划
 划	kVas		#古臥	#上同
 𧒖	kVas		#古臥	#蟷蠰也即螗蜋
@@ -20494,7 +20494,7 @@ import_tables:
 碡	dookq		#徒沃	#碌碡田器
 篤	tookq		#冬毒	#厚也說文曰馬行頓遟冬毒切十一
 竺	tookq		#冬毒	#地名說文厚也
-督	tookq		#冬毒	#率也勸也正也說文察也一曰目痛也又姓風俗通云漢有五原太守督□俗作𣈉
+督	tookq		#冬毒	#率也勸也正也說文察也一曰目痛也又姓風俗通云漢有五原太守督{⿰𤣩賈}俗作𣈉
 𧝴	tookq		#冬毒	#衣背縫也
 𧛔	tookq		#冬毒		#
 𧞶	tookq		#冬毒	#並上同
@@ -22182,7 +22182,7 @@ import_tables:
 𪗾	Haatq		#許鎋	#齒堅聲
 𩮂	Haatq		#許鎋	#𩮂𩮁禿皃
 㔠	Haatq		#許鎋	#力作㔠㔠
-獺	thRaatq		#他鎋	#獸名他鎋切又他達切一
+獺	thaatq		#他鎋	#獸名他鎋切又{他/迍}達切一
 刮	kfatq		#古䫄	#刮削古䫄切五
 鴰	kfatq		#古䫄	#鶬鴰鳥毛逆九尾又音括
 劀	kfatq		#古䫄	#利也又古滑切
@@ -22748,7 +22748,7 @@ import_tables:
 娎	Hxetq		#許列	#喜皃許列切二
 焎	Hxetq		#許列	#火氣
 啜	dzJyetq		#姝雪	#說文曰甞也爾雅曰茹也禮曰啜菽飲水殊雪切一
-㔍	tshSwetq		#廁列	#割斷聲廁別切一
+㔍	tshSwetq		#廁列	#割斷聲廁[列/別]切一
 㿱	zyetq		#寺絕	#枯也寺絕切二
 𧋍	zyetq		#寺絕	#江𧋍似蝤蛑生海中
 掣	tshJjetq		#昌列	#挽也昌列切又昌制切二
@@ -25376,6 +25376,7 @@ import_tables:
 #爹	tRiaq		#陟邪切#北方人呼父徒可切九
 爹	tiaq		#正
 #地	djis		#徒四切#土地說文曰元气初分輕淸陽爲天重濁隂爲地萬物所陳𠛱也元命包曰地者易也言養萬物懷任交易變化含吐應節[故立字亦從水土者爲地/故其立字土力於一者爲地]又虜複姓有地連氏地倫氏徒四切二
+獺	thRaatq		#他鎋	#獸名他鎋切又他達切一
 ## 字林|[或又亦俗通文今古本省]作 
 𪂝	touCq		#德紅	
 𤸇	liuCq		#力中	
@@ -25631,7 +25632,8 @@ import_tables:
 糺	kruvA		#居黝	
 醓	tho,mA		#他感	
 𢏵	dzo,mA		#徂感	
-□	moamA		#謨敢	
+{⿰女部}	moamA		#謨敢	
+{⿰女⿱山口}	moamA		#謨敢	
 澰	ljemA		#良冉	
 𧵏	sJjemA		#失冉	
 𡕫	meemA		#明忝	
@@ -25690,7 +25692,8 @@ import_tables:
 𦘕	Efes		#胡卦	
 沠	phaes		#匹卦	
 䐱	tRaes		#竹賣	
-□	kaejs		#古拜	
+{⿱人忄}	kaejs		#古拜	
+𭄞	kaejs		#古拜	
 𦰵	khfejs		#苦怪	
 䛡	Efarq		#下快	
 㻗	boojs		#蒲昧	

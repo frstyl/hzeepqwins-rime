@@ -22,7 +22,7 @@ switches:
   - name: simplification
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
-    reset: 1
+    reset: 0
     states: [ 。，, ．， ]
 
 engine:

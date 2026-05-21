@@ -3142,21 +3142,22 @@ use_preset_vocabulary: true
 𢓴	thoojs
 𢓇	thoojs
 ###介
-斺	Eaerq
-蚧	kaerq
-魀	kaerq
-𡯗	kaerq
-𡯓	kaerq
-𠆷	kaerq
-𡯕	kaerq
-𡯔	kaerq
-𡯰	kaerq
+斺	Eaejs
+蚧	kaejs
+魀	kaejs
+𡯗	kaejs
+𡯓	kaejs
+𠆷	kaejs
+𡯕	kaejs
+𡯔	kaejs
+𡯰	kaejs
 #
-𫩀	kaerq		#古
-𣎴	kaerq
-𡗟	kaerq
+𠇎	kaejs
+𫩀	kaejs		#古
+𣎴	kaejs	0	
+𡗟	kaejs
 ##界
-堺	kaerq
+堺	kaejs
 ###回
 鮰	Eoojq
 蛔	Eoojq
@@ -3202,7 +3203,7 @@ use_preset_vocabulary: true
 竵	khfeq		#集韻 空媧切
 #𠇗	khfeq
 ###豙
-顡	thRferq
+
 ###褱眔
 𣀩	kferq
 𪊉	Afejq
@@ -4799,6 +4800,11 @@ use_preset_vocabulary: true
 瑙	noavA
 𣳦	nRaavq
 硇	nRaavq
+㐫	noavA
+𠟞	noavA
+𡵩	noavA
+𦭣	noavA
+𡿺	noavA
 𭗾	noavA
 𭗼	noavA
 㑎	noavA
@@ -4816,7 +4822,7 @@ use_preset_vocabulary: true
 𥒢	noavA
 𥓱	noavA
 𩣃	noavA
-𤝾	noavA		#1		#㺁
+𤝾	noavA	0		#㺁
 𧳀	noavA
 ###農
 𥗰	nRaavq		#硇
@@ -9051,6 +9057,11 @@ use_preset_vocabulary: true
 𥁫	tsSaenA
 戋	dzoanq
 㦮	dzjenq
+#錢
+𭠍	dzjenq
+𫢊	dzjenq
+𠀆	dzjenq
+匁	dzjenq
 ###㱚
 𦚛	dzoanq
 ###湌
@@ -13450,9 +13461,9 @@ use_preset_vocabulary: true
 𡡂	JiaCs
 ###夕
 ###席
-𠩌	ziakq
-𥔆	ziakq
-𥱊	ziakq
+𠩌	zjekq
+𥔆	zjekq
+𥱊	zjekq
 ###亦𡗕
 跡	tsjekq
 䟢	tsjekq

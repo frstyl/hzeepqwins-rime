@@ -166,7 +166,7 @@ speller:
     #- xform/^h(?![gqszQ])/H/
     
     # - derive/^([LR])(?![sz])/d/ #d[RJ]  ##以
-    - derive/^([LRn]sh)/th/
+    - derive/^([LRn]sh)/th/  #保留
     - derive/^(C)(?=[JR])/n/
     - derive/^h?[mnCLRqQ](s)J/$1J/ #[]s #Ls→hLs→LsJ,  L→LJ?→JL
     - derive/^[mnCLRqQ](z)J/$1J/ #[]s #Ls→hLs→LsJ,  L→LJ?→JL
@@ -419,9 +419,9 @@ speller:
 
 ##可選
 ##介作元
-    # - derive/[Ii][;,]/i/  ##此
-    # - derive/(iu|[Uu][;,])/u/  #介元
-    - abbrev/([Vvo])u(.)/v$2/ #v=vu #與首字母同級
+    - abbrev/[oVv]u/w$1/
+    - abbrev/[oe][;,]/v$1/  #w-<vs 
+    # - abbrev/([Vvo])u(.)/v$2/ #v=vu #與首字母同級
 ## 介元序 尾後
     # - fuzz/(?<!^)x([aeiou;,])/r$1/ #r=x
     # - fuzz/(?<!^)r([aeiou;,])/x$1/ #
@@ -451,12 +451,22 @@ speller:
     - derive/^(hq|A)/h/
     - derive/^(ng|C)/c/
     - derive/^J/j/
+
     - derive/^Jq/u/
 
-    - derive/^(sJ)/e/
+
+    - derive/^([sz])[ptkmnCLRQq]-J/e/ # 書二分
+    - derive/^[mnCqQ](s)J/e/
+    - derive/^[mnCqQ]sh[RJ]?/e/
+
+    - derive/^[LR]sJ/o/
+    # - derive/^(tsJh|tshJ|th[JR])/r/
+    - derive/^(Lsh[RJ]?)/o/  #Ls
+    - derive/^(RshR?)/o/  #Rs
+
+    # - derive/^(sJ)/e/
     - derive/^(zJ)/i/
 
-    - derive/^(Ls)/o/
 
     - derive/^dz/a/
 
@@ -512,7 +522,8 @@ translator:
     - xform/(^|')e(?!('|$))/$1ɕ$2/
     - xform/(^|')i(?!('|$))/$1ʑ$2/
     - xform/(^|')a(?!('|$))/$1d͡z$2/
-    - xform/(^|')o(?!('|$))/$1ɬ$2/
+    - xform/(^|')o(?!('|$))/$1l̥$2/
+    - xform/(^|')u(?!('|$))/$1ɬ$2/
 
     - xform/(^|')r(?!('|$))/$1tʰ$2/
     - xform/(^|')f(?!('|$))/$1pʰ$2/
@@ -670,7 +681,8 @@ menu:
 key_binder:
   import_preset: default
   bindings:
-    - {accept: semicolon, send_sequence: "{Home}{Right}{apostrophe}{Right}{apostrophe}{End}", when: has_menu}
+    # - {accept: semicolon, send_sequence: "{Home}{Right}{apostrophe}{Right}{apostrophe}{End}", when: has_menu}
+    - {accept: semicolon, send_sequence: "{Left}{apostrophe}{Right}", when: has_menu}
     - {accept: grave, send_sequence: "{Home}{grave}{End}", when: has_menu}
 ascii_composer:
     good_old_caps_lock: true

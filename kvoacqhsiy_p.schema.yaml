@@ -22,7 +22,7 @@ switches:
   - name: simplification
     states: [ 漢字, 汉字 ]
   - name: ascii_punct
-    reset: 1
+    reset: 0
     states: [ 。，, ．， ]
 
 engine:
@@ -76,8 +76,9 @@ speller:
     - derive/^(tsh|ts|dz|s|zJ)i([aeiou;,])/$1j$2/
     - derive/^(tsh|ts|dz|s|zJ)u([aeiou;,])/$1y$2/
 #渻補
-    - derive/^([J])[ji]([aeiou;,])/$1$2/ #章J- 介前  聲母省介  #, tR->tRi?
+    - derive/^([Jz])[ji]([aeiou;,])/$1$2/ #章J- 介前  聲母省介  #, tR->tRi?
     - derive/^((tsh|ts|dz|s|z|n)J)[ji]([aeiou;,])/$1$3/
+    - abbrev/(q)[Uu]([aeiou;,])/$1$2/ #Q雲渻
 #併聲母
     - derive/^(tsh|ts|dz|s|z)[SR][xi]([aeiou;,])/$1x$2/ #知莊R- 介前 #介省聲 #tx->tRi 
     - derive/^(tsh|ts|dz|s|z)[SR][wu]([aeiou;,])/$1w$2/
@@ -123,7 +124,7 @@ speller:
     - derive/([UyWwu])e([ntr][qAs])/$1o$2/
     - derive/([UyWwu])e([qAs])/$1oj$2/ #e=ej i=ij
 
-    - derive/([Vv])a([qAs])/$1uj$2/ #vaj=uj
+    - derive/([Vv])a([qAs])/$1uj$2/ #官冠vaj=uj
     - derive/([Vv])a([jntr][qAs])/$1u$2/
     - derive/([Uu])a([nt][qAs])/$1o$2/ #    元
 
@@ -144,8 +145,7 @@ speller:
     
     - derive/([iIj]u)/u/  #溷 yi ueo #溷用derive
     # - derive/([y]i)/u/
-    
-    - abbrev/([oVv])u/v/
+
 ##?
 
    #  - abbrev/(?<!^)[jx](a|e|i|o|u|;|,)/i$1/ #i=jx  #保畱
@@ -229,7 +229,9 @@ speller:
 ####𥳑
 
 ##可選 
-
+##介作元
+    - abbrev/([oVv])u/w/
+    - abbrev/([Vv])a/v/
 ##介元序 尾後
 
     - abbrev/(?<!^)([oVveYlafUuyrWxw])([aeiou;,])([qAhsjlrvwymbfpndztRCcgxk])/$2$1$3/
@@ -237,25 +239,18 @@ speller:
 
 ##聲𥳑
     - xform/^(ng)/c/
-    # - xform/^(q)/a/  #xj
-    
+
     - derive/^(hq|A)/q/  ##hq
     - xform/^(hs|H)/h/ 
 
-
-    - derive/^(dz)/x/
+    - derive/^(xj)/x/
 
     - derive/^(hz|E)/g/
 
-
     - derive/^ph/f/ #溷拼須爲derive
     - derive/^th/r/
-    - derive/^kh/y/  #x xj
+    - derive/^kh/w/
     - derive/^tsh/v/
-    - derive/^ts/w/
-
-    # - derive/^(sJ|sj)/e/
-    # - derive/^(zJ|zj)/i/
 
 
 ##𥳑 首字母
@@ -443,7 +438,7 @@ menu:
 key_binder:
   import_preset: default
   bindings:
-    - {accept: semicolon, send_sequence: "{Home}{Right}{apostrophe}{Right}{apostrophe}{End}", when: has_menu}
+    - {accept: semicolon, send_sequence: "{Left}{apostrophe}{Right}", when: has_menu}
     - {accept: grave, send_sequence: "{Home}{grave}{End}", when: has_menu}
 ascii_composer:
     good_old_caps_lock: true
