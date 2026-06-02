@@ -466,7 +466,7 @@ use_preset_vocabulary: true
 ####近
 ##
 ##
-您	nRxeA pV;js		#伱們
+# 您	nRxeA pV;js		#伱們
 您	ni;mA		#中原音韻
 佢	gioq
 𠍲	gioq
@@ -579,6 +579,8 @@ use_preset_vocabulary: true
 ###犛
 ###吿-告
 ###口
+喵	mxevq		#貓 苗
+𡅅	A;q		#借
 噸	toonq
 呸	phxiq		#phej
 啤	bjeq		#五音集韵
@@ -1315,6 +1317,7 @@ use_preset_vocabulary: true
 ###劦
 ####
 ###金
+𨥷	ljeCs kxim		#?
 鋰	li;A		#li lithium
 # 鈹	bxeq		#be beryllium
 鈉	no,pq
@@ -1394,7 +1397,7 @@ use_preset_vocabulary: true
 鈾	Jiuvq		#U 92 uranium
 錼	noarq		#Np 93 neptunium
 鎿	noaq
-鈈	pu;s		#Pu 94 plutonium
+鈈	piuvs		#Pu 94 plutonium
 鎇	mxiq		#Am 95 americium
 鋦	kiokq		#Cm 96 Curium
 錇	boojq		#Bk 97 berkelium

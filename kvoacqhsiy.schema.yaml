@@ -113,9 +113,8 @@ speller:
 
     - xform/([ir]u)v([qAs])/$1$2/ #  尤幽
 
-    - derive/([eVY]e)j([qAs])/$1$2/ # 齊
-    - derive/(o[;,])j([qAs])/$1$2/ # 咍  ##只餘-aej -iəj
-    # - derive/([Uu])uj([qAs])/$1$2/ # 微
+    # - derive/([eVY]e)j([qAs])/$1$2/ # 齊
+    # - derive/(o[;,])j([qAs])/$1$2/ # 咍  ##只餘-aej -iəj -ooj
 
 ##介韻 -j -n
 
@@ -198,6 +197,9 @@ speller:
     - xform/(?<!^)rq$/r/ #次入
 
     - xform/(?<!^)([Cmn])q$/$1/ #陽韻
+##
+    - abbrev/([aeiou;,])j([qAs])$/$1$2/
+    - abbrev/([aeiou;,])([qAs])$/$1j$2/
 ##𥳑尾
     - fuzz/(?<!^)(ng|C|c)A$/g/
     - fuzz/(?<!^)(ng|C|c)s$/x/
@@ -223,8 +225,8 @@ speller:
 
 ##可選 
 ##介作元
-    - abbrev/[oVv]u/w$1/
-    - abbrev/[o][;,]/v$1/  #w-<vs 
+    - abbrev/(?<![o])[oVv]u/w/
+    - abbrev/[o][;,]/v/  #w-<vs 
 ##介元序 尾後
     - abbrev/(?<!^)([oVveYlafUuyrWxw])([aeiou;,])([qAhsjlrvwymbfpndztRCcgxk])/$2$1$3/
 
@@ -421,5 +423,5 @@ recognizer:
     # punct: '^/([0-9]0?|[A-Za-z]+)$' #配合symbols.yaml中的特殊字符輸入
     punct: "^/[0-9a-zA-Z]*$" #配合symbols.yaml中的特殊字符輸入
 
-    pinyin_lookup: "^[a-z]+'$"
+    pinyin_lookup: "^`[a-z]*'?$"
     cangjie6_lookup: "^~[a-z]*'?$"

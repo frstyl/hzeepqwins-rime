@@ -5781,7 +5781,7 @@ use_preset_vocabulary: true
 #猇	dRxeq
 𩚉	dRxeq
 𦏸	dRxeq
-她	dRxeq
+# 她	dRxeq
 #𪗶	tsSxeq
 #齜	tsSxeq
 #差	tshSxeq
@@ -27318,7 +27318,7 @@ use_preset_vocabulary: true
 𥤺	nRfetq
 #茁	tsSfetq
 #𪘧	dzSfetq
-#選	sSfetq
+#選	sSfetq		#數滑切
 唰	sSfetq
 #劀	kfetq
 #鱊	kfetq
@@ -35112,7 +35112,7 @@ use_preset_vocabulary: true
 #左	tsoaA
 𡯛	tsoaA
 毑	tsoaA
-她	tsoaA
+# 她	tsoaA
 #姐	tsoaA
 #佐	tsoaA
 #䦈	tsoaA
@@ -37022,7 +37022,7 @@ use_preset_vocabulary: true
 #哆	tiaA
 #姐	tsiaA
 毑	tsiaA
-她	tsiaA
+# 她	tsiaA
 媎	tsiaA
 #抯	tsiaA
 #飷	tsiaA
@@ -48408,7 +48408,7 @@ use_preset_vocabulary: true
 #鈐	tshjimq
 𣆲	tshjimq
 #埐	tshjimq
-#鬵	dzjimq
+#鬵	dzjimq		#才淫切
 𢑋	dzjimq
 #𩷒	dzjimq
 #䰼	dzjimq
@@ -48435,7 +48435,7 @@ use_preset_vocabulary: true
 #𨊳	sjimq
 芯	sjimq
 #杺	sjimq
-#𢒫	zjimq
+#𢒫	zjimq		#徐心切
 #尋	zjimq
 #𦅀	zjimq
 #襑	zjimq
@@ -48983,7 +48983,7 @@ use_preset_vocabulary: true
 #鬖	tshSximq
 #參	tshSximq
 #朁	tshSximq
-#岑	dzSximq
+#岑	dzSximq		#鋤簪切
 #涔	dzSximq
 #梣	dzSximq
 #𣠟	dzSximq
@@ -51165,7 +51165,7 @@ use_preset_vocabulary: true
 #㡨	tshjemq
 鐱	tshjemq
 #譣	tshjemq
-#潛	dzjemq
+#潛	dzjemq		#慈鹽切
 #漸	dzjemq
 𨽨	dzjemq
 #灊	dzjemq

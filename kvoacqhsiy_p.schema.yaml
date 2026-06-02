@@ -103,19 +103,18 @@ speller:
     # - derive/^zJi([aeiou;,])/qj$1/
 ####
  
-    - derive/uo([qAs])/iov$1/ #o-v 虞愚
-    - derive/wo([qAs])/xov$1/ #
-    - derive/yo([qAs])/jov$1/ #
-    - derive/Wo([qAs])/rov$1/ #
-    - derive/uu([qAs])/rov$1/ #    孚幽
+    # - derive/uo([qAs])/iov$1/ #o-v 虞愚
+    # - derive/wo([qAs])/xov$1/ #
+    # - derive/yo([qAs])/jov$1/ #
+    # - derive/Wo([qAs])/rov$1/ #
+    # - derive/uu([qAs])/rov$1/ #    孚幽
 
-    - derive/oov([qAs])/ou$1/ #    侯
+    - xform/oov([qAs])/ou$1/ #    侯
 
     - xform/([ir]u)v([qAs])/$1$2/ #  尤幽
 
-    - derive/([eVY]e)j([qAs])/$1$2/ # 齊
-    - derive/(o[;,])j([qAs])/$1$2/ # 咍  ##只餘-aej -iəj
-    # - derive/([Uu])uj([qAs])/$1$2/ # 微
+    # - derive/([eVY]e)j([qAs])/$1$2/ # 齊
+    # - derive/(o[;,])j([qAs])/$1$2/ # 咍  ##只餘-aej -iəj -ooj
 
 ##聲-介韻 -j -n
 
@@ -140,11 +139,11 @@ speller:
 
 ####介  主體
 ##介作元 灮
-    - derive/[Iji][;,]/i/  ##單元音 i u
-    - derive/([Uyu][;,])/u/  #
+    - xform/[Iji][;,]/i/  ##單元音 i u
+    - xform/([Uyu][;,])/u/  #
     
     - derive/([iIj]u)/u/  #溷 yi ueo #溷用derive
-    # - derive/([y]i)/u/
+    - derive/([oVv])u/w/
 
 ##?
 
@@ -206,21 +205,24 @@ speller:
     - xform/(?<!^)rq$/r/ #次入
 
     - xform/(?<!^)([Cmn])q$/$1/ #陽韻
+##
+    - abbrev/([aeiou;,])j([qAs])$/$1$2/
+    - abbrev/([aeiou;,])([qAs])$/$1j$2/
 ##𥳑尾
-    - fuzz/(?<!^)(ng|C|c)A$/g/
-    - fuzz/(?<!^)(ng|C|c)s$/x/
-    - fuzz/(?<!^)mA$/b/
-    - fuzz/(?<!^)ms$/f/
-    - fuzz/(?<!^)nA$/d/
-    - fuzz/(?<!^)ns$/z/
+    - derive/(?<!^)(ng|C|c)A$/g/  #溷 derive
+    - derive/(?<!^)(ng|C|c)s$/x/
+    - derive/(?<!^)mA$/b/
+    - derive/(?<!^)ms$/f/
+    - derive/(?<!^)nA$/d/
+    - derive/(?<!^)ns$/z/
 
     
     - xform/(?<!^)jq$/$1j/
-    - fuzz/(?<!^)jA$/$1l/
-    - fuzz/(?<!^)js$/$1i/
+    - derive/(?<!^)jA$/$1l/
+    - derive/(?<!^)js$/$1i/
     - xform/(?<!^)vq$/$1v/
-    - fuzz/(?<!^)vA$/$1w/
-    - fuzz/(?<!^)vs$/$1u/
+    - derive/(?<!^)vA$/$1w/
+    - derive/(?<!^)vs$/$1u/
 ##尾轉寫
     - xform/([aeiou;,])[q]$/$1/ #无韻尾
     - xform/(?<!^)Cq?$/c/
@@ -230,7 +232,6 @@ speller:
 
 ##可選 
 ##介作元
-    - abbrev/([oVv])u/w/
     - abbrev/([Vv])a/v/
 ##介元序 尾後
 
@@ -243,13 +244,15 @@ speller:
     - derive/^(hq|A)/q/  ##hq
     - xform/^(hs|H)/h/ 
 
-    - derive/^(xj)/x/
+    - derive/^(xj)/j/
+
+    - derive/^(ts)/w/
 
     - derive/^(hz|E)/g/
 
     - derive/^ph/f/ #溷拼須爲derive
     - derive/^th/r/
-    - derive/^kh/w/
+    - derive/^kh/x/
     - derive/^tsh/v/
 
 
