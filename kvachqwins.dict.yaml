@@ -6293,7 +6293,7 @@ import_tables:
 䈱	thoavq		#土刀	#牛𥴧
 𠚡	thoavq		#土刀	#古器
 詜	thoavq		#土刀	#詜䛬言不節
-挑	thoavq		#土刀	#挑達往來相見皃詩曰挑兮達兮又條了切
+挑	thoavq	2	#土刀	#挑達往來相見皃詩曰挑兮達兮又條了切
 刀	toavq		#都牢	#釋名曰刀到也以斬伐到其所也說文云兵也都牢切七
 魛	toavq		#都牢	#魚名
 忉	toavq		#都牢	#憂心皃
@@ -7760,7 +7760,7 @@ import_tables:
 𧮯	EfeCq		#戶萌	#谷中響一曰谷名也
 耾	EfeCq		#戶萌	#耳語
 翃	EfeCq		#戶萌	#蟲飛
-浤	EfeCq		#戶萌	#浤浤汨汨水波之勢
+浤	EfeCq		#戶萌	#浤浤汩汩水波之勢
 竑	EfeCq		#戶萌	#量度周禮考工曰故竑其輻
 宖	EfeCq		#戶萌	#屋響又烏宏切
 鈜	EfeCq		#戶萌	#金聲
@@ -18141,8 +18141,8 @@ import_tables:
 輾	nRxens		#女箭	#水輾女箭切二
 碾	nRxens		#女箭	#上同
 囀	tRwens		#知戀	#韻也又鳥吟知戀切三
-傳	tRwens		#知戀	#郵馬釋名曰傳傳也人所止息去後人復來轉轉相傳無常人也又直專直戀二切
-轉	tRwens		#知戀	#流轉又張兗切
+傳	tRwens	2	#知戀	#郵馬釋名曰傳傳也人所止息去後人復來轉轉相傳無常人也又直專直戀二切
+轉	tRwens	2	#知戀	#流轉又張兗切
 衍	Jjens		#于線	#水也溢也豐也予線切又以淺切八
 莚	Jjens		#于線	#蔓莚不斷
 羨	Jjens		#于線	#延也進也
@@ -19326,9 +19326,9 @@ import_tables:
 噣	tRiuvs		#陟救	#上同
 狩	sJiuvs		#舒救	#冬獵舒救切五
 獸	sJiuvs		#舒救	#說文曰守備者周禮曰獸人掌罟田獸辨其物名字林曰兩足曰禽四足曰獸
-守	sJiuvs		#舒救	#太守
-首	sJiuvs		#舒救	#自首前罪
-收	sJiuvs		#舒救	#穫多
+守	sJiuvs	2	#舒救	#太守
+首	sJiuvs	2	#舒救	#自首前罪
+收	sJiuvs	2	#舒救	#穫多
 臭	tshJiuvs		#尺救	#凡氣之摠名俗作臰尺救切二
 殠	tshJiuvs		#尺救	#腐臭
 岫	ziuvs		#似祐	#山有穴曰岫似祐切四
@@ -21300,7 +21300,7 @@ import_tables:
 𥄵	Hyitq		#許聿	#深目皃
 櫛	tsSxitq		#阻瑟	#梳也阻瑟切六
 楖	tsSxitq		#阻瑟	#上同見周禮
-瀄	tsSxitq		#阻瑟	#瀄汨水聲
+瀄	tsSxitq		#阻瑟	#瀄汩水聲
 㘉	tsSxitq		#阻瑟	#咇㘉
 𥠈	tsSxitq		#阻瑟	#䄶𥠈禾重生䄶音弼
 擳	tsSxitq		#阻瑟	#挃擳
@@ -21566,7 +21566,7 @@ import_tables:
 䮩	kootq		#古忽	#䮩𩢎獸出北海
 啒	kootq		#古忽	#憂也
 淈	kootq		#古忽	#說文濁也一曰滒泥又水出皃
-汨	kootq		#古忽	#汨沒
+汩	kootq		#古忽	#汩沒
 愲	kootq		#古忽	#心亂
 蓇	kootq		#古忽	#不實草
 尳	kootq		#古忽	#膝病
@@ -21726,7 +21726,7 @@ import_tables:
 尳	Eootq		#戶骨	#膝病
 㨡	Eootq		#戶骨	#手推也
 𡰅	Eootq		#戶骨	#𡰅露出見字林
-滑	Eootq		#戶骨	#滑亂也出列子
+滑	Eootq	2	#戶骨	#滑亂也出列子
 卒	tsootq		#臧沒	#說文隷人給事者衣爲卒卒衣有題識者臧沒切又將聿切三
 倅	tsootq		#臧沒	#百人爲倅周禮作卒
 稡	tsootq		#臧沒	#䄶稡
@@ -21769,7 +21769,7 @@ import_tables:
 𣥂	thoatq		#他達	#文字音義云蹈也從反止
 羍	thoatq		#他達	#小羊也亦作𦍐
 𦍒	thoatq		#他達	#上同
-達	thoatq		#他達	#挑達往來皃又唐割切
+達	thoatq	2	#他達	#挑達往來皃又唐割切
 汏	thoatq		#他達	#汏過
 噧	thoatq		#他達	#多言也
 遏	Aoatq		#烏葛	#遮也絕也止也烏葛切十一
@@ -23956,14 +23956,14 @@ import_tables:
 䚐	dzeekq		#前歷	#目赤又音逖
 覓	meekq		#莫狄	#求也莫狄切二十三
 覛	meekq		#莫狄	#上同說文曰衺視也
-幎	meekq		#莫狄	#覆也亦作幂
+幎	meekq		#莫狄	#覆也亦作冪
 幦	meekq		#莫狄	#車覆軨也
 𧜀	meekq		#莫狄	#上同
 䮭	meekq		#莫狄	#馬多惡也
 糸	meekq		#莫狄	#細絲也微也連也
 鼏	meekq		#莫狄	#鼎蓋
 羃	meekq		#莫狄	#覆食巾又羃䍦婦人所戴
-汨	meekq		#莫狄	#汨𤄷水名在豫章屈原所沈之處
+汨	meekq		#莫狄	#汩𤄷水名在豫章屈原所沈之處
 㵋	meekq		#莫狄		#
 漞	meekq		#莫狄	#並上同
 冂	meekq		#莫狄	#文字音義云以巾覆從一下垂
@@ -25882,7 +25882,7 @@ import_tables:
 𪁌	Ceekq		#五歷	
 鷊	Ceekq		#五歷	
 㲻	neekq		#奴歷	
-幂	meekq		#莫狄	
+冪	meekq		#莫狄	
 鸊	beekq		#扶歷	
 蘵	tsJi;kq		#之翼	
 𩾜	lji;kq		#林直	

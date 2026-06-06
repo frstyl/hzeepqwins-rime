@@ -117,8 +117,42 @@ speller:
     - derive/vx/w/ #風
 
 ####聲
-##輔音叢 複 
     - derive/^.-//
+####
+##聲-介-上 聲母渻介
+    #- derive/^(hms|ph|p|b|m|Q)[V]/$1/ #V
+    - derive/^(ph|p|b|m)U([aeiou;,])/$1I$2/ #雲母 Q q --Q q 同鍵,不渻
+    - derive/^(ph|p|b|m)u([aeiou;,])/$1i$2/
+    - derive/^(ph|p|b|m)y([aeiou;,])/$1j$2/
+
+    # - derive/^(ph|p|b|m)[uUy]([aeiou;,])/$1$2/  ## 同惺i
+    - derive/^(ph|p|b|m)[V]([aou;,])/$1o$2/
+    - derive/^(ph|p|b|m)[Y]([ei;,])/$1e$2/ #无用
+    #- derive/^(ph|p|b|m)v([Ijrxioa][aeiou;,])/$1$2/
+
+    # - derive/(hms|ph|p|b|m)v[;,]/$1ea/    #特加
+
+    # - abbrev/([Qq])[Uu]([aeiou;,])/$1$2/ #Q雲渻
+
+        # - derive/^(tsSh(|t?s|d?z)S|([tdn]|th)R)i([aeiou;,])/$1x$4/
+    # - derive/^(tsSh(|t?s|d?z)S|([tdn]|th)R)u([aeiou;,])/$1w$4/
+##
+    - derive/([SR])i([aeiou;,])/$1x$2/ #知莊R- 介前
+    - derive/([SR])u([aeiou;,])/$1w$2/
+    - derive/(J)i([aeiou;,])/$1j$2/ #章J- k t
+    - derive/(J)u([aeiou;,])/$1y$2/
+    - derive/^(tsh?|dz|s|z)i([aeiou;,])/$1j$2/ #精
+    - derive/^(tsh?|dz|s|z)u([aeiou;,])/$1y$2/
+
+ 
+    # - derive/^(j)[ij]([aeiou;,])/$1$2/ #㠯母 三等
+    # - fuzz/^(q)U([aeiou;,])/$1I$2/ #雲母 Q q
+    # - fuzz/^(q)u([aeiou;,])/$1i$2/ #雲母 Q q
+    # - fuzz/^(q)y([aeiou;,])/$1j$2/ #雲母 Q q
+    # - fuzz/^([sz]c)[ij]([aeiou;,])/$1$2/ #書船
+    # - fuzz/^z[ij]([aeiou;,])/zz$1/ #邪
+
+##輔音叢 複 
 
 ##-L-
     - derive/^k(h?)L(?!-)/t$1/ #kL t #kL tsc#CL缺#合甚叕出 穿川舛車樞杵處楢醜臭饎出赤 --hL?
@@ -140,20 +174,7 @@ speller:
     - derive/-//
     # - derive/.-// #(.+) #L-, s[ptk]-, ij-,  #分
 
-##聲-介-上 聲母渻介
-    #- derive/^(hms|ph|p|b|m|Q)[V]/$1/ #V
-    - derive/^(ph|p|b|m)U([aeiou;,])/$1I$2/ #雲母 Q q --Q q 同鍵,不渻
-    - derive/^(ph|p|b|m)u([aeiou;,])/$1i$2/
-    - derive/^(ph|p|b|m)y([aeiou;,])/$1j$2/
 
-    # - derive/^(ph|p|b|m)[uUy]([aeiou;,])/$1$2/  ## 同惺i
-    - derive/^(ph|p|b|m)[V]([aou;,])/$1o$2/
-    - derive/^(ph|p|b|m)[Y]([ei;,])/$1e$2/ #无用
-    #- derive/^(ph|p|b|m)v([Ijrxioa][aeiou;,])/$1$2/
-
-    # - derive/(hms|ph|p|b|m)v[;,]/$1ea/    #特加
-
-    # - abbrev/([Qq])[Uu]([aeiou;,])/$1$2/ #Q雲渻
 ##聲 清
     - derive/^(h[mnCLRqQ]s|hsq|ngs|[hX]s|X)/hs/ #曉
     # - xform/^h([oVeYafiujyxwrWvəʌ])/H$1/
@@ -171,25 +192,9 @@ speller:
     - derive/^(JQ|Q)/Q/  #雲
     - derive/^(JL|J)/J/ #以
 ####聲-介
-    # - derive/^(tsSh(|t?s|d?z)S|([tdn]|th)R)i([aeiou;,])/$1x$4/
-    # - derive/^(tsSh(|t?s|d?z)S|([tdn]|th)R)u([aeiou;,])/$1w$4/
-    - derive/([SR]h?)i([aeiou;,])/$1x$2/ #知莊R- 介前
-    - derive/([SR]h?)u([aeiou;,])/$1w$2/
-    - derive/([cJ]h?)i([aeiou;,])/$1j$2/ #章J- 介前
-    - derive/([cJ]h?)u([aeiou;,])/$1y$2/
-    - derive/([sz]h?)i([aeiou;,])/$1j$2/
-    - derive/([sz]h?)u([aeiou;,])/$1y$2/
-    - derive/^([Jl])i([aeiou;,])/$1j$2/
+
+    - derive/^([Jl])i([aeiou;,])/$1j$2/ #以來
     - derive/^([Jl])u([aeiou;,])/$1y$2/
-
-
-    # - derive/^(j)[ij]([aeiou;,])/$1$2/ #㠯母 三等
-    # - fuzz/^(q)U([aeiou;,])/$1I$2/ #雲母 Q q
-    # - fuzz/^(q)u([aeiou;,])/$1i$2/ #雲母 Q q
-    # - fuzz/^(q)y([aeiou;,])/$1j$2/ #雲母 Q q
-    # - fuzz/^([sz]c)[ij]([aeiou;,])/$1$2/ #書船
-    # - fuzz/^z[ij]([aeiou;,])/zz$1/ #邪
-
 
 ####韻-介尾
 
@@ -216,9 +221,10 @@ speller:
 #     #- fuzz/(x)([;,])([Cgxk])/wu$3/
 #     - fuzz/V[;,]([^qAs])/Vo$1/
 #     - fuzz/f[;,]([^qAs])/fo$1/
-##介元
+##分溷 ə
     - fuzz/(?<!^)(ea)/ee/ 
     - fuzz/(?<!^)([eo])([;,])/ea/ #eeo ooe
+    - fuzz/(?<!^)(,)/a/ 
 
 ##聲-介韻 -j -n
     #- derive/^(kh?|g|C|h|q|A)/K/    
@@ -249,18 +255,25 @@ speller:
     - derive/r([aeiou;,])/x$1/ #r=x
     #- derive/v[jrxi]([aeiou;,]|ə|ʌ)/u$1/ #uə
     - fuzz/a([aeiou;,])/l$1/ #l=a
-##
+##渻
     # - derive/o(a|o|;|,)/$1/ #一等无介音
     # - derive/e(;)/$1/ #ee等 ea
     # - derive/(e)(a|e|i|u|;)/$1/ #ee等 
 
     - abbrev/(?<!^)[Ij]([aeiou;,])/$1/ #三 省#1.6 vio
-    - abbrev/([Qq])[Uu]([aeiou;,])/$1$2/ #Q雲渻
-    - abbrev/([^RShv]|[^RS]h|^h)i([aeiou;,])/$1$2/ #i I j#未改
+    - abbrev/([^RSs])i([aeiou;,])/$1$2/ #
+    - abbrev/^(tsh?|dz|s|z)i([aeiou;,])/$1$2/ #精
 ##?
     - fuzz/(?<!^)[Ijrx](a|e|i|o|u|;|,)/i$1/ #i=jx
     - fuzz/(?<!^)[UyWw](a|e|i|o|u|;|,)/u$1/
-####聲-介
+####聲-介 渻
+    # - derive/([SR])i([aeiou;,])/$1$2/ #知莊R- 介前
+    # - derive/([Jz])i([aeiou;,])/$1$2/ #章J- k t
+    # - abbrev/^(tsh?|dz|s|z)i([aeiou;,])/$1$2/ #精
+    # - abbrev/^([Jl])i([aeiou;,])/$1$2/ #
+
+    - abbrev/([Qq])[Uu]([aeiou;,])/$1$2/ #Q雲渻
+
     #- fuzz/^(l)a([aeiou;,])/$1o$2/ #來
     - fuzz/(Sh?)a([aeiou;,])/$1r$2/ #莊R 聲前介後
     - fuzz/(Sh?)f([aeiou;,])/$1W$2/ #莊
@@ -284,7 +297,7 @@ speller:
     - derive/^(kh|k|g|C)[JR]/$1/  #與渻略ij同時用
     - derive/^(th|t|d|n)[JR]/$1/
 
-    - derive/^(t?s|d?z)S/$1/ #不含tsz sz
+    - derive/^(t?s|d?z)S/$1/ #不含tsz sz 分含s[]R
     - derive/^(tshS|tsSh)/tsh/
     - derive/^(hg|hz|E)/g/
 
@@ -333,19 +346,18 @@ speller:
     - derive/^(E)/hz/ #匣母
     - derive/^(H)/hs/ #曉母
     #- derive/^(C)/ng/ #疑母
-#    #- derive/^(th?|d|n)R/$1rr/ #知
-#    - derive/^(th?|n)R/$1z/ #知
-#    - derive/^(d)R/$1s/ #澄
-#    - derive/^(ts|dz|n|s|z)J/$1z/ #章
-#    - derive/^(ts)J(h)/$1$2z/ #常
-#    - derive/^(t?s|d?z)S/$1s/ #生母
-#    - derive/^(ts)S(h)/$1$2s/ #初
 
-    # - derive/^([sz])J/$1z/ #書船
+    # - xform/^tR/tt/ #知 不需
+    # - xform/^dR/dd/ #
+    # - xform/^nR/nn/ #
+    # - xform/^(thR)/tth/
+
+#    - derive/^(tsh?|dz|n|s|z)J/$1z/ #章
+#    - derive/^(tsh?|dz|n|s|z)S/$1s/ #裝
+
     - derive/(.+)L(?![sz])/$1ll/ #
     #- derive/V(?=[Ijxrioa][aeiou;,])/vv/ 
 
-    
     # - derive/^([RLQ][s])/\L$1/ #R L Q雲
     #- derive/^([RLQ])(?![sz])/$1$1/
 
@@ -442,7 +454,7 @@ speller:
 
     - derive/^([sz])s/$1/  #([sz])[ptkmnCLRQq]-R, [ptkmnCLRQq]([sz])R #s-?
 
-    # - derive/^sJ/e/ # 書二分 st #枮 䌳
+    - derive/^sJ/e/ # 書二分 st #枮 䌳
     - derive/^s[ptkq]-[JR]/e/
 
     - derive/^[mnCQ]s[JR]/e/  #sm? LR獨立

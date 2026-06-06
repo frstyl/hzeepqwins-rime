@@ -4911,9 +4911,9 @@ use_preset_vocabulary: true
 瞇	mjeA
 𡓭	mjeA
 #柅	njeA		#乃倚切
-伲	njeA
+伲	njeA		#乃倚切	#汝也或作儞你
 儞	njeA
-你	njeA		#人尓 同碼IVD#伱
+你	njeA		#IVD 人尓 人尔
 #檷	njeA
 #鑈	njeA
 䘦	njeA
@@ -15021,7 +15021,7 @@ use_preset_vocabulary: true
 #鷄	keejq
 #騱	keejq
 #𥝌	keejq
-𥡞	keejq
+𥡞	keejq		#堅奚切	#說文留止也古作𩠜#稽
 𩠜	keejq
 #卟	keejq
 #乩	keejq
@@ -15356,7 +15356,7 @@ use_preset_vocabulary: true
 #㒅	kheejA
 #袳	kheejA
 #卟	kheejA
-#䭬	kheejA
+#䭬	kheejA		#遣禮切#說文下首也或作稽
 #稽	kheejA
 #䏿	kheejA
 #棨	kheejA
@@ -24378,7 +24378,7 @@ use_preset_vocabulary: true
 𦺐	dzoanq
 #淺	dzoanq
 #戕	dzoanq
-#𦚻	soanq
+#𦙱	soanq
 𦠐	soanq
 #跚	soanq
 #散	soanq
@@ -25225,7 +25225,7 @@ use_preset_vocabulary: true
 跘	bVanq
 #胖	bVanq
 #媻	bVanq
-#𪒀	bVanq
+#𪒀	bVanq		#蒲官切 #𪒀𪑃下色
 #瘢	bVanq
 #幋	bVanq
 #鞶	bVanq
@@ -26400,13 +26400,13 @@ use_preset_vocabulary: true
 #孌	maanq
 #㒼	maanq
 #刪	sSaanq
-㹪	sSaanq
-𣧺	sSaanq
+㹪	sSaanq		#㹪狦 
+𣧱	sSaanq
 #潸	sSaanq
 #䈀	sSaanq
-姗	sSaanq
+姍	sSaanq
 𨝵	sSaanq
-𢘼	sSaanq
+𢘁	sSaanq
 #姦	kaanq
 姧	kaanq
 𢙶	kaanq
@@ -26503,7 +26503,7 @@ use_preset_vocabulary: true
 #䊲	tshSaans
 #䴼	tshSaans
 #㦃	tshSaans
-#冊	tshSaans
+#册	tshSaans		#初諫切	#編竹木補籬謂之冊
 #𠟉	tshSaans
 #棧	dzSaans
 #㮍	dzSaans
@@ -26523,9 +26523,9 @@ use_preset_vocabulary: true
 #𦌔	sSaans
 #䴮	sSaans
 #疝	sSaans
-#狦	sSaans
+#㹪	sSaans		#所晏切	#說文惡健犬也	#㹪狦
 𤀤	sSaans
-#柵	sSaans
+#柵	sSaans		#所晏切	#編竹木為落也或从竹从門或省
 #𥬰	sSaans
 𨴕	sSaans
 #冊	sSaans
@@ -41742,13 +41742,13 @@ use_preset_vocabulary: true
 𩄾	tsSaekq
 #樍	tsSaekq
 𥎍	tsSaekq
-#策	tshSaekq
+#策	tshSaekq		#測革切	#說文馬棰也一曰謀也一曰蓍也一曰小箕曰策或作筴莿
 #筴	tshSaekq
 #莿	tshSaekq
-册	tshSaekq
+#册	tshSaekq		#測革切	#說文符命也諸侯進受於王象其札一長一短中有二編之形或作𠕋古作笧通作策筴#册冊
 #𠕋	tshSaekq
 #笧	tshSaekq
-#𣆩	tshSaekq
+#𣆑	tshSaekq		#測革切#說文告也#𣆑𣆩
 #敕	tshSaekq
 #赦	tshSaekq
 #憡	tshSaekq
@@ -41759,17 +41759,17 @@ use_preset_vocabulary: true
 𡢲	tshSaekq
 茦	tshSaekq
 #𧶷	tshSaekq
-銏	tshSaekq
+銏	tshSaekq		#測革切#鐵器#𮡱
 #䶦	tshSaekq
 #齰	tshSaekq
 #幘	tshSaekq
-#柵	tshSaekq
+#柵	tshSaekq		#測革切#說文編樹木也#栅
 𥰡	tshSaekq
 #𢷾	tshSaekq
 #矠	tshSaekq
 #簎	tshSaekq
 𦵪	tshSaekq
-粣	tshSaekq
+粣	tshSaekq		#粽也南齊虞悰作扁米粣
 䊂	tshSaekq
 㩍	tshSaekq
 #捒	tshSaekq
@@ -43723,8 +43723,8 @@ use_preset_vocabulary: true
 #糸	meekq
 #幺	meekq
 #䌐	meekq
-#冖	meekq
-冪	meekq
+#冖	meekq		#莫狄切#說文覆也从一下垂也或作冪羃
+#冪	meekq
 #羃	meekq
 #幎	meekq
 #鼏	meekq
@@ -43733,7 +43733,7 @@ use_preset_vocabulary: true
 #䈿	meekq
 #蓂	meekq
 #塓	meekq
-#汩	meekq
+#汨	meekq
 #漞	meekq
 #濗	meekq
 #䮭	meekq
