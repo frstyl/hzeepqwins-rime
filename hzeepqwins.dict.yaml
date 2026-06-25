@@ -1406,7 +1406,7 @@ import_tables:
 卟	kQ_eij_q	99
 卟	khQ_eij_A	99
 乩	kQ_eij_q		#卟
-體	Rsheij_A		#Rs R̥
+體	Rsheij_A		#Rs R̥ 豊聲
 䪆	Rsheij_A
 豊	leij_A
 禮	leij_A
@@ -7693,7 +7693,7 @@ import_tables:
 𥿇	sSioq
 疋	sSioA
 䝪	sSioA
-𥿇	khioA
+𥿇	khioA		#羌舉切
 疎	sSios		#疋
 疏	sSios		#疋
 䟽	sSios
@@ -7706,8 +7706,8 @@ import_tables:
 踈	sSioq
 踈	sSios
 捒	sSios
-所	sSioA		#戶聲? 処#肩
-㫹	sSios
+所	sq-RioA		#戶聲? 処#肩
+㫹	sq-Rios
 齭	tshSioA		#?創舉切 #齼𪙀
 猪	tRioq
 䐗	tRioq
@@ -7772,6 +7772,10 @@ import_tables:
 㫂	tJioks
 𤳐	tJioks
 ###Uo
+矩	kioA		#?io
+榘	kioA
+矩	kvioA
+榘	kvioA
 ##
 裯	dRuoq		#周
 𥃔	guoq		#樹種也
@@ -8070,8 +8074,6 @@ import_tables:
 蠼	gvioq
 鑺	gvioq
 鸜	gvioq
-矩	kvioA
-榘	kvioA
 禹	QvioA
 鄅	QvioA
 䨞	QvioA
@@ -8347,16 +8349,16 @@ import_tables:
 𡦗	nJuos		#孺
 擩	nJuos
 㹘	nJuos
-需	suoq
-鑐	suoq
-繻	suoq
-𪋯	suoq
+需	sn-uoq		#sn
+鑐	sn-uoq
+繻	sn-uoq
+𪋯	sn-uoq
 須	suoq
 蕦	suoq
 𢄼	suoq
 嬃	suoq
 𩓣	suoq
-䅡	suoA
+䅡	suoA		#須聲
 𦅨	suoA
 𦄼	suoA
 鬚	suoq
@@ -11016,7 +11018,7 @@ import_tables:
 呺	Hxavq
 鴞	qxavq		#号k-L-a-v#于嬌切
 𨚙	qxavq		#于嬌取 胡刀取
-囂	hCsxavq		#ŋ̥ Cs
+囂	hCsxavq		#ŋ̥ Cs?
 嚻	hCsxavq
 𠽸	hCsxavq
 虈	hCsxavq
@@ -11423,7 +11425,7 @@ import_tables:
 𣕽	Aoovs
 𥴴	kQ_oovq
 鉤	kQ_oovq
-句	kQ_oovq		#說文曲也又髙句驪遼東國名又句龍社神名亦姓史記有句疆又九遇古候二切
+句	kQ_oovq	2		#說文曲也又髙句驪遼東國名又句龍社神名亦姓史記有句疆又九遇古候二切
 𠛎	kQ_oovq
 𪓞	kQ_oovq
 𤫱	kQ_oovq
@@ -11431,7 +11433,7 @@ import_tables:
 枸	kQ_oovq
 軥	kQ_oovq
 够	kQ_oovq	999
-夠	kQ_oovq
+夠	kQ_oovq	2
 鴝	kQ_oovq
 苟	kQ_oovA
 玽	kQ_oovA
@@ -11451,7 +11453,7 @@ import_tables:
 句	kQ_oovs	2	#句當又姓華陽國志云王平句扶張翼廖化並爲大將軍時人曰前有王句後有張廖俗作勾
 𢂁	khQ_oovq
 够	khQ_oovq
-夠	khQ_oovq
+夠	khQ_oovq	2
 怐	khQ_oovs
 齁	Hoovq
 𤘽	HoovA
@@ -12344,8 +12346,8 @@ import_tables:
 蟗	tshiivq
 蠤	tshiivq
 ##iəv?
-舟	tJiuv_q
-𠣘	tJiuv_q
+舟	tJi;v_q
+𠣘	tJi;v_q	99		#舟聲?
 ##
 手	nsJiuv_A		#ns- u
 𠂿	nsJiuv_A
@@ -13902,7 +13904,7 @@ import_tables:
 㤴	thJjepq
 㳧	thJjepq
 𦛖	thJjepq
-苫	st-Jjemq		#占st-
+苫	st-Jjemq		#占st
 苫	st-Jjems
 煔	st-Jjems		#說文於湯中爚肉或作𤏝𤍙爓𦢨燖燂煔#
 𡝫	st-Jjemq
@@ -13915,8 +13917,8 @@ import_tables:
 㚲	thJjepq
 詀	thJjepq
 蛅	nJjemq
-痁	st-Jjemq
-枮	st-jemq		#息廉切 木名#?集韻 詩廉切木名
+痁	st-Jjemq		#失廉切 都念切
+枮	st-jemq		#息廉切 知林切 木名#?集韻 詩廉切 木名
 阽	JLjemq		#?L
 𢘁	sjemq		#憸
 𣠺	tshjepq
@@ -17544,7 +17546,7 @@ import_tables:
 擷	hgeitq
 襭	hgeitq
 𧀺	hgeitq
-浰	leins
+浰	leins		#郎甸切#水疾流皃 
 憐	leinq		#
 𪍴	leinq
 零	leinq	2
@@ -18585,7 +18587,7 @@ import_tables:
 𤣆	RRranq		#R#聮R-a-n
 #
 丳	tshSranA		#?串穿貫
-產	CsRranA		#彥C-a-n#Cs?
+產	CsRranA		#彥C-a-n#Cs?s-C?
 鏟	tshSranA		#剗#後起
 㦃	tshSranA
 䐮	tshSranA
@@ -24857,7 +24859,7 @@ import_tables:
 獜	leiCq
 令	leiCq	2	#令狐
 零	leiCq
-〇	leiCq
+〇	leiCq	999
 𩟃	leiCq
 䴇	leiCq
 蕶	leiCq
@@ -24899,7 +24901,7 @@ import_tables:
 呤	leiCq		#啨呤
 跉	leiCq
 狑	leiCq
-冷	leiCq		#魯頂切
+冷	leiCq	2
 怜	leiCq
 秢	leiCq
 岭	leiCq

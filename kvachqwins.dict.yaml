@@ -8922,7 +8922,7 @@ import_tables:
 韝	khoovq		#恪侯	#射韝臂捍也又古侯切
 𢂁	khoovq		#恪侯	#指𢂁
 滱	khoovq		#恪侯	#水名在北地又音寇
-夠	khoovq		#恪侯	#多也
+夠	khoovq	2	#恪侯	#多也
 䁱	khoovq		#恪侯	#目深瞘䁱
 齁	Hoovq		#呼侯	#齁䶎鼻息也呼侯切二
 𪅺	Hoovq		#呼侯	#𪅺鳥青色似䳕鳩也
@@ -8968,7 +8968,7 @@ import_tables:
 句	koovq	2	#古侯	#說文曲也又高句驪遼東國名又句龍社神名亦姓史記有句疆又九遇古候二切
 軥	koovq		#古侯	#車軥心木又夏后之輅曰軥也
 夠	koovq		#古侯	#多也
-鴝	koovq		#古侯	#鴝鵒鳥又音衢
+鴝	koovq	2	#古侯	#鴝鵒鳥又音衢
 兜	toovq		#當侯	#兜鍪首鎧也當侯切十
 侸	toovq		#當侯	#佔侸垂下皃佔丁兼切
 吺	toovq		#當侯	#輕出言也

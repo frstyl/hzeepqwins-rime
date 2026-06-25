@@ -170,7 +170,7 @@ speller:
     - derive/^([sz])[ptkmnCLRQq]-J/$1z/ #s-[] sc#
     - derive/^([sz])[ptkmnCLRQq]-R/$1s/ #sR
 
-    - derive/^([sz])[ptkmnCLRQq]-(?![JR])/$1/ #s-[] #z實不同?
+    - derive/^([sz])[ptkmnCLRQq]-(?![JR])/$1/ #s-[] #z實不同? #保留
     - derive/-//
     # - derive/.-// #(.+) #L-, s[ptk]-, ij-,  #分
 
@@ -180,9 +180,9 @@ speller:
     # - xform/^h([oVeYafiujyxwrWvəʌ])/H$1/
     #- xform/^h(?![gqszQ])/H/
     
-    # - derive/^([LR])(?![sz])/d/ #d[RJ]  ##以
-    - derive/^([LRn]sh)/th/  #保留?
-    - derive/^(C)(?=[JR])/n/  #保留
+    # - derive/^([LR])(?![sz])/d/ #d[RJ]  ##以#保留?
+    # - derive/^([LRn]sh)/th/  #保留?
+    # - derive/^(C)(?=[JR])/n/  #保留
 
     - derive/^[mnCLRqQ]([sz])J/$1z/ #[]s #Ls→hLs→LsJ,  L→LJ?→JL
     - derive/^[mnCLRqQ]([sz])R/$1s/ #Lsc LsS #不存在?不可分s-C Cs
@@ -455,14 +455,19 @@ speller:
     - derive/^([sz])s/$1/  #([sz])[ptkmnCLRQq]-R, [ptkmnCLRQq]([sz])R #s-?
 
     - derive/^sJ/e/ # 書二分 st #枮 䌳
-    - derive/^s[ptkq]-[JR]/e/
-
+    - derive/^s[ptkq]-[JR]?/e/  #sL ? sm?不顎 辥設勢? sLR毹?
     - derive/^[mnCQ]s[JR]/e/  #sm? LR獨立
 
     - derive/^sJ/o/ # 書二分 Rs Ls
-    - derive/^[LR]s[JR]/o/
-
-
+    - derive/^LsJ/o/  #暫定爲Ls 數爲sR
+    - derive/^Lsh[JR]?/o/  ##sL? Ls?
+    - derive/^RshR?/o/  #Rs
+# 00    s.    sR    sJ    hs    z    zR    zJ
+# sp    ??    yy    yy
+# sm    辥    ??    ??
+# ms    xx    ??    勢
+# Ls    xx    xx    yy
+# sL    yy    yy    xx
 
     - derive/^(zz)/i/
 

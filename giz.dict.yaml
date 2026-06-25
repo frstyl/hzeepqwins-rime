@@ -3207,7 +3207,6 @@ use_preset_vocabulary: true
 找	Efaq	99		#𢦚
 𰓂	EfaA
 𢦻	EfaA
-戤	Eo,js
 𣏾	kVaq
 ###皆
 皆	kaejq
@@ -6018,7 +6017,7 @@ use_preset_vocabulary: true
 ノ	no,jA
 ㄋ	no,jA
 ㄯ	no,jA
-弓	no,jA	1
+# 弓	no,jA	0
 𠂏	no,jA
 𠄕	no,jA
 𢎗	no,jA
@@ -6788,11 +6787,16 @@ use_preset_vocabulary: true
 𡩵	kaaq
 𥥒	kaaq
 ###巨
-岠	gioA
+𩰤	gioA		#說文 黒黍
+岠	gioA		#韻會 臼許切
 #
-𢀓	gioA
-𢀑	gioA
-㠪	gioA
+𭑌	kuoA
+𭑌	kuoA
+𭑌	kuoA
+𮀁	kuoA
+𢀓	kuoA
+𢀑	kuoA
+㠪	kuoA
 ###庫
 褲	khoos
 ###䀠
@@ -7979,6 +7983,8 @@ use_preset_vocabulary: true
 ###業
 𡁖	CIapq
 𨼙	CIapq
+𤎸	CIapq
+𤑽	CIapq
 ###曅𣋓
 晔	qxepq
 𣊚	qxepq
@@ -10285,7 +10291,11 @@ use_preset_vocabulary: true
 𱫡	nJjetq
 熱	nJjetq		#a?
 ###辥薛
+辥	sjatq
+𧃎	sjatq
 𦵮	sjatq
+𧀼	sjatq
+𲼗	sjatq
 𡶫	Cxetq
 蘖	Coatq
 㮆	Coatq
@@ -11338,6 +11348,9 @@ use_preset_vocabulary: true
 徳	to;kq
 𢕞	to;kq
 𫣜	to;kq
+𢤊	to;kq
+𨗌	to;kq
+𨗤	to;kq
 ###直
 𱚇	tsJjerq		#?
 𦌃	tRi;s
@@ -14926,8 +14939,6 @@ use_preset_vocabulary: true
 熗	tshiaCs
 𤇁	koarq
 𤇙	koarq
-#
-𤆈	nRo,jA		#喃
 ###炎
 # 炏	XXoamq
 燚	Jjekq
