@@ -5164,6 +5164,8 @@ use_preset_vocabulary: true
 𥕋	seevA
 痩	sSiuvs		#1		#叜叟
 捜	sSiuvq
+摉	sSiuvq
+𢱻	sSiuvq
 #叜
 𥔉	seevA
 䤇	siuvA		#1		#叜叟
@@ -6216,6 +6218,9 @@ use_preset_vocabulary: true
 𧠵	tshjis		#𧠥
 枾	dzSi;A		#柿
 ###索
+𥿟	soak
+𦃦	soak
+𢱢	sSrakq	99
 嗦	soaq
 ###絲
 鷥	si;q
@@ -6296,6 +6301,9 @@ use_preset_vocabulary: true
 𰎈	tsoovs
 𢽥	tsoovs
 𠭕	tsoovs
+###
+㔿	tsoovs
+𠂑	tsoovs		##㔿
 ###棘朿
 㭰	tsjeq
 𩎎	ka;kq
@@ -10778,13 +10786,14 @@ use_preset_vocabulary: true
 摁	Ao,ns
 ###壹-吉
 𡤵	Axis
+𡔹	Ajitq
 壱	Ajitq
 夁	Ajitq
 𡔾	Ajitq
 𡕄	Ajitq
 𡕋	Ajitq
 𡕌	Ajitq
-# 𡕍	Ajitq
+𡕍	Ajitq
 𡘵	Ajitq
 㚃	Ajitq
 𡔫	Ajitq
@@ -12318,6 +12327,7 @@ use_preset_vocabulary: true
 𢱫	koaCq		#2
 𢰌	koaCq
 ###卿𠨍鄉
+𠨍	khraCq
 𠨞	khraCq
 𡖖	khraCq
 𡖥	khraCq
@@ -14094,6 +14104,7 @@ use_preset_vocabulary: true
 ###三
 ###王
 ###玉
+琸	tRaok
 王	Ciokq	9		#2
 𤤇	ki;s		#1		#𤤋
 𤤋	ki;s
@@ -14854,7 +14865,6 @@ use_preset_vocabulary: true
 ###司
 ###卮
 ###卩卪
-𠂑	tsoovs		#1		#
 ##令
 𧫹	sjenq
 𧫹	tshjenq

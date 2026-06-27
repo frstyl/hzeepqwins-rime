@@ -11931,7 +11931,7 @@ import_tables:
 䈠	EVanA		#胡管	#𥮩䈠簡也
 短	tVanA		#都管	#促也不長也都管切四
 𢭃	tVanA		#都管	#上同
-斷	tVanA		#都管	#斷絕俗作𣂾断又徒管切
+斷	tVanA	2	#都管	#斷絕俗作𣂾断又徒管切
 𢷖	tVanA		#都管	#轉籰
 椀	AVanA		#烏管	#器物烏管切三
 盌	AVanA		#烏管	#上同
@@ -23266,8 +23266,8 @@ import_tables:
 丮	krakq		#几劇	#持也
 𢜭	krakq		#几劇	#勞也又其戟切
 𩯋	krakq		#几劇	#髭𩯋
-𡩡	sSrakq		#山戟	#求也山戟切又蘇各切六
-索	sSrakq		#山戟	#上同
+𡩡	sSrakq	99	#山戟	#求也山戟切又蘇各切六
+索	sSrakq	1	#山戟	#上同
 䞽	sSrakq		#山戟	#僵仆
 溹	sSrakq		#山戟	#水名又雨下皃
 䂹	sSrakq		#山戟	#碎石隕聲

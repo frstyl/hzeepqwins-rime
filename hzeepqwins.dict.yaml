@@ -1381,7 +1381,7 @@ import_tables:
 #
 𣤖	theejs		#軗?𣤢?
 𣤢	theejs		#小笑皃#毄聲 毄k-e-k
-𠨍	tseejA
+𠨍	tseejA		#子禮切 節卩
 夘	tseejA		#𠨍
 郋	Eeij_q		#自
 䎮	theeks
@@ -12358,7 +12358,7 @@ import_tables:
 岫	zL-iuks
 𥥉	zL-iuks
 牰	zL-iuks
-䅢	tsiuks
+䅢	tsiuks		#?胄L-u#集韻 直祐切
 ###iuv
 ##iur iuks iuts
 嘼	thRiuvks		#畜
@@ -12368,8 +12368,8 @@ import_tables:
 鏉	sSiuvks
 簉	tshSiuvks		#ks
 䔏	tshSiuvks
-㩅	thRiuv_q		#抽𢭆#Rs?
-㨨	thRiuv_q		#ks#Rs
+㩅	RshRiuv_q		#抽𢭆#Rs?丣
+㨨	RshRiuv_q		#ks#Rs
 籒	dRiuvks
 籀	dRiuvks
 𢭆	LshRiuv_q		#秀L-u
@@ -16164,7 +16164,7 @@ import_tables:
 緞	dVunA
 毈	dVuns
 椴	dVuns
-斷	tVunA		#𢇍
+斷	tVunA	2	#𢇍
 𢷖	tVunA
 斷	tVuns
 䠪	thVunA
@@ -23019,7 +23019,7 @@ import_tables:
 𩧐	loakq
 索	soakq		#素
 䌇	soakq
-𢱢	soakq
+𢱢	soakq		#摸𢱢
 溹	soakq
 𩌈	soakq
 𦵫	soakq
@@ -25549,8 +25549,8 @@ import_tables:
 咋	tsSraAk
 葃	dzSrakq
 愬	sSrakq		#山責切
-索	sSrakq
-𡩡	sSrakq
+索	sSrakq	1
+𡩡	sSrakq	999	#求
 溹	sSrakq
 矠	tshSrakq
 矠	dzSrakq
