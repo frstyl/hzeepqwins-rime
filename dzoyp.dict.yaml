@@ -20,14 +20,15 @@ use_preset_vocabulary: true
 ¬	pU;jq
 ×	zJi;Cq	999
 ÷	dRioq
-∈	dzJjokq quoq
-∉	p; tjiokq quoq
-⊆	Eo,mq quoq
-⊊	Eo,mq quoq
-⊈	p; Eo,m quoq
-∀	dzyenq	999
+∈	JjoCq quoq
+∉	piuq JjoCq quoq
+⊆	guos quoq
+⊊	guos quoq
+⊈	piuq guos quoq
+∀	buamq	999
 ∁	pooA	99
-∂	mU;jq pU;nq
+∂	mU;jq
+∂	doavs	999
 ∃	qiuvA	999
 ∄	muoq	999
 ∅	khouCq	999
@@ -55,12 +56,12 @@ use_preset_vocabulary: true
 ∞	muoq giuCq
 ∠	kaokq
 ∧	Jioh
-∨	EV;k
+∨	EV;kq
 ∧	tshiaA
 ∨	Ai;kq
 ∩	kaavq	999
 ∪	pjeCs	999
-∫	tsjekq
+∫	tsJjeCA
 ∫	tsjekq pU;nq
 ∬	tsjekq pU;nq
 ∭	tsjekq pU;nq
@@ -70,20 +71,20 @@ use_preset_vocabulary: true
 ∱	tsjekq pU;nq
 ∲	tsjekq pU;nq
 ∳	tsjekq pU;nq
-# =	to;CA
-≡	to;CA
-≣	to;CA
-≠	p; to;CA
+# =	kyinq
+≡	kyinq
+≣	kyinq
+≠	piuq kyinq
 ⊦	tVans
 ⊦	tsJi;Cs
 ⊧	mooq
 ⊨	tsJjinq
 ⊩	giaCq
 ⊩	paakq
-⊬	p; tsJi;Cs
-⊭	p; tsJjinq
-⊮	p; giaCq
-⊮	p; paakq
+⊬	piuq tsJi;Cs
+⊭	piuq tsJjinq
+⊮	piuq giaCq
+⊮	piuq paakq
 ⊲	tsJjeCs tsi;A
 ⊶	CUanq
 ⊷	ziaCA
@@ -102,7 +103,7 @@ use_preset_vocabulary: true
 ✗	tshSaaq	999
 ✘	tsShaaq	999
 # ❌	tsShaaq	999
-√	kho,jq puaC
+√	kho,jq pUaCq
 ¿	mU;ns	999
 ¡	kraCq	999
 々	dRioCq	999

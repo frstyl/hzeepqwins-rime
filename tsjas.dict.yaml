@@ -116,14 +116,14 @@ use_preset_vocabulary: true
 喃	no,mq
 㖕	sjinq
 ###
-輕鋰鈉鉀銣銫鈁	tsJuoA dzouk
-鈹鎂鈣鍶鋇镭	tsJuoA dzouk
-硼鋁鎵銦鉈鉨	tsJuoA dzouk
-碳硅鍺錫鉛鈇	tsJuoA dzouk
-氮磷砷銻鉍鏌	tsJuoA dzouk
-氧硫硒碲釙鉝	tsJuoA dzouk
-氟氯溴碘砹鿬	tsJuoA dzouk
-氦氖氬氪氙氡鿫	tsJuoA dzouk
+輕鋰鈉鉀銣銫鈁	tsJuoA dzoukq
+鈹鎂鈣鍶鋇镭	tsJuoA dzoukq
+硼鋁鎵銦鉈鉨	tsJuoA dzoukq
+碳硅鍺錫鉛鈇	tsJuoA dzoukq
+氮磷砷銻鉍鏌	tsJuoA dzoukq
+氧硫硒碲釙鉝	tsJuoA dzoukq
+氟氯溴碘砹鿬	tsJuoA dzoukq
+氦氖氬氪氙氡鿫	tsJuoA dzoukq
 鑭鈰鐠釹鉕釤銪釓鋱鏑鈥鉺銩鐿鑥	loanq Eeejs
 錒釷鏷鈾錼鈈鎇鋦錇鐦鎄鐨鍆鍩鐒	Aoaq Eeejs
 ##
@@ -275,7 +275,7 @@ use_preset_vocabulary: true
 ##
 氦	Ho,js		#He helium
 #########
-###借䛐
+###借䛐  勿空介
 鿱	paaq
 𪻕	kooA
 鿱𪻕	
@@ -317,20 +317,20 @@ use_preset_vocabulary: true
 𤠫𤢂	ljitq siokq
 猓玀	kVaA lVaA
 狇	mouk		#狇狫
-𤝂	mouk
+𤝂	moukq
 彁	koaq		#无意義
 錿	HooA
 𣬠𣬶	keejq paaq
 傈僳	ljitq siokq
 傈僳	leis sous		#lisu
-鿼鿻	kaaq pos
+鿼鿻	kaaq poos
 #######借䛐
 𬻀	booq soat		#菩薩
 # 𬻀	bodhisattva
-𢌽	neetq bVan
+𢌽	neetq bVanq
 # 𢌽	nirvana
-鿖	christ
-鿖	khrirq
+# 鿖	christ
+# 鿖	khrirq
 #######會意
 #####
 𱍚	piuvq toajq
@@ -472,9 +472,9 @@ use_preset_vocabulary: true
 𠍲	gioq
 們	mV;nq
 # 麼	m;q
-什麼	dzJjeA Eoat mU;t
+什麼	dzJjeA Eoat mU;tq
 什麼	Eoatq
-輩	mV;n
+輩	mV;nq
 瞞	mV;nq
 ###
 # 麼	mVaq
@@ -739,7 +739,7 @@ use_preset_vocabulary: true
 ###𣦼
 ###歺
 ###死𣦸
-𣩭	moot
+𣩭	mootq
 𣨀	lVans
 𣩭	dzRaajs		#五音集韵 皆佳夬 又音没亂
 𣨀	sRaajA
@@ -753,13 +753,13 @@ use_preset_vocabulary: true
 䏓	CUanq		#肉元 proton
 䏟	beitq
 脒	meejA
-肟	AVos
+肟	Aoos
 肼	tsjeCA
 腈	tsjeCq
 腙	tsooCq
 脎	sSaetq
 脎	soas
-脲	neevsk
+脲	neevs
 胍	kfaq
 胍	kaaq
 胺	Aoanq		#amine 同氨 不異讀
@@ -1178,7 +1178,7 @@ use_preset_vocabulary: true
 ###魚𤉯
 鮟	Aoanq
 鱇	khoaCq
-鮟鱇	Aoanq khoaC
+鮟鱇	Aoanq khoaCq
 ###𩺰
 ###燕㷼
 ###龍
@@ -1191,27 +1191,27 @@ use_preset_vocabulary: true
 ###𠃉乚
 ###不
 𱍚	piuvq toajq
-𱍛	piuvq Eo,p
+𱍛	piuvq Eo,pq
 𱍤	piuvq dzJjeA
-𱏤	piuvq kVaC
+𱏤	piuvq kVaCq
 𱰸	piuvq AU;js
-𱷣	piuvq ljip
+𱷣	piuvq ljipq
 𡀆	piuvq hi;A
-𰴪	piuvq CIan
-𰑼	piuvq Aoak
+𰴪	piuvq CIanq
+𰑼	piuvq Aoakq
 𰀚	piuvq tsJjeCs
 𭯒	piuvq moavq
 𭯈	piuvq moovA
-𫠫	piuvq CUan
-𫠬	piuvq tRiuC
-𫠲	piuvq khiok
+𫠫	piuvq CUanq
+𫠬	piuvq tRiuCq
+𫠲	piuvq khiokq
 𫠻	piuvq sjins
 𬦇	piuvq tsoovA
 𪜄	piuvq khoajA
-𧗩	piuvq EaaC
-𩖲	piuvq piuC
-𤯚	piuvq SaeC
-𣈇	piuvq miaC
+𧗩	piuvq EaaCq
+𩖲	piuvq piuCq
+𤯚	piuvq SaeCq
+𣈇	piuvq miaCq
 𡍂	piuvq dzVujs
 𠁞	piuvq EVujs
 𢆓	piuvq breCq
@@ -1220,7 +1220,7 @@ use_preset_vocabulary: true
 𠁒	piuvq tsJjinq
 𠀱	piuvq buoA
 甭	piuvq JioCs
-䬩	piuvq zJi;k
+䬩	piuvq zJi;kq
 歪	piuvq tsJjeCs
 奀	piuvq doar
 ###至
@@ -1229,7 +1229,7 @@ use_preset_vocabulary: true
 ###鹽
 ###戶
 ###門
-闖	dRaocs
+闖	dRaoCs
 闖	tshSiaCA		#撞
 闆	phaenA		#匹限切
 閪	Heejq

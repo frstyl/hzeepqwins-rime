@@ -394,9 +394,9 @@ import_tables:
 䜏	LshVujq
 嫷	LshVujA
 䲊	LshVujA
-墮	LshVujA
+墮	LshVujA	2		#倭墮鬌也又徒果切
 橢	LshVujA
-隋	LshVujA
+隋	LshVujA	2		#裂肉也又徒果切 #本意 不多用
 毻	LshVujs
 嫷	LshVujs
 𧝍	LshVujs
@@ -471,7 +471,7 @@ import_tables:
 𥟿	AVujq
 倭	AVujq
 𥟿	AVujA
-倭	AVujA
+倭	AVujA	2	#烏果	#倭墮又烏戈切
 摞	lVujq
 騾	lVujq
 螺	lVujq

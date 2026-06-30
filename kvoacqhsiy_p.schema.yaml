@@ -195,8 +195,9 @@ speller:
     - xform/^dzJ/dj/
     - xform/^tshJ/thj/
     - xform/^nJ/nj/
-    - xform/^sJ/sj/
+    - xform/^sJ/sj/  #書船
     - xform/^zJ/zj/
+    - xform/^(tsh?|dz|s|z)S/$1s/ #莊
 
 
 ####尾

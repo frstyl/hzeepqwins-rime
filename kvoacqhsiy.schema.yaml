@@ -188,7 +188,9 @@ speller:
 
     - xform/^J/j/
 
-    - xform/^(tsh?|dz|n|s|z)J/$1z/ #章
+    - xform/^(tsh?|dz|n|)J/$1z/ #章
+    # - derive/^([sz])J/$1z/ #書船
+    - xform/^(tsh?|dz|s|z)S/$1s/ #莊
 
 
 ####尾
