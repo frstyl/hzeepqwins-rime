@@ -79,17 +79,19 @@ speller:
     - xform/wo([qAs])/xov$1/ #
     - xform/yo([qAs])/jov$1/ #
     - xform/Wo([qAs])/rov$1/ #
-    - xform/uu([qAs])/rov$1/ #    孚幽
 
-    #- derive/oov([qAs])/ou$1/ #    侯
+    # - xform/uu([qAs])/rov$1/ #    孚幽
 
-    #- xform/([ir])uv([qAs])/$1u$2/ #  尤幽
+    - derive/oo(v[qAs])/ou$1/ #    侯
+    - derive/([ir])uv([qAs])/$1u$2/ #  尤幽
 
    # - derive/([eVY]e)j([qAs])/$1$2/ # 齊
-    #- derive/(o[;,])j([qAs])/$1$2/ # 咍  ##只餘-aej -iəj -ooj
+    #- derive/(o[;,])j([qAs])/$1$2/ # 咍  ##-j 只餘-aej -iəj -ooj
 
-    - xform/([ijyxw]i)([qAs])/$1j$2/ #  脂
-    - xform/([ijyxw]e)([qAs])/$1j$2/ # 支
+    - xform/([ijyxw]i)([qAs])/$1j$2/ #  脂-j
+    - xform/([ijyxw]e)([qAs])/$1j$2/ # 支-j
+
+    - derive/([oVv]a)([qAs])/$1j$2/ #歌-j
 ##聲-介韻 -j -n
 
    # - derive/([UywWu])i([ntr][qAs])/$1u$2/ #yu yi
@@ -101,11 +103,11 @@ speller:
   #  - derive/([Vv])a([jntr][qAs])/$1u$2/
  #   - derive/([Uu])a([nt][qAs])/$1o$2/ #    元
 
-    - derive/([Uu])u([jnt][qAs])/$1y$2/ #  文
-    - derive/([Iu])u([C]?[qAs])/$1y$2/ #  尤宮
+    # - derive/([Uu])u([jnt][qAs])/$1y$2/ #  文
+    # - derive/([Iu])u([C]?[qAs])/$1y$2/ #  尤宮
 
-    - derive/ra([Ck][qAs])/xe$1/  ##庚
-    - derive/Wa([Ck][qAs])/we$1/
+    # - xform/ra([Ck][qAs])/xe$1/  ##庚
+    # - xform/Wa([Ck][qAs])/we$1/
 
     #- derive/i([mp][qAs])/;$1/ #    陰
 
@@ -113,6 +115,7 @@ speller:
     # - xform/([ir])u([qAs])/$1uv$2/ #  尤幽
     - xform/([V])a([qAsntjr])/ou$2/
 
+    # - xform/(r)uv([qAs])/i;v$2/ #  尤幽
 ####
 ##尾
 
@@ -151,10 +154,8 @@ speller:
     - xform/^(hs|H)/x/
     - xform/^(hq|A)/h/
 
-  #  - derive/^(hz|E)/g/
-   # - derive/^(hz|E)/q/
-    - xform/^(hz|E)/u/
-    - derive/^(u)/g/
+    - derive/^(hz|E)/q/
+    - xform/^(hz|E)/g/
   
     - xform/^(sJ)/e/
     - xform/^(zJ)/i/
@@ -169,52 +170,70 @@ speller:
     - xform/^tsS?/w/
     - xform/^([sz])S?/$1/
 ##介元
-    - xform/^(.)[e]e/$1q/
-    - xform/^(.)([vY]e)/$1a/
+    - xform/^(.)[vY]e/$1q/
+    - xform/^(.)[e]e/$1a/
     
 
     - xform/^(.)[j]e/$1f/
     - xform/^(.)[y]e/$1r/
-    - xform/^(.)([x]e)/$1g/
-    - xform/^(.)([w]e|Wa)/$1t/
+    - xform/^(.)[x]e/$1g/
+    - xform/^(.)[w]e/$1t/
 
-    - derive/^(.)([x][;,])/$1m/
     
     - xform/^(.)[j]i/$1j/
-    - xform/^(.)([y]i)/$1u/
-    - xform/^(.)([x]i|[rx][;,])/$1h/
-    - xform/^(.)([w]i|W[;,])/$1y/
+    - xform/^(.)[y]i/$1u/
+    - xform/^(.)[x]i/$1h/
+    - xform/^(.)[w]i/$1y/
 
 
-    - xform/^(.)[iIj]a/$1d/
-    - xform/^(.)([uUy]a|xa)/$1x/
+    - xform/^(.)[iI]a/$1d/  #迦 嗟
+    - xform/^(.)[uU]a/$1x/
     - xform/^(.)[o]a/$1s/
-    - xform/^(.)([vV]a|xo)/$1z/
+    - xform/^(.)[vV]a/$1z/
     
 
     - xform/^(.)[iI][;,]/$1k/
-    - xform/^(.)([uU][;,])/$1m/
+    - xform/^(.)[uU][;,]/$1m/
     - xform/^(.)[o][;,]/$1l/
-    - xform/^(.)([vV][;,]|xu|ru)/$1p/  #幽
+    - xform/^(.)[vV][;,]/$1p/
 
 
-    - xform/^(.)[a]a/$1v/
-    - xform/^(.)(fa)/$1c/
+    - xform/^(.)aa/$1v/
+    - xform/^(.)fa/$1c/
     
     - xform/^(.)ae/$1b/
-    - xform/^(.)([f]e)/$1n/
+    - xform/^(.)fe/$1n/
 
 
     - xform/^(.)[iIj]o/$1e/
-    - xform/^(.)[o]u/$1w/
+    - xform/^(.)ou/$1w/
     
     - xform/^(.)[iI]u/$1i/
-    - xform/^(.)[o]o/$1o/
+    - xform/^(.)oo/$1o/
     
-    - xform/^(.)ao/$1j/
     
-   # - xform/^(.)[vV][;,]/o$1/  #vy
-   # - xform/^(.)u[;,]k/$1xo/  #vy
+
+
+    # - derive/^(.)xa/$1t/
+    # - derive/^(.)x[;,]/$1y/
+    - derive/^(.)xo/$1t/
+    - derive/^(.)xu/$1y/
+
+    - xform/^(.)xa/$1x/
+    - xform/^(.)x[;,]/$1m/
+    - xform/^(.)xo/$1z/
+    - xform/^(.)xu/$1p/
+
+    - xform/^(.)r[;,]/$1h/  #對稱
+    - xform/^(.)W[;,]/$1y/
+
+    - xform/^(.)ra/$1g/
+    - xform/^(.)Wa/$1t/
+    
+    - xform/^(.)ru/$1y/  #幽
+
+    - xform/^(.)ao/$1j/  #不對稱
+
 ##𥳑 首字母𥳑寫 保留
     - abbrev/^([a-z])..$/$1/ #𥳑
 ####轉寫  保留

@@ -7805,7 +7805,7 @@ import_tables:
 扶	pF_vioq	2	#公羊傳云扶寸而合注云側手曰扶案指曰寸
 麩	phF_vioq
 夫	bF_vioq
-扶	bF_vioq	#扶持也佐也漢三輔有扶風郡扶助也風化也魏爲岐州又扶州在隴右元魏置管同昌怡夷二縣又姓漢有廷尉扶嘉防無切二十六
+扶	bF_vioq			#扶持也佐也漢三輔有扶風郡扶助也風化也魏爲岐州又扶州在隴右元魏置管同昌怡夷二縣又姓漢有廷尉扶嘉防無切二十六
 芙	bF_vioq
 𢺻	bF_vioq
 蚨	bF_vioq
@@ -16457,7 +16457,7 @@ import_tables:
 奯	hQsVatq
 泧	hQsVatq		#a
 眓	hQsVatq		#ɢ v-?
-越	hQVatq	1
+越	hQVatq	2
 枂	CQ_Vatq
 羱	CQ_Vanq
 豲	hQVanq		#?C
@@ -23603,7 +23603,7 @@ import_tables:
 𪙮	dzSaakq
 齰	dzSaakq
 舴	tRaakq
-迮	tsSaakq
+迮	tsSaakq	2
 笮	tsSaakq
 舴	tsSaakq
 蚱	tsSaakq

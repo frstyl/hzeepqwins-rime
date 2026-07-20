@@ -871,8 +871,8 @@ use_preset_vocabulary: true
 #㳥	louCs
 #瀧	louCs
 㛞	louCs
-#卜	poukq
-阝	poukq
+卜	poukq
+𠁡	poukq
 𣱶	poukq
 #菐	poukq
 #濮	poukq
@@ -16367,21 +16367,21 @@ use_preset_vocabulary: true
 #𩦣	kfeq
 #蝸	kfeq
 #鞋	kfeq
-#咼	khfeq
+#咼	khfeq		#空媧切#說文口戾不正也或作喎𩰬
 #喎	khfeq
 #𩰬	khfeq
-#𦮃	khfeq
+#𦮃	khfeq		#不正也或作華𠇗竵
 #華	khfeq		#𦶎 與華同形
 #𠇗	khfeq
 #竵	khfeq
-#𦹬	khfeq
-#絓	khfeq
-𨵧	khfeq
+#𦹬	khfeq		#物不齊也
+#絓	khfeq		#博雅紬也
+𨵧	khfeq		#門不正開或作䦱
 #䦱	khfeq
 㛻	khfeq
 #跬	khfeq
 𧧊	Cfeq
-#鼃	Afeq
+#鼃	Afeq		#集韻 火鼃切
 #蛙	Afeq
 #洼	Afeq
 #窐	Afeq
@@ -16410,10 +16410,10 @@ use_preset_vocabulary: true
 #㡁	khfeA
 #恗	khfeA
 #跨	khfeA
-#𧡋	CfeA
-#崴	AfeA
-#扮	HfeA
-𡾨	EfeA		#戶買
+#𧡋	CfeA		#五買切
+#崴	AfeA		#烏乖切
+#扮	HfeA		#虎買切#亂也
+𡾨	EfeA		#戶買切
 #夥	EfeA
 䐱	tRfes
 #𢕮	tRfes
@@ -16803,22 +16803,22 @@ use_preset_vocabulary: true
 #𢶀	dzSfejq
 #蓑	sSfejq
 㲤	sSfejq
-#𦭅	kfejq
+#𦭅	kfejq		#公懷切#說文戾也睽也或作𦮃乖
 #𦮃	kfejq
 #乖	kfejq
 #𦫳	kfejq
 #𠦬	kfejq
 #㾩	kfejq
 #絓	kfejq
-#䓙	kfejq
+#䓙	kfejq		#公懷切#艸名
 䂷	kfejq
-#匯	khfejq
+#匯	khfejq		#枯懷切
 擓	khfejq
 #㨤	khfejq
 #㔞	khfejq
 #䈛	khfejq
 #䦱	khfejq
-#崴	Afejq
+#崴	Afejq		#烏乖切#崴㠢不平也一曰山形
 #碨	Afejq
 #磈	Afejq
 #壞	Afejq
@@ -36681,7 +36681,7 @@ use_preset_vocabulary: true
 #膼	tRfaq
 #髽	tsSfaq
 #檛	tsSfaq
-#瓜	kfaq
+#瓜	kfaq		#姑華切
 #抓	kfaq
 𧿼	kfaq
 踻	kfaq
@@ -36703,8 +36703,8 @@ use_preset_vocabulary: true
 𥄼	kfaq
 𠛒	kfaq
 #胍	kfaq
-#𠇗	kfaq
-#誇	khfaq
+#𠇗	kfaq		#𠇗邪離絶皃
+#誇	khfaq		#枯瓜切
 𧥢	khfaq
 #侉	khfaq
 #夸	khfaq
@@ -36719,7 +36719,7 @@ use_preset_vocabulary: true
 𥑹	khfaq
 #䯞	khfaq
 晇	khfaq
-#𠇗	khfaq
+#𠇗	khfaq		#枯瓜切#𠇗邪離絶之皃或作𦹬
 #𦹬	khfaq
 #𣢉	Cfaq
 𣢚	Cfaq

@@ -21933,7 +21933,7 @@ import_tables:
 活	EVatq		#戶括	#不死也又水流聲戶括切八
 𣽅	EVatq		#戶括	#水流聲
 䄆	EVatq		#戶括	#祠也
-越	EVatq		#戶括	#鄭玄云瑟下孔又云翦蒲爲席又音粵或作趏
+越	EVatq	2	#戶括	#鄭玄云瑟下孔又云翦蒲爲席又音粵或作趏
 鬠	EVatq		#戶括	#以組束髮
 佸	EVatq		#戶括	#佸會
 秳	EVatq		#戶括	#舂榖不潰也
@@ -23278,7 +23278,7 @@ import_tables:
 嚄	Efakq		#胡伯	#嚄嘖大喚胡伯切二
 𡄴	Efakq		#胡伯	#𡄴𡄴誇皃
 嘖	tsSaakq		#側伯	#側伯切八
-迮	tsSaakq		#側伯	#迫迮
+迮	tsSaakq	2	#側伯	#迫迮
 窄	tsSaakq		#側伯	#狹窄
 笮	tsSaakq		#側伯	#矢箙又屋上版又迫也又姓吳有笮融亦作筵
 㳻	tsSaakq		#側伯	#遮水
