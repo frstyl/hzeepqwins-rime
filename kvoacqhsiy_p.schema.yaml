@@ -193,11 +193,12 @@ speller:
     # - derive/^(tsh|ts|dz|n|s|z)J/$1j/ #章 ?
     - xform/^tsJ/tj/ #章
     - xform/^dzJ/dj/
-    - xform/^tshJ/thj/
+    - xform/^tshJ/thj/  #?thj? tjh
     - xform/^nJ/nj/
     - xform/^sJ/sj/  #書船
     - xform/^zJ/zj/
-    - xform/^(tsh?|dz|s|z)S/$1s/ #莊
+    - xform/^(tsh|ts|dz|s|z)S/$1s/ #莊 tshs? tssh?
+
 
 
 ####尾
@@ -271,9 +272,9 @@ translator:
   spelling_hints: 10
   enable_completion: false
   preedit_format:
-    - xform/(^|')e(?!('|$))/$1ɕ$2/
-    - xform/(^|')i(?!('|$))/$1ʑ$2/
-    - xform/(^|')a(?!('|$))/$1d͡z$2/
+    # - xform/(^|')e(?!('|$))/$1ɕ$2/
+    # - xform/(^|')u(?!('|$))/$1ʑ$2/
+    # - xform/(^|')a(?!('|$))/$1d͡z$2/
 
     - xform/(^|')f(?!('|$))/$1pʰ$2/
     - xform/(^|')v(?!('|$))/$1t͡sʰ$2/

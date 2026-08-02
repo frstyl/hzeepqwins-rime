@@ -158,7 +158,7 @@ speller:
     - xform/^(hz|E)/g/
   
     - xform/^(sJ)/e/
-    - xform/^(zJ)/i/
+    - xform/^(zJ)/u/
 
 
     - xform/^ph/f/

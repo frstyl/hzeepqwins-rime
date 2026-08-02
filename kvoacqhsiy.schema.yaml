@@ -181,6 +181,7 @@ speller:
     - xform/^(H)/hs/ #曉母
     - xform/^(C)/c/
     #- derive/^(C)/ng/ #疑母
+
     - xform/^tR/tt/ #知
     - xform/^dR/dd/ #
     - xform/^nR/nn/ #
@@ -188,9 +189,10 @@ speller:
 
     - xform/^J/j/
 
-    - xform/^(tsh?|dz|n|)J/$1z/ #章
-    # - derive/^([sz])J/$1z/ #書船
-    - xform/^(tsh?|dz|s|z)S/$1s/ #莊
+    - xform/^(ts|dz|n|s|z)J/$1z/ #章
+    - xform/^(tsh)J/tszh/ #昌
+    - xform/^(ts|dz|s|z)S/$1s/ #莊
+    - xform/^tshS/tssh/ #初
 
 
 ####尾
@@ -244,7 +246,7 @@ speller:
 
 
     - derive/^(sJ|sz)/e/
-    - derive/^(zJ|zz)/i/
+    - derive/^(zJ|zz)/u/
     - derive/^dz/a/
 
     - derive/^ph/f/ #溷拼須爲derive
@@ -270,7 +272,7 @@ translator:
   enable_completion: false
   preedit_format:
     - xform/(^|')e(?!('|$))/$1ɕ$2/
-    - xform/(^|')i(?!('|$))/$1ʑ$2/
+    - xform/(^|')u(?!('|$))/$1ʑ$2/
     - xform/(^|')a(?!('|$))/$1d͡z$2/
 
     - xform/(^|')r(?!('|$))/$1tʰ$2/

@@ -5147,7 +5147,7 @@ import_tables:
 𩢲	sSi;s
 駛	sSi;A		#使
 駛	sSi;s
-事	tsSi;s
+事	tsSi;s	2		#剚
 剚	tsSi;s
 倳	tsSi;s
 事	dzSi;s
@@ -14604,7 +14604,7 @@ import_tables:
 坫	tRximq		#占聲? 无合適聲符
 砧	tRximq		#碪
 枮	tRximq		#斫木櫍也
-讖	tshSxims		#?韱㦰
+讖	tshSxims		#?韱㦰  #砧
 襳	sSximq
 䋻	nRximq		#南𢆉n-
 ##xum?
@@ -16248,7 +16248,7 @@ import_tables:
 筦	kQ_VunA
 冠	kQ_Vuns
 梡	khQ_VunA
-完	EVunq
+完	EVunq		##V-?
 梡	EVunq
 莞	EVunq
 綄	EVunq
@@ -17152,7 +17152,7 @@ import_tables:
 萬	mF_Uans
 万	mF_Uans
 𥄎	mF_Uatq		#?𥄕
-曼	mF_Uans
+曼	mF_Uans	2
 㿸	mF_UanA
 蟃	mF_Uans
 鰻	mF_Uans
@@ -17972,7 +17972,7 @@ import_tables:
 偰	sq-eetq
 鍥	kQ_eetq
 𪃈	kQ_eetq
-契	khQ_eetq
+契	khQ_eetq	2		#契闊
 猰	khQ_eetq
 䫔	khQ_eetq
 鍥	khQ_eetq
@@ -19807,7 +19807,7 @@ import_tables:
 員	Qwenq		#圓
 圓	Qwenq
 ##
-院	Qwans		#訓垣寏 #寏集韻 胡官切 于眷切
+院	Qwans	1	#訓垣寏 #寏集韻 胡官切 于眷切
 寏	Qwans
 ##vRjon
 恮	tsSwonq
@@ -21988,7 +21988,6 @@ import_tables:
 㐹	CI;tq
 𤴸	CI;tq
 忾	HI;tq
-汽	HI;tq
 訖	kI;tq
 吃	kI;tq
 扢	kI;tq
@@ -25210,7 +25209,7 @@ import_tables:
 䚐	dzeekq
 𢞒	theekq
 𢞒	khQ_eekq
-喫	khQ_eekq		#契
+喫	khQ_eekq	2	#
 ###Veŋ
 ##Vek
 褧	khQ_YeCA
@@ -28501,14 +28500,12 @@ import_tables:
 㣫	tJioCA
 𢡹	dJioCA
 腫	tJioCA
-種	tJioCA
+種	tJioCA	2
 踵	tJioCA
 歱	tJioCA
 喠	tJioCA
-種	tJioCs
+種	tJioCs	2
 偅	tJioCs
-穜	tJioCA		#種
-穜	tJioCs		#種
 衝	thJioCq
 褈	thJioCq
 𠝤	thJioCq
@@ -28519,7 +28516,9 @@ import_tables:
 銿	tJioCq
 蹱	tJioCq
 橦	tJioCq
+穜	tJioCA		#種本字
 㼿	tJioCs
+穜	tJioCs		#
 憧	thJioCq
 𧘂	thJioCq
 罿	thJioCq

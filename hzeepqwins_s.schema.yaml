@@ -261,7 +261,7 @@ speller:
     # - derive/(e)(a|e|i|u|;)/$1/ #ee等 
 
     - abbrev/(?<!^)[Ij]([aeiou;,])/$1/ #三 省#1.6 vio
-    - abbrev/([^RSs])i([aeiou;,])/$1$2/ #
+    - abbrev/([^RS])i([aeiou;,])/$1$2/ #
     - abbrev/^(tsh?|dz|s|z)i([aeiou;,])/$1$2/ #精
 ##?
     - fuzz/(?<!^)[Ijrx](a|e|i|o|u|;|,)/i$1/ #i=jx
@@ -451,7 +451,7 @@ speller:
     - derive/^(ng|C)/c/
 
     - derive/^Q/q/
-    - derive/^Jq/u/
+    - derive/^Jq/i/
     - derive/^J/j/
 
     - derive/^([sz])s/$1/  #([sz])[ptkmnCLRQq]-R, [ptkmnCLRQq]([sz])R #s-?
@@ -472,7 +472,7 @@ speller:
 # Ls    xx    xx    yy
 # sL    yy    yy    xx
 
-    - derive/^(zz|zJ)/i/
+    - derive/^(zz|zJ)/u/
 
     - derive/^dz/a/
 
@@ -526,10 +526,10 @@ translator:
   enable_completion: true
   preedit_format:
     - xform/(^|')e(?!('|$))/$1ɕ$2/
-    - xform/(^|')i(?!('|$))/$1ʑ$2/
+    - xform/(^|')u(?!('|$))/$1ʑ$2/
     - xform/(^|')a(?!('|$))/$1d͡z$2/
     - xform/(^|')o(?!('|$))/$1l̥$2/
-    - xform/(^|')u(?!('|$))/$1ɬ$2/
+    - xform/(^|')i(?!('|$))/$1ɬ$2/
 
     - xform/(^|')r(?!('|$))/$1tʰ$2/
     - xform/(^|')f(?!('|$))/$1pʰ$2/

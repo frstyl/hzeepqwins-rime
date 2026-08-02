@@ -125,6 +125,9 @@ use_preset_vocabulary: true
 #####韻書 
 ####今
 ###䛐
+黭黮	
+黮黚	
+黮䵨	
 𣶱𣿪	
 𡯥尵	Hfejq doojq
 𧉇𫵒	Hfejq doojq
@@ -777,7 +780,7 @@ use_preset_vocabulary: true
 蕛苵	
 桔梗	
 㮮橰	
-契闊	
+契闊	kheetq khVatq
 屼𡿖	
 蠮螉	
 𧏽䗷	
@@ -1220,7 +1223,7 @@ use_preset_vocabulary: true
 雬	phiuvA		#𩂆
 䍒	biuvq		#罘
 𣏷	biuvq		#罘
-怀	phiuvs
+怀	phiuvs	0	#怫
 柸	phoojq
 #
 𦈧	poojq
@@ -1797,7 +1800,16 @@ use_preset_vocabulary: true
 汖	phjins
 ###賓
 賔	pjinq		#1		#賓
-𩯭	pjins
+賔	pjinq
+𡧼	pjinq
+𡪛	pjinq
+𡫅	pjinq
+𤍘	pjinq
+𥦎	pjinq
+𥧨	pjinq
+𧶉	pjinq
+𧶎	pjinq
+𩯭	pjins		#鬢
 𣩵	pjins
 𡼗	koavq
 濵	pjinq
@@ -1907,6 +1919,8 @@ use_preset_vocabulary: true
 𩙣	piuCq
 飌	piuCq
 ###布
+𢁙	poos
+𫷁	poos
 鿻	poos
 鈽	pooq
 ###步
@@ -2121,6 +2135,8 @@ use_preset_vocabulary: true
 𤣴	muaCA		#1		#王𡈼
 𧧮	HVaCq
 𧨆	HVaCq
+###相
+𥄢	siaCq
 ###喪
 𠷫	soaCq
 𠷔	soaCq	9
@@ -2208,6 +2224,15 @@ use_preset_vocabulary: true
 ###封𡉚
 㜂	pioCq
 篈	pioCq
+幇	poaCq		#幫	poaCq
+幚	poaCq
+縍	poaCq
+鞤	poaCq
+㨍	poaCq
+㿶	poaCq
+䩷	poaCq
+𢸌	poaCq
+𩋮	poaCq
 ###莫
 𦱤	moakq
 䒩	moakq
@@ -2403,6 +2428,10 @@ use_preset_vocabulary: true
 𢿜	mVans
 熳	mVans
 熳	maans
+澷	mVans
+㵘	mVans
+𣸞	mVans
+𢢔	maans
 ###班
 𢣑	bjenA
 癍	paanq
@@ -2776,6 +2805,8 @@ use_preset_vocabulary: true
 掰	dRfeA
 掰	paekq		#擘
 ###冥
+𣩆	meeCq
+𠕾	meeCq
 窅	meeCq
 窴	meeCq
 㝠	meeCq
@@ -3556,6 +3587,9 @@ use_preset_vocabulary: true
 嶳	djis
 𠏂	djis
 ###是
+寔	dzJjek		#溷入職 常隻切 常職切
+湜	dzJjek
+遈	dzJjek
 鶗	deejq
 䐎	deejq
 昰	dzJjeA
@@ -4178,6 +4212,7 @@ use_preset_vocabulary: true
 ##科
 嵙	khVaq
 ###气乞
+汽	HI;tq		#汔
 汽	khI;js
 虼	khi;js		#字彙補 音未詳
 乞	khi;js
@@ -8962,6 +8997,8 @@ use_preset_vocabulary: true
 ###疾
 𤻣	dzjitq		#疾
 𤕫	dzjitq
+###津𦘔
+𧗃	tsjinq
 ###秦
 𧤛	tsSxinA
 瑧	tsjinq
@@ -9649,6 +9686,7 @@ use_preset_vocabulary: true
 巏	kVans
 𠿅	HVans
 ###奐
+寏	qwens		#王眷	#垣院	#訓作院
 # 瘓	HVans		#?字彙補
 𠻍	HVans		#字彙補 喚
 ###萈寬
@@ -9682,6 +9720,7 @@ use_preset_vocabulary: true
 𤛉	Eaatq
 𩎲	Eaatq
 ##㓞契-t
+㓶	kheetq		#说文 鎌也
 𠛉	khaetq
 𡬨	kheejs
 𢍆	kheejs
@@ -10143,6 +10182,7 @@ use_preset_vocabulary: true
 貟	qU;nq
 貟	qU;ns
 ###爰
+𫕉	EVanq
 ###袁
 𤟗	qUanq
 𤝌	qUanq
@@ -10296,6 +10336,7 @@ use_preset_vocabulary: true
 𬿼	gxetq
 𭪪	gxetq
 ###舛
+㱛	tshJyenA
 ###吳
 蜈	keetq
 ##
@@ -10611,6 +10652,12 @@ use_preset_vocabulary: true
 ###𠦪
 𦱧	HU;tq		#𠦪
 ###𣊡㬎
+顕	HeenA
+㫫	HeenA
+䧮	HeenA
+𩔰	HeenA
+𩕃	HeenA
+#
 韅	HeenA
 #
 𤃁	sJjipq
@@ -10831,6 +10878,8 @@ use_preset_vocabulary: true
 蒽	Ao,nq
 摁	Ao,ns
 ###壹-吉
+𢢂	keetq		#結
+𥾫	keetq
 𡤵	Axis
 𡔹	Ajitq
 壱	Ajitq
@@ -11040,6 +11089,7 @@ use_preset_vocabulary: true
 ###胤
 𦙍	Jjins
 ###寅
+𤀋	JjenA
 𦦚	Jjinq
 𡓵	Jjinq
 𡩟	Jjinq
@@ -11416,7 +11466,7 @@ use_preset_vocabulary: true
 𧴴	tRi;s
 𥃭	dRi;kq
 值	dRi;s		#1		#直
-值	dRi;kq
+# 值	dRi;kq
 惪	to;kq		#1		#
 # 𢨀	dzJi;kq		#埴
 𢨀	dRi;kq		#埴
@@ -11631,7 +11681,6 @@ use_preset_vocabulary: true
 𦥀	tRxis
 𮍠	tRxis
 𮍡	tRxis
-膣	tRxitq
 # 𦤶	tRxis
 鵄	tshJjiq
 ##啻-
@@ -12832,6 +12881,7 @@ use_preset_vocabulary: true
 𭼃	Ci;q
 𭼅	Ci;q
 ###亥
+𣝗	Eaekq
 咳	kho;kq
 㐪	Eo,jA
 𠀅	Eo,jA
@@ -12941,7 +12991,13 @@ use_preset_vocabulary: true
 𥝍	Ciokq
 𰡮	Ciokq
 ###學
-斈	Eaokq
+覐	kaokq
+斍	kaokq
+𡕚	kaokq
+𧠭	kaokq
+𧠔	kaokq
+𧠷	kaokq
+斈	Eaokq		#學
 𡕕	Eaokq
 𢻯	Eaokq
 𣁃	Eaokq
@@ -14227,6 +14283,7 @@ use_preset_vocabulary: true
 ###吅
 ###哭
 ###走
+𧻬	tshuoq
 𧾜	poonq
 𧼂	poonq
 趡	dzjevs
@@ -14280,6 +14337,7 @@ use_preset_vocabulary: true
 ###十
 ###卅𠦄
 ###言
+𧪇	dzeejs		#字彙補在細切 音嚌 多也
 䜞	dzeejs
 䛋	Efas		#𧧐
 𧧐	syitq		#訹
@@ -14468,6 +14526,29 @@ use_preset_vocabulary: true
 ###冎
 ###骨
 ###肉
+𦜛 	kuoq
+𦝛	qU;js
+𦝴	Axims
+𦞨	kiucq
+膣	tRxitq
+𦟣	paemA
+䐴	koojs
+𦠫	noons
+𩪗	kUatq
+𦠑	kUatq
+𦠒	kUatq
+𦝶	noavA
+𦞄	noavA
+𦠤	noavA
+𦠊	noavA
+𦠺	koonA
+𦡆	khootq
+𦡅	tsJjeCq
+䑉	JjeCq
+𦣒	guoq
+𦣜	AUakq
+𦣓	doovs
+𤓏	Aoavq
 𣍥	kyitq		#姓 𦙮
 𦙮	kyitq
 𦛇	kYetq
@@ -14524,6 +14605,7 @@ use_preset_vocabulary: true
 ###豈
 ###豆
 ###豊
+豒	dRxitq
 ###豐
 ###䖒
 ###虍
@@ -14763,6 +14845,7 @@ use_preset_vocabulary: true
 ###宮
 ###呂
 ###穴
+𥦏	neeCq
 𥤶	phjis		#屁
 𥧔	phjis		#1
 𥥓	phjis
