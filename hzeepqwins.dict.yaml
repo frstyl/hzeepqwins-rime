@@ -15537,6 +15537,7 @@ import_tables:
 贛	kQ_oums
 𧆐	kQ_oums
 灨	kQ_oums
+𬔧	kQ_oums
 竷	khQ_oumA
 竷	khQ_oums
 𧗜	doums		#?
@@ -27363,7 +27364,7 @@ import_tables:
 𦂌	pouCA
 𥭗	bouCq
 髼	bouCq
-蜂	bouCq
+蜂	bouCq	2
 𧚋	bouCq
 韸	bouCq
 蓬	bouCq
@@ -27579,12 +27580,12 @@ import_tables:
 𩖛	bouCq
 𥫔	kQ_ouCs		#m
 𧹉	kQ_ouCs
-贛	kQ_ouCs		#竷𬔧贛k-o-m
+贛	kQ_ouCs		#竷𬔧贛k-o-m #賜也 貢獻也
 㔶	kQ_ouCs
 㯯	kQ_ouCs
 𧆐	kQ_ouCs
 𢦅	HouCA
-戇	HouCs		#呼貢切 降?
+戇	HouCs		#呼貢切
 䇨	kQ_ouCs		#夅
 洚	hgouCq
 䂫	hgouCq

@@ -1818,7 +1818,10 @@ use_preset_vocabulary: true
 㯽	pjinq
 𧢘	phjins
 𨷚	phjins
-𦿜	bjinq0
+𦿜	bjinq	0
+###頻
+𩔤	bjinq
+𩕘	bjinq
 ###閉
 𨳰	peejs
 𨳯	peejs
@@ -5728,6 +5731,8 @@ use_preset_vocabulary: true
 渞	sJiuvA
 艏	sJiuvA
 ##道
+𧗞	doavA
+𧗟	doavA
 𨗓	doavA
 噵	doavA
 𨕥	doavA
@@ -6646,6 +6651,7 @@ use_preset_vocabulary: true
 𠂠	Eooq
 𤓳	Eooq
 ###有-又
+𢇔	qiuvs
 峟	qiuvs
 迶	qiuvs
 𪠥	qiuvA
@@ -7555,15 +7561,16 @@ use_preset_vocabulary: true
 𧖾	kho,ms
 𧗐	kho,ms
 #
-贑	HouCs
-𧹄	HouCs
-𧹉	HouCs
-𧹉	HouCs
-𩐬	HouCs
-𩑅	HouCs
-𫎬	HouCs
-𰷝	ko,mA
-𢥨	HouCs
+𬔧	kouCs
+贑	kouCs
+𧹄	kouCs
+𧹉	kouCs
+𧹉	kouCs
+𩐬	kouCs
+𩑅	kouCs
+𫎬	kouCs
+𰷝	kouCs
+𢥨	tRaoCs		#戇
 ##點
 㸃	teemA
 奌	teemA
@@ -7671,6 +7678,7 @@ use_preset_vocabulary: true
 𣥩	dzJjepq
 𣶵	dzJjepq
 𰛌	dzJjepq
+㴇	dzJjepq
 ###聶
 ###耴
 𦔮	tRxepq
@@ -9152,6 +9160,11 @@ use_preset_vocabulary: true
 ###存-才? -ən
 𡥂	dzoonq
 𰌜	dzoonq
+𥩴	dzo;jA		#
+𡉠	dzo;jA
+扗	dzo;jA
+# 𡉄	dzo;jA
+𡉈	dzo;jA
 ###薦廌 -ən
 𩍽	tseenq
 韉	tseenq
@@ -11211,13 +11224,15 @@ use_preset_vocabulary: true
 𨱗	dRiaCq
 𨱘	dRiaCq
 𭀟	dRiaCq
+###竷
+𫁯	kho,mA
 ###章
-𬔧	tsJiaCq		#璋
+# 𬔧	tsJiaCq		#璋
 蟑	tsJiaCq
 嫜	tsJiaCq
 幛	tsJiaCs
 瞕	tsJiaCs
-𬔧	tsJiaCs
+# 𬔧	tsJiaCs
 ###唐
 醣	doaCq
 𪪒	doaCq
@@ -12122,7 +12137,27 @@ use_preset_vocabulary: true
 𣚜	souCq
 䙂	tsJioCq
 # 窓	tshSaoCq
-䙂	
+总	tsouCA	0
+揔	tsouCA	0
+搃	tsouCA	0
+摠	tsouCA	0
+稯	tsouCA	0
+総	tsouCA	0
+緫	tsouCA	0
+縂	tsouCA	0
+㹅	tsouCA	0
+䌼	tsouCA	0
+𠂳	tsouCA	0
+𢝰	tsouCA	0
+𢭇	tsouCA	0
+𢵃	tsouCA	0
+𤙹	tsouCA	0
+𥡥	tsouCA	0
+𥾜	tsouCA	0
+𦀙	tsouCA
+𩬼	tsouCA	0
+𩭤	tsouCA	0
+𩮀	tsouCA	0
 𢃧	tsJioCA
 𢃪	tsJioCA
 䘴	tsJioCA
@@ -12860,9 +12895,6 @@ use_preset_vocabulary: true
 ###降
 𨼇	liuCq
 𨼇	liuCq
-###竷
-𫁯	kho,mA
-𦦍	kouCs
 ###疑
 # 嶷	Ci;kq
 # 觺	Ci;kq
@@ -13315,6 +13347,7 @@ use_preset_vocabulary: true
 𢍯	Hi;Cq
 𦥷	Hi;Cq
 𫤭	Hi;Cq
+𠎢	Hi;Cq		#興
 ###頃
 𫤉	khyeCA
 𫤎	khyeCA
@@ -15368,6 +15401,8 @@ use_preset_vocabulary: true
 ###卵
 ###二
 ###土
+𦦍	nJjemq
+𫮩	nJjemq
 𡈿	tshJjimq		#㘰
 𡉜	tshJjimq
 ###垚
